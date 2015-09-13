@@ -1,4 +1,4 @@
 *.txt
-*.json
 *.csv
 *.pickle
+sample_topics.txt*
