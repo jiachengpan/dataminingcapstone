@@ -1,0 +1,86 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <div class='container'>
+    </div>
+
+    <script src="assets/jquery.js"></script>
+    <script src="assets/bootstrap.min.js"></script>
+    <script src="assets/d3.min.js" charset="utf-8"></script>
+    <script src="assets/highcharts.js" charset="utf-8"></script>
+
+<script>
+$(function () {
+  $.getJSON('./data/all_reviews_star_dist.json', function (ret) {
+    var data = {};
+    for (var star in ret) {
+      data[star] = [];
+
+      for (var d of Object.keys(ret[star]).sort()) {
+        d = d.split('-').map(function(v) {return parseInt(v, 10)});
+        data[star].push({x: new Date(d[0], d[1] - 1, d[2]), y: ret[star][d]});
+      }
+    }
+    console.log(data);
+
+    $('.container').highcharts({
+      chart: {
+        zoomType: 'x'
+      },
+      title: {
+        text: 'Review star over time'
+      },
+      xAxis: {
+        type: 'datetime'
+      },
+      yAxis: {
+        title: {
+          text: 'Review Count'
+        }
+      },
+      legend: {
+        enabled: true
+      },
+      plotOptions: {
+        line: {
+        }
+      },
+
+      series: [
+        {
+          type: 'line',
+          name: '1 star',
+          data: data['1']
+        },
+        {
+          type: 'line',
+          name: '2 star',
+          data: data['2']
+        },
+        {
+          type: 'line',
+          name: '3 star',
+          data: data['3']
+        },
+        {
+          type: 'line',
+          name: '4 star',
+          data: data['4']
+        },
+        {
+          type: 'line',
+          name: '5 star',
+          data: data['5']
+        }
+      ]
+    });
+  });
+});
+</script>
+
+
+    <link rel="stylesheet" href="assets/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap-theme.min.css">
+  </body>
+</html>
