@@ -39,6 +39,8 @@ Ten colours are used to distinguish the topics.
 
 Figure \ref{fig:all_topics} shows the result.
 
+The result is also shown in \href{http://jiacheng-pan.me/standalone/datamining_capstone/task1/all_reviews_topics.html}{this link}.
+
 \begin{figure}[htp!]
   \centering
   \subfigure[Topic 0] { \includegraphics[width=0.35\textwidth]{./img/all_reviews/topic0.png} }
@@ -71,6 +73,12 @@ In particular, this section introduces the observations made upon subsets of neg
 The topic model used is still LDA, with identical configurations as in task 1.1.
 
 Figures \ref{fig:neg_topics} and \ref{fig:pos_topics} show the result.
+
+The result is also shown in
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task1/pos_reviews_topics.html}{this link (positive views)}
+and 
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task1/neg_reviews_topics.html}{this link (negative views)}.
+
 \begin{figure}[htp!]
   \centering
   \subfigure[Topic 0] { \includegraphics[width=0.35\textwidth]{./img/neg_reviews/neg_topic0.png} }
@@ -121,6 +129,12 @@ Here I did some topic extraction upon reviews from different categories, and her
 
 Figure \ref{fig:sub_topics} shows a collection of all three categories, 2 topics sampled for each.
 
+The result is also shown in
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task1/auto_reviews_topics.html}{Automotive},
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task1/sea_reviews_topics.html}{Seafood Markets},
+and 
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task1/tour_reviews_topics.html}{Tours}.
+
 \begin{figure}[htp!]
   \centering
   \subfigure[Automotive Topic 0] { \includegraphics[width=0.35\textwidth]{./img/sub_reviews/auto_topic0.png} }
@@ -129,7 +143,7 @@ Figure \ref{fig:sub_topics} shows a collection of all three categories, 2 topics
   \subfigure[Seafood Market Topic 3] { \includegraphics[width=0.35\textwidth]{./img/sub_reviews/sea_topic3.png} }
   \subfigure[Tours Topic 0] { \includegraphics[width=0.35\textwidth]{./img/sub_reviews/tour_topic0.png} }
   \subfigure[Tours Topic 4] { \includegraphics[width=0.35\textwidth]{./img/sub_reviews/tour_topic.png} }
-  \caption{Ten topics mined from positive restaurant reviews}
+  \caption{Ten topics mined from reviews of categories ``Automotive'', ``Seafood Market'', and ``Tours''}
   \label{fig:sub_topics}
 \end{figure}
 
@@ -138,6 +152,24 @@ As is shown, although food is still the popular topic, there indeed are some div
   \item The food mentioned are different, of course. (BBQ for automotive, fish and shrimps for seafood, and olive oil for tours.)
   \item In particular, speciality of the restaurants are reflected in the reviews. Especially, in the automotive category, ``car wash'' and ``gas station'' are mentioned frequently. And it is understandable -- a restaurant that is relevant to automotives, is very likely to be a restaurant near a gas station, or some automotive service stations.
 \end{enumerate}
+
+\subsection{Exploration of the star distribution}
+As is mentioned in the observation of Task 1.1, the topics extracted shows that at least two of them indicate a general positive impression, while only one mentioned ``time'', which might potentially reflect some neutral or negative impression.
+
+So I then become curious about how the positions of all the reviews distribute -- do people tend to comment positively or evenly?
+
+I choose to observe star distribution to examine this topic.
+
+Figure \ref{fig:star_dist} shows how reviews of 1-5 stars distribute.
+
+\begin{figure}[htp!]
+  \centering
+  \includegraphics[width=0.8\textwidth]{./img/star_dist.png}
+  \caption{Ten topics mined from positive restaurant reviews}
+  \label{fig:star_dist}
+\end{figure}
+
+As is shown, the reviews are highly skewed, where positive reviews takes majority of all reviews.
 
 
 \end{document}

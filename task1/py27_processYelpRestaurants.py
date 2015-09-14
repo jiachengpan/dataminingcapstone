@@ -110,14 +110,27 @@ def main(save_sample, save_categories, save_mine=False):
     num_reviews = 0
 
     restaurant_reviews_star = {}
+    restaurant_reviews_star_by_time = {}
     all_cat2reviews = {}
+
 
     with open (path2reviews, 'r') as f:
         for line in f.readlines():
             review_json = json.loads(line)
             rid = review_json['business_id']
             rstar = review_json['stars']
+            #rdate = review_json['date'].split('-')
+            rdate = review_json['date']
+            #rdate = 'Date.UTC(%s,%s,%s)' % (rdate[0], rdate[1], rdate[2])
+            #rdate = rdate[:-3]
             if rid in restaurant_ids:
+                if rstar not in restaurant_reviews_star_by_time:
+                    restaurant_reviews_star_by_time[rstar] = {}
+
+                if rdate not in restaurant_reviews_star_by_time[rstar]:
+                    restaurant_reviews_star_by_time[rstar][rdate] = 0
+                restaurant_reviews_star_by_time[rstar][rdate] += 1
+
                 if rstar not in restaurant_reviews_star:
                     restaurant_reviews_star[rstar] = []
                 restaurant_reviews_star[rstar].append(review_json['text'].replace('\n', ' ').strip())
@@ -185,6 +198,10 @@ def main(save_sample, save_categories, save_mine=False):
 
         with open('all_cat2review_num.txt', 'w') as f:
             f.write('\n'.join(['%s\t%d' % (cat, num) for cat, num in all_cat2reviews.items()]))
+
+        with open('all_reviews_star_dist.json', 'w') as f:
+            json.dump(restaurant_reviews_star_by_time, f)
+
 
 
 
