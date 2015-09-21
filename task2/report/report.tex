@@ -19,6 +19,9 @@
 \maketitle
 
 \section{Abstract}
+In this task, I performed similarity analysis on the cuisines, using plain text VSM with TF-IDF, topic mining using LDA, and clustering methods such as KMeans and Agglomerative Clustering.
+
+All the scripts are available at \href{https://github.com/jiachengpan/dataminingcapstone}{this link}.
 
 \section{Implementations}
 \subsection{Task 2.1: Visualization of the Cuisine Map}
@@ -27,6 +30,7 @@ Essentially, for each category, I concatenated all its reviews, and computed the
 
 \vspace{1em}
 Figure \ref{fig:text_repr} shows the similarity matrix using a matrix diagram.
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/text_repr.html}{online version}
 
 The opacity level indicates how similar the categories are -- the darker the more similar.
 
@@ -52,8 +56,10 @@ In this sub-task, using the same database (cuisines of regions), and still using
 
 \vspace{1em}
 Figure \ref{fig:text_repr_tf_idf} shows the similarity using a matrix diagram.
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/text_repr_tf_idf.html}{online version}
 
 Figure \ref{fig:text_repr_tf_idf_cluster} shows the same matrix, while applying K-mean clustering method to cluster the cuisines into three clusters.
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/text_repr_tf_idf_cluster.html}{online version}
 
 The order of cuisines has been sorted by the closeness between each other.
 
@@ -91,8 +97,10 @@ The amount of topics I specified is 100.
 
 \vspace{1em}
 Figure \ref{fig:topic_tf_idf} shows the similarity using a matrix diagram.
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/topic_tf_idf.html}{online version}
 
 Figure \ref{fig:topic_tf_idf_cluster} shows same matrix, while clustered by KMeans.
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/topic_tf_idf_cluster.html}{online version}
 
 \begin{figure}[htp!]
   \centering
@@ -139,7 +147,10 @@ Therefore, it is easier to produce a more diversed similarity matrix, to show a 
 In this sub-task, I applied K-means method to do the clustering, based on the similarity matrix computed using LDA and TF-IDF modifiers.
 
 \vspace{1em}
-Figure \ref{fig:cluster_3}, \ref{fig:cluster_6}, and \ref{fig:cluster_9} show the result of clustering the matrix into three, six, and nine sized clusters
+Figure \ref{fig:cluster_3}, \ref{fig:cluster_6}, and \ref{fig:cluster_9} show the result of clustering the matrix into three, six, and nine sized clusters.
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/cluster_3.html}{online version (3 clusters)},
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/cluster_6.html}{online version (6 clusters)},
+\href{http://jiacheng-pan.me/standalone/datamining_capstone/task2/cluster_9.html}{online version (9 clusters)}.
 
 The coloured cells indicate that both of the cuisines are of the same cluster, and vise versa.
 
