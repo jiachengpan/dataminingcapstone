@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <style>
+      rect.bordered {
+        stroke: #E6E6E6;
+        stroke-width:2px;   
+      }
+
+      text.mono {
+        font-size: 9pt;
+        font-family: Consolas, courier;
+        text-shadow: 1px 1px #ffffff;
+        fill: #000000;
+      }
+
+      line.link {
+        stroke: #000000;
+      }
+
+      .background {
+          fill: #eee;
+      }
+      line {
+          stroke: #fff;
+      }
+      text.active {
+          fill: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div id='force'> </div>
+    <div class='container' id='matrix'> </div>
+
+    <link rel="stylesheet" href="assets/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap-theme.min.css">
+    <script src="assets/jquery.js"></script>
+    <script src="assets/bootstrap.min.js"></script>
+    <script src="assets/d3.min.js" charset="utf-8"></script>
+    <script src="assets/highcharts.js" charset="utf-8"></script>
+    <script src="assets/maps/modules/map.js" charset="utf-8"></script>
+    <script src="assets/maps/modules/data.js" charset="utf-8"></script>
+
+    <script src="js/task2.js" charset="utf-8"></script>
+    <script>
+      draw('./data/cluster_9.json', true);
+    </script>
+  </body>
+</html>
