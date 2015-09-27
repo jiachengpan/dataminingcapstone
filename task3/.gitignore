@@ -1,0 +1,8 @@
+results/
+java_mutual.tsv
+segphrase.result
+tmp.autolabel
+tmp.segphrase
+topics_docprobs
+topics_termprobs
+word2vec.size100.model
