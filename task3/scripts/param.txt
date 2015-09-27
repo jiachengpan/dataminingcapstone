@@ -1,0 +1,4 @@
+input  = categories;
+cluster = 4;
+it = 10;
+resultsFile = topics;

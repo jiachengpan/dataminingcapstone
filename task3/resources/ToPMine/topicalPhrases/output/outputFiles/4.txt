@@ -1,0 +1,7942 @@
+dim sum	589
+Chinese food	556
+fried rice	498
+Chinese restaurant	443
+egg rolls	389
+food was good	361
+pretty good	349
+orange chicken	301
+Panda Express	260
+Mongolian beef	250
+lunch specials	246
+love this place	220
+Las Vegas	217
+hot and sour soup	214
+spring rolls	198
+good food	192
+PF Changs	164
+highly recommend	161
+service was good	161
+great food	155
+pad thai	155
+crab puffs	153
+Pei Wei	145
+soy sauce	137
+happy hour	135
+wonton soup	134
+give it  stars	131
+Asian food	130
+egg drop soup	129
+food is great	128
+lettuce wraps	128
+great service	126
+pot stickers	123
+Chinese place	123
+noodle soup	121
+noodle dish	119
+sesame chicken	119
+ll be back	118
+staff is friendly	117
+Kung Pao Chicken	117
+Chinese buffet	114
+Asian restaurant	114
+sweet and sour chicken	113
+time I ordered	112
+great place	112
+chow mein	112
+service was great	112
+hot pot	111
+coming back	108
+white rice	105
+BBQ pork	100
+good service	100
+customer service	100
+quality of the food	100
+beef noodle soup	99
+beef and broccoli	99
+prices are reasonable	99
+years ago	98
+tasted good	95
+lo mein	94
+long time	93
+Hong Kong	93
+food is delicious	91
+favorite dish	91
+stir fry	90
+dishes we ordered	89
+place is great	88
+crab rangoon	87
+sweet and sour pork	87
+chicken fried rice	87
+ice cream	86
+reading the reviews	85
+authentic Chinese food	82
+recommend this place	82
+rice noodles	82
+late night	80
+pleasantly surprised	80
+good thing	80
+place is clean	80
+good Chinese food	79
+hole in the wall	79
+strip mall	79
+ordered  dishes	78
+menu items	77
+cooked perfectly	77
+won ton	76
+deep fried	76
+General Tso s chicken	76
+Thai food	76
+pork fried rice	75
+dim sum place	74
+pork belly	73
+wait  minutes	73
+fast food	73
+reasonable prices	72
+green beans	71
+lunch and dinner	71
+wait staff	70
+Peking duck	69
+green onion	69
+brown rice	69
+fortune cookies	69
+Kung Pao	68
+friend ordered	68
+good price	68
+ve eaten	68
+lemon chicken	68
+time I ve	68
+chow fun	68
+parking lot	67
+roast duck	65
+chicken feet	64
+items on the menu	64
+sweet and sour	63
+dipping sauce	62
+big fan	62
+iced tea	62
+egg foo young	62
+food was pretty good	62
+chicken wings	61
+dining experience	61
+dining room	60
+Pho Kim Long	60
+steamed rice	60
+service was friendly	59
+wasn t bad	59
+black bean	59
+food is amazing	58
+place to eat	58
+walnut shrimp	57
+teriyaki chicken	57
+sea bass	57
+good flavor	57
+order every time	57
+hit the spot	56
+give this place	56
+shrimp dumplings	56
+don t care	56
+Chino Bandido	56
+Chinese broccoli	56
+crab legs	56
+family style	55
+friendly staff	55
+portion size	55
+wait to go back	55
+bean sprouts	55
+service was excellent	55
+service was slow	55
+don t expect	54
+Americanized Chinese food	53
+pork chops	53
+ordered delivery	53
+authentic Chinese	53
+chili sauce	52
+beef chow fun	52
+Asian cuisine	52
+chicken dish	52
+Sushi Samba	52
+Thai restaurant	52
+piping hot	51
+food quality	51
+China Poblano	50
+food is fresh	50
+back next time	50
+ve been here a few times	50
+enjoyed the food	50
+prices are good	49
+drink order	49
+won t be back	49
+found this place	49
+lunch time	49
+sweet and sour sauce	48
+pretty decent	48
+fried chicken	48
+generous portions	48
+food tasted	47
+restaurant is clean	47
+fried wontons	47
+Chinese dishes	47
+credit card	47
+Chinese cuisine	47
+General Tso	47
+hit or miss	47
+honey walnut shrimp	46
+great prices	46
+won ton soup	46
+roast pork	46
+portions are generous	45
+shrimp fried rice	45
+don t eat	45
+main dishes	45
+tasted fresh	45
+time eating	44
+food is tasty	44
+large portions	44
+delicious food	44
+dining area	44
+place was packed	44
+good Chinese	44
+lunch menu	44
+sushi rolls	44
+Saturday night	44
+Sam Woo	44
+xiao long bao	44
+Chinese food place	44
+didn t taste	44
+fried shrimp	44
+write a review	43
+bok choy	43
+food was excellent	43
+black bean sauce	43
+amount of food	43
+decided to give	43
+spicy chicken	43
+ve found	42
+Mongolian BBQ	42
+flavor was good	42
+pretty standard	42
+huge portions	42
+didn t care	42
+salt and pepper	42
+lacked flavor	42
+large group	42
+pretty tasty	41
+pan fried noodles	41
+Hong Kong style	41
+place  stars	41
+food was decent	41
+staff was nice	41
+pork dumplings	41
+small portions	41
+huge fan	41
+shaved ice	41
+Fat Choy	41
+favorite Chinese restaurant	40
+quick service	40
+garlic sauce	40
+find a place	40
+portions are huge	40
+brown sauce	40
+food court	40
+salt and pepper shrimp	40
+San Francisco	39
+cashew chicken	39
+salt and pepper pork chops	39
+Noodle Asia	39
+hot tea	39
+check this place	39
+long wait	39
+taste buds	39
+Great Wall	39
+end of the meal	39
+place was busy	39
+couple of times	39
+sushi bar	39
+good selection	38
+tasting food	38
+wasn t good	38
+Ping Pang Pong	38
+Friday night	38
+star rating	38
+green tea	38
+bad service	38
+Yelp reviews	38
+chili oil	38
+General Chicken	38
+China Town	37
+pork buns	37
+bowl of pho	37
+beef noodle	37
+service is fast	37
+big deal	37
+Bay Area	37
+back home	37
+food served	37
+pan fried	37
+chicken and shrimp	37
+prices are great	37
+Jade Red Chicken	37
+bit pricey	36
+write home	36
+good sign	36
+perfectly cooked	36
+enjoyed my meal	36
+melt in your mouth	36
+Thai iced tea	36
+spare ribs	36
+friendly service	36
+chicken and broccoli	36
+fast service	36
+great deal	35
+Singapore noodles	35
+Vietnamese food	35
+clay pot	35
+curry chicken	35
+Spring Mountain	35
+wait for a table	35
+make you feel	35
+Big Wong	35
+food poisoning	35
+garlic chicken	35
+sticky rice	35
+string beans	35
+Thai tea	35
+bean curd	35
+food was average	35
+sauce on the side	35
+give this place  stars	34
+things on the menu	34
+soup dumplings	34
+hot sauce	34
+months ago	34
+taking orders	34
+lot of food	34
+dan dan noodles	34
+place is open	34
+good quality	34
+full of flavor	34
+side of town	34
+don t mind	33
+big portions	33
+short ribs	33
+Asian buffet	33
+minute wait	33
+order online	33
+cream cheese	33
+thing we ordered	33
+ordered the orange chicken	33
+house special	33
+place in Vegas	33
+vegetable fried rice	33
+prices are fair	33
+wait to be seated	32
+hard to find	32
+open late	32
+service is quick	32
+lunch today	32
+time I visit	32
+shrimp with lobster sauce	32
+chicken lo mein	32
+Chinese food I ve	32
+tasted great	32
+worth the wait	32
+steamed dumplings	32
+cheap prices	31
+great tasting	31
+China Mama	31
+portions are large	31
+decent price	31
+har gow	31
+good stuff	31
+jerk chicken	31
+ordered the Mongolian beef	31
+portions are small	31
+Excellent food	31
+weeks ago	31
+place is pretty	31
+beef roll	31
+food fast	31
+order the same thing	31
+portions are big	31
+Asian fusion	30
+don t understand	30
+chicken breast	30
+mapo tofu	30
+amazing food	30
+favorite place	30
+family dinner	30
+chicken lettuce wraps	30
+wasn t impressed	30
+real Chinese food	30
+fried tofu	30
+honey chicken	30
+small plates	30
+egg noodles	30
+favorite restaurant	30
+snow peas	30
+ve heard	30
+ordered  items	30
+vegetable dish	30
+fish tank	30
+great flavor	30
+dim sum restaurant	30
+speak English	30
+Save your money	29
+items we ordered	29
+siu mai	29
+house fried rice	29
+food was cold	29
+place is awesome	29
+high quality	29
+shrimp wonton	29
+super friendly	29
+friends and family	29
+peanut sauce	29
+bring the food	29
+find good	29
+red bean	29
+white meat	29
+craving Chinese food	29
+Chinese joint	29
+don t remember	29
+Vietnamese restaurant	28
+food is pretty	28
+low price	28
+thinly sliced	28
+pho place	28
+people eating	28
+great experience	28
+oyster sauce	28
+wonton noodle soup	28
+good portion	28
+soup noodles	28
+nicely decorated	28
+China Chili	28
+bad experience	28
+bowl of soup	28
+ll find	28
+high end	28
+looked good	28
+husband ordered	28
+made to order	27
+chicken chow mein	27
+pieces of chicken	27
+East Valley	27
+food was bland	27
+chicken rice	27
+fresh veggies	27
+prices are high	27
+top notch	27
+asked if we wanted	27
+fine dining	27
+dishes served	27
+good choice	27
+awesome food	27
+beef  chicken	27
+crab wontons	27
+great Chinese food	27
+comfort food	27
+mom and pop	27
+didn t feel	27
+compared to other places	27
+hot and sour	27
+east coast	27
+place   I love	27
+steamed buns	27
+reviews on Yelp	27
+chicken fried	27
+hidden gem	27
+isn t bad	27
+past  years	27
+eat at this place	27
+fresh food	26
+pretty quickly	26
+Cathay House	26
+call ahead	26
+chow mien	26
+restaurant is located	26
+wife ordered	26
+worth the price	26
+service was terrible	26
+nice place	26
+miso soup	26
+ve tasted	26
+call in your order	26
+surprisingly good	26
+decor is nice	26
+rice bowl	26
+wait  mins	26
+star place	26
+thing good	26
+ordered the beef	26
+lot of people	26
+Americanized Chinese	26
+spicy sauce	26
+service was bad	26
+gluten free	26
+food came out quickly	26
+star review	26
+spice level	26
+people working	26
+service was pretty good	26
+spicy dish	25
+black pepper	25
+house special chicken	25
+quick lunch	25
+time I m in Vegas	25
+fair price	25
+Joyful House	25
+service was horrible	25
+hot and fresh	25
+soy milk	25
+BBQ pork buns	25
+decent food	25
+crispy noodles	25
+restaurant I ve	25
+refill drinks	25
+Pan Asian	25
+egg flower soup	25
+good taste	25
+chicken curry	24
+soup base	24
+dim sum carts	24
+emerald chicken	24
+half an hour	24
+bit salty	24
+wait long	24
+chicken  spicy	24
+rice plates	24
+food was mediocre	24
+California roll	24
+high prices	24
+shu mai	24
+left overs	24
+Lunch Buffet	24
+hot and spicy	24
+eat here all the time	24
+decided to try this place	24
+decided to order	24
+fresh and tasty	24
+real deal	24
+absolutely delicious	24
+large party	24
+regular menu	24
+trip to Vegas	23
+family owned	23
+rated  stars	23
+previous reviews	23
+didn t bother	23
+food arrived	23
+appetizers and entrees	23
+kobe beef	23
+give it a shot	23
+place isn	23
+dinner time	23
+wasn t busy	23
+milk tea	23
+ordered takeout	23
+family and friends	23
+freshly made	23
+decent Chinese food	23
+good experience	23
+craving Chinese	23
+beef was tender	23
+Golden Buddha	23
+orange beef	23
+fried noodles	23
+Los Angeles	23
+wait time	23
+reviews for this place	23
+noodles with beef	22
+tofu dish	22
+spicy beef	22
+broccoli beef	22
+place is small	22
+food delivered	22
+crispy beef	22
+papaya salad	22
+Don t get me wrong	22
+ten minutes	22
+answer any questions	22
+meat and veggies	22
+make a reservation	22
+lunch hour	22
+server was attentive	22
+bring back	22
+jerk fried rice	22
+pick up my order	22
+typical Chinese restaurant	22
+Jade Palace	22
+excellent service	22
+days a week	22
+place in town	22
+food is awesome	22
+won t be disappointed	22
+order wrong	22
+food  good service	22
+good amount	22
+walk in the door	22
+language barrier	22
+horrible service	22
+lunch combo	22
+fried fish	22
+finished our meal	22
+damn good	22
+place close	22
+chicken  beef	22
+food isn	21
+minced pork	21
+chili peppers	21
+early dinner	21
+fish balls	21
+house chicken	21
+date night	21
+including drinks	21
+gave it  stars	21
+pretty busy	21
+didn t eat	21
+located inside	21
+meat was tender	21
+super nice	21
+order drinks	21
+service was decent	21
+tasty food	21
+food was ready	21
+fellow Yelpers	21
+pay attention	21
+lunch the next day	21
+minutes after ordering	21
+sit at the bar	21
+George   Son	21
+give them another chance	21
+shopping center	21
+Bottom line	21
+fresh fruit	21
+worth the drive	21
+food  good prices	21
+large selection	21
+service was prompt	21
+part of the meal	21
+water chestnuts	21
+condensed milk	21
+red curry	21
+type of food	21
+Chilean Sea Bass	21
+spicy tuna roll	21
+don t think I ll	21
+sliced beef	21
+close to home	21
+crispy chicken	21
+nice touch	21
+Orchids Garden	21
+made fresh	21
+rice cake	21
+vegetarian options	20
+ordered the Pad Thai	20
+west side	20
+drink refills	20
+home made	20
+dinner last night	20
+time I ll	20
+music playing	20
+good dim sum	20
+seaweed salad	20
+server was friendly	20
+hoisin sauce	20
+visit Vegas	20
+extra spicy	20
+speak Chinese	20
+waste of money	20
+answered the phone	20
+fast food Chinese	20
+recommend this restaurant	20
+favorite Chinese	20
+KJ Kitchen	20
+Great Bao	20
+spicy eggplant	20
+place for Chinese food	20
+sesame seeds	20
+serving size	20
+fish sauce	20
+great selection	20
+Caesar s Palace	20
+stop eating	20
+wouldn t recommend	20
+noodles and rice	20
+ready to order	20
+sesame balls	20
+authentic food	20
+dim sum menu	20
+service was attentive	20
+Chinese delivery	20
+order was ready	20
+great lunch specials	19
+ordered  entrees	19
+great find	19
+Chinese and Mexican	19
+favorite thing	19
+ended up eating	19
+chicken teriyaki	19
+banh mi	19
+money s worth	19
+busy time	19
+food is prepared	19
+wanted to eat	19
+bamboo shoots	19
+Chinese and Mexican food	19
+bad thing	19
+good variety	19
+curry sauce	19
+salt and pepper calamari	19
+shrimp balls	19
+place was empty	19
+beef ramen	19
+food is worth	19
+makes sense	19
+scallion pancakes	19
+white meat chicken	19
+server was nice	19
+Chicken  Orange	19
+gift card	19
+big group	19
+Tom Yum soup	19
+XO sauce	19
+late lunch	19
+highly recommend this place	19
+called back	19
+traditional Chinese	19
+Chinese fast food	19
+nice atmosphere	19
+Pollo Diablo	19
+affordable price	19
+multiple times	19
+Vegas trip	19
+group of people	19
+asked the waitress	19
+hand pulled noodles	19
+crispy duck	19
+beef stew	19
+pick up the food	19
+refill our water	19
+high expectations	19
+beef tendon	19
+Chinese people	19
+Peruvian corn	19
+ginger chicken	18
+grocery store	18
+ve been coming	18
+Chinese takeout	18
+Hue Thai	18
+Sunday night	18
+yellow curry	18
+good deal	18
+authentic Chinese restaurant	18
+typical Chinese	18
+prices are decent	18
+Chinese restaurant I ve	18
+fresh and delicious	18
+Phoenix area	18
+Chop Chop	18
+part of town	18
+time I go back	18
+China King	18
+meat dishes	18
+wrong order	18
+Chinese food is good	18
+chicken pieces	18
+food  great service	18
+chop suey	18
+star service	18
+jade chicken	18
+wasn t great	18
+received my food	18
+ma po tofu	18
+price point	18
+food at a great price	18
+egg roll  crab puff	18
+worst Chinese food	18
+la carte	18
+bad reviews	18
+online ordering	18
+noodle bowl	18
+coming here for years	18
+food Chinese	18
+green curry	18
+don t forget	18
+restaurant that serves	18
+HK Star	18
+mango pudding	18
+char siu	18
+poor service	18
+service and great food	18
+price range	18
+sui mai	18
+service and good food	18
+side note	18
+egg foo yung	18
+wanted to order	18
+dim sum items	18
+sizzling rice soup	18
+bell peppers	18
+satisfied my craving	18
+prices are cheap	18
+owners are very nice	17
+lot of flavor	17
+food was alright	17
+table and waited	17
+kung pao shrimp	17
+made reservations	17
+didn t expect	17
+sweet and sour shrimp	17
+sitting at a table	17
+Chinese food restaurant	17
+shrimp dish	17
+decided to check	17
+sat at the bar	17
+coconut milk	17
+prices are low	17
+restaurant in Las Vegas	17
+drink menu	17
+ordered the lunch special	17
+Phoenix Palace	17
+Beijing Noodle	17
+panang curry	17
+food is fantastic	17
+cooked pork	17
+bad meal	17
+chicken satay	17
+Noodle House	17
+carnitas taco	17
+BBQ duck	17
+Pong Pong	17
+mediocre food	17
+charge extra	17
+Mexican food	17
+couldn t eat	17
+sweet sauce	17
+good size	17
+shrimp  chicken	17
+Pho Tai	17
+grand opening	17
+wanted to like this place	17
+time I ate	17
+dish was spicy	17
+place will give	17
+great meal	17
+decent sized	17
+nice staff	17
+nice flavor	17
+pretty cheap	17
+fresh tasting	17
+service sucks	17
+left hungry	17
+Cantonese style	17
+thing I noticed	17
+pretty bad	17
+bad day	17
+egg fried rice	17
+picky eater	17
+sweet and spicy	17
+open till	16
+absolutely amazing	16
+shrimp and pork	16
+garlic shrimp	16
+pepper steak	16
+waiters and waitresses	16
+extensive menu	16
+place for Chinese	16
+dinner menu	16
+pad see ew	16
+Gold Coast	16
+super yummy	16
+chain restaurant	16
+service was fast and friendly	16
+dinner combo	16
+bland tasting	16
+ordered an appetizer	16
+wasn t expecting	16
+Tom Kha	16
+open  hours	16
+slow service	16
+menu is huge	16
+spicy tuna	16
+pork belly bao	16
+ordered the sesame chicken	16
+wouldn t order	16
+tender and flavorful	16
+orange peel	16
+personal favorite	16
+great variety	16
+visit this restaurant	16
+green onion pancake	16
+don t make	16
+inside the restaurant	16
+decided to eat	16
+sounded good	16
+live down the street	16
+chicken was tender	16
+good but it wasn	16
+rate this place	16
+super cheap	16
+couldn t finish	16
+fresh ingredients	16
+eat here every day	16
+chow mein noodles	16
+eat a lot	16
+food is consistently	16
+Veggie House	16
+absolutely love	16
+tables and chairs	16
+real Chinese	16
+asked the server	16
+times a year	16
+worth the money	16
+east side	16
+Mandalay Bay	16
+wide variety	16
+dinner specials	16
+steamed fish	16
+back the next day	16
+stay in business	16
+years I ve	15
+shrimp tempura	15
+didn t mind	15
+small pieces	15
+bit disappointed	15
+times for lunch	15
+udon noodles	15
+nice people	15
+flat noodles	15
+chicken was dry	15
+spicy noodles	15
+staff is great	15
+lived in Vegas	15
+boba drinks	15
+nice inside	15
+crispy skin	15
+steak and eggs	15
+crab meat	15
+negative reviews	15
+mixed vegetables	15
+fast food place	15
+Fat Choy Burger	15
+love Chinese food	15
+fish dishes	15
+don t feel	15
+price you pay	15
+husband loves	15
+small bowl	15
+Kung Fu	15
+rice  egg roll	15
+stopped in for lunch	15
+fried calamari	15
+lunch prices	15
+food was sub par	15
+prices are higher	15
+pork and shrimp	15
+menu offers	15
+hot mustard	15
+quick bite	15
+Tom Yum	15
+checked Yelp	15
+restaurant is open	15
+lady at the counter	15
+wonton noodle	15
+thing I didn	15
+ended up ordering	15
+big bowl	15
+steamed chicken	15
+mouth watering	15
+chicken and vegetables	15
+average food	15
+main courses	15
+head back	15
+worth a visit	15
+dining companion	15
+chocolate cake	15
+salt and pepper pork	15
+restaurants in the area	15
+shredded pork	15
+pretty darn good	15
+pieces of meat	15
+spend money	15
+ll give	14
+Buffet   Asia	14
+clean restaurant	14
+cream cheese wontons	14
+love love love	14
+easy to find	14
+love sushi	14
+good job	14
+smelled good	14
+worst part	14
+back room	14
+delivery guy	14
+pushing the carts	14
+restaurant in Vegas	14
+exceeded my expectations	14
+dishes  including	14
+chef s special	14
+restaurant is small	14
+wasn t spicy	14
+dish made	14
+happy hour menu	14
+ve experienced	14
+Mexican and Chinese	14
+China Grill	14
+poor quality	14
+Clever Koi	14
+taste bad	14
+special menu	14
+live close	14
+food is authentic	14
+ordered a large	14
+enjoyable experience	14
+ahead of time	14
+service isn	14
+Nee House	14
+walking distance	14
+salad bar	14
+nice and clean	14
+steaming hot	14
+brought our food	14
+green peppers	14
+Chinese restaurant in Vegas	14
+tasted pretty good	14
+lots of meat	14
+restaurants in town	14
+Minus one star	14
+almond cookies	14
+freshly prepared	14
+friendly and helpful	14
+staff was very attentive	14
+fried chicken wings	14
+combination fried rice	14
+glass of water	14
+full bar	14
+small place	14
+sauce was spicy	14
+sesame noodles	14
+pho broth	14
+opened the door	14
+conveniently located	14
+eat here at least once a week	14
+lo mein noodles	14
+cart ladies	14
+total bill	14
+steamed pork buns	14
+seated quickly	14
+looked at the menu	14
+waited about  minutes to be seated	14
+rice  chicken	14
+appetizers we ordered	14
+Chinese donut	14
+amazing service	14
+Noodle Shop	14
+huge selection	14
+ambiance is nice	14
+small restaurant	14
+finally found	14
+Mr  Chop Chop	14
+expect to pay	14
+don t give	14
+owner is very friendly	14
+staff members	14
+egg custard	14
+bring friends	14
+times a week	14
+wait in line	14
+dishes were tasty	14
+sooo good	14
+Chin Chin	14
+front door	14
+price is expensive	14
+eat dinner	14
+deserves  stars	14
+style Chinese food	14
+dim sum is good	14
+pretty cool	14
+dish   Chicken	14
+Roti Canai	14
+positive reviews	14
+sweet and sour soup	14
+high school	14
+place is nice	14
+tofu and mushroom	14
+vegetables and meats	14
+half the price	13
+salad dressing	13
+pepper beef	13
+order for pick	13
+enjoyed this dish	13
+solid  stars	13
+terrible service	13
+west valley	13
+Moo Goo Gai Pan	13
+boba tea	13
+place was recommended	13
+bowl of noodles	13
+worth the trip	13
+sushi is fresh	13
+Asian Kitchen	13
+soup bowl	13
+super fast	13
+al dente	13
+large chunks	13
+peanut butter	13
+cheap eats	13
+beef pho	13
+clean table	13
+Shanghai dumplings	13
+dark meat	13
+Thai House	13
+fresh vegetables	13
+ve been to this restaurant	13
+Chen   Wok	13
+Wor Wonton Soup	13
+napa cabbage	13
+Wendy s Noodle Cafe	13
+water refills	13
+quick food	13
+wait an hour	13
+filet mignon	13
+Dan Dan	13
+pretty big	13
+service was pretty	13
+crab ragoons	13
+personal preference	13
+shrimp pad thai	13
+food is cheap	13
+Eureka Casino	13
+fusion restaurant	13
+lady working	13
+based on the reviews	13
+side of rice	13
+seafood dishes	13
+snickerdoodle cookie	13
+Food Network	13
+great place to eat	13
+service was fine	13
+brought to the table	13
+lot of options	13
+rice  fried	13
+kids love	13
+Chinese Cultural Center	13
+nice kick	13
+beef curry	13
+family meal	13
+plum sauce	13
+pretty average	13
+doesn t taste	13
+table seating	13
+serve dim sum	13
+refried beans	13
+hard time	13
+lunch spot	13
+tender beef	13
+diet coke	13
+people at our table	13
+mango sticky rice	13
+bit more expensive	13
+shark fin	13
+saut ed	13
+chicken  sweet and sour	13
+pig ears	13
+good luck	13
+food is always hot and fresh	13
+lot of choices	13
+soft shell crab	13
+Szechuan Chicken	13
+read the menu	13
+North Phoenix	13
+lo mien	13
+pretty fast	13
+ordered the spicy	13
+tasted bland	13
+phone orders	13
+egg roll and fried rice	13
+place to find	13
+leftovers for the next day	13
+craving Asian food	13
+Avoid this place	13
+explain the menu	13
+numerous times	13
+arrived at  pm	13
+makes me happy	13
+Asian Mexican	12
+kind of place	12
+pork ribs	12
+waitress was very nice	12
+eat Chinese food	12
+fried dumplings	12
+perfect balance	12
+fresh and hot	12
+teriyaki sauce	12
+flavorful sauce	12
+scrambled eggs	12
+make the mistake	12
+due to the fact	12
+ingredients are fresh	12
+make a meal	12
+jasmine tea	12
+fried banana	12
+Mother s Day	12
+quality and service	12
+price tag	12
+shrimp  scallops	12
+Massaman Curry	12
+messed up my order	12
+small business	12
+dine in next time	12
+wash my hands	12
+fish fillet	12
+Ling and Louie	12
+menu is extensive	12
+huge bowl	12
+variety of food	12
+don t bother	12
+special chicken	12
+friend of mine	12
+Mu Shu	12
+dim sum all day	12
+recommendation of a friend	12
+Dan Dan Mian	12
+stinky tofu	12
+craving pho	12
+spoke English	12
+clean place	12
+duck bao	12
+close to my house	12
+atmosphere is nice	12
+money back	12
+visit this place	12
+ll return	12
+pretty empty	12
+happy hour prices	12
+cell phone	12
+spicy level	12
+close to my work	12
+Friday evening	12
+pretty bland	12
+Taiwanese food	12
+quality ingredients	12
+fast and friendly	12
+isn t the place	12
+fresh sushi	12
+friend recommended	12
+includes soup	12
+manager owner	12
+Vegas  This place	12
+saving grace	12
+steamed bbq pork buns	12
+dumpling soup	12
+lots of veggies	12
+casino floor	12
+service was amazing	12
+feel bad	12
+entire restaurant	12
+duck sauce	12
+beef brisket	12
+Sunday afternoon	12
+Japanese food	12
+bone marrow	12
+people watching	12
+local restaurant	12
+extremely disappointed	12
+prime rib	12
+Super Buffet	12
+chips and salsa	12
+serve food	12
+veggie egg rolls	12
+aren t bad	12
+made me feel	12
+back east	12
+order over the phone	12
+place a review	12
+hand roll	12
+favorite of mine	12
+Bamboo Club	12
+asked the waiter	12
+made the dish	12
+today for lunch	12
+dish   My favorite	12
+walnut prawns	12
+lamb with cumin	12
+family loves	12
+staff was friendly and attentive	12
+staying at the Palazzo	12
+didn t make	12
+drive home	12
+drunken noodles	12
+menu options	12
+Gold Coast Casino	12
+times a month	12
+families eating	12
+restaurants on the strip	12
+ground pork	12
+veggies were fresh	12
+Good food  good prices	12
+pieces of beef	12
+selection of food	12
+soooo good	12
+supposed to taste	12
+Szechuan Beef	12
+nice and crispy	12
+daily specials	12
+salt and pepper chicken wings	12
+price you can t beat	12
+made the mistake	12
+salty fish	12
+foie gras	12
+shrimp and vegetables	11
+sitting too long	11
+hot and sour soup was good	11
+front desk	11
+Thai Style	11
+soft noodles	11
+Thai and Chinese	11
+eat half	11
+Thursday night	11
+chicken salad	11
+great atmosphere	11
+give you free	11
+ordered the sweet and sour chicken	11
+good things about this place	11
+cup of soup	11
+http   www	11
+run restaurant	11
+Mongolian grill	11
+regular basis	11
+haven t found	11
+cold noodles	11
+food is overpriced	11
+Chinese restaurants in the area	11
+didn t have to wait long	11
+place to visit	11
+service was awesome	11
+Chinese food in the valley	11
+pay the bill	11
+ve lived	11
+nice change	11
+place for dim sum	11
+Korean food	11
+hour wait	11
+laid back	11
+delivered the food	11
+light sauce	11
+moo shu	11
+group of friends	11
+pretty good food	11
+food is outstanding	11
+don t skimp	11
+review is based	11
+bad attitude	11
+Asian Cafe Express	11
+Chinese BBQ	11
+frog legs	11
+ordered Kung Pao Chicken	11
+pho restaurant	11
+kind of bland	11
+dim sum in Vegas	11
+China Star	11
+didn t disappoint	11
+pork egg rolls	11
+totally worth	11
+hot and delicious	11
+pay extra	11
+health department	11
+ordered the combo	11
+fantastic food	11
+pretty small	11
+seated immediately	11
+years back	11
+smile on her face	11
+short rib grilled cheese	11
+vegetarian dishes	11
+pork chop rice	11
+General Tsao s chicken	11
+good Asian food	11
+excited to try this place	11
+great spot	11
+San Diego	11
+place doesn	11
+long line	11
+serving dish	11
+return visit	11
+crab angels	11
+Thai Basil	11
+bowl of rice	11
+service is lacking	11
+pot of tea	11
+Chinese style	11
+variety of dishes	11
+rice noodle dish	11
+red peppers	11
+Chinese food in Phoenix	11
+stars  I would give	11
+big mistake	11
+quick meal	11
+tax and tip	11
+phone number	11
+seating area	11
+Don t be fooled	11
+awesome service	11
+discovered this place	11
+absolute favorite	11
+side dishes	11
+chicken  kung pao	11
+great job	11
+family members	11
+Evil Jungle Princess	11
+salt air margarita	11
+ordered the hot and sour soup	11
+chicken and mushroom	11
+bit too sweet	11
+thai curry	11
+buffet line	11
+baby bok choy	11
+chefs cooking	11
+Saturday afternoon	11
+entire time	11
+cake noodle	11
+Delivery is fast	11
+awesome place	11
+sweet potato	11
+http   www yelp com biz	11
+lot of variety	11
+Guy Fieri	11
+things have changed	11
+won t be coming back	11
+make at home	11
+Vietnamese Pho	11
+Mu Shu Pork	11
+place rocks	11
+told us to order	11
+extra star	11
+BBQ pork fried rice	11
+tofu and veggies	11
+size portions	11
+moo shoo	11
+room temperature	11
+stumbled upon this place	11
+type of place	11
+free refills	11
+Spring Mountain Road	11
+grilled pork	11
+beef fried rice	11
+flavorful broth	10
+husband and wife	10
+quality and quantity	10
+boyfriend loves	10
+Siu Wok	10
+Asian inspired	10
+Service   stars	10
+family run	10
+Din Tai Fung	10
+freshly cooked	10
+place is decent	10
+duck salad	10
+hotel room	10
+curry dish	10
+Taco Bell	10
+good  Pretty	10
+cure a hangover	10
+Great food and service	10
+luke warm	10
+based on Yelp reviews	10
+items including	10
+spicy enough to make	10
+make a stop	10
+rice was dry	10
+Pigs Fly	10
+high rating	10
+egg and pork	10
+waste your time	10
+mile radius	10
+experience was great	10
+favorite item	10
+place to check	10
+rest of the menu	10
+sauce made	10
+salt and pepper squid	10
+combo fried rice	10
+drive back	10
+mini pot	10
+fried rice  chicken	10
+white people	10
+gluten free menu	10
+girl working	10
+bit greasy	10
+Sing High	10
+won t find	10
+service was a bit slow	10
+Chino Bandito	10
+onion rings	10
+restaurant I visit	10
+entrees we ordered	10
+wouldn t eat	10
+hole in the wall place	10
+main entrees	10
+water cups	10
+didn t realize	10
+day for lunch	10
+didn t understand	10
+ginger sauce	10
+rare to find	10
+eaten here several times	10
+bf ordered	10
+worst service	10
+scallops  shrimp	10
+lightly battered	10
+egg drop	10
+big chunks	10
+Japanese restaurant	10
+chinese restaurant that serves	10
+made to perfection	10
+place for pho	10
+veggie fried rice	10
+vegetarian vegan	10
+leftovers home	10
+busy night	10
+black pepper sauce	10
+fried rice  egg roll	10
+chile relleno	10
+peas and carrots	10
+reason for the  stars	10
+min wait	10
+run of the mill	10
+moved to Phoenix	10
+decent meal	10
+tables occupied	10
+place is dirty	10
+texture and flavor	10
+including tip	10
+signature dishes	10
+tiny bit	10
+table cloths	10
+thought it was pretty good	10
+light and crispy	10
+Planet Hollywood	10
+perfectly seasoned	10
+light and flavorful	10
+food was brought	10
+leave a tip	10
+dozen times	10
+time today	10
+large menu	10
+single dish	10
+large bowl	10
+coconut curry	10
+portions are smaller	10
+Great food  great service	10
+don t worry	10
+mushroom chicken	10
+house made	10
+flavorful and spicy	10
+fresh and flavorful	10
+arrival time	10
+Chop and Wok	10
+pu pu platter	10
+Tuesday night	10
+chicken pad thai	10
+menu online	10
+wide selection	10
+shrimp lo mein	10
+brought back	10
+Americanized version	10
+eggplant in garlic sauce	10
+dishes we enjoyed	10
+worth every penny	10
+tasty dishes	10
+black mushrooms	10
+Jose Andres	10
+traditional Chinese dishes	10
+kung pow	10
+sauces   dressings	10
+heat level	10
+pepper sauce	10
+full meal	10
+broth was flavorful	10
+meats and vegetables	10
+time waiting	10
+top of my list	10
+moved to the area	10
+plan on returning	10
+share dishes	10
+couple of years ago	10
+chicken was crispy	10
+ll eat	10
+doesn t matter	10
+Kung Pao Beef	10
+clearing tables	10
+large pieces	10
+Chinese spot	10
+minute drive	10
+combo plate	10
+Hainan Chicken	10
+worst restaurant	10
+wouldn t go back	10
+veggie spring rolls	10
+closing time	10
+garlic eggplant	10
+worth checking	10
+extra charge	10
+delivery order	10
+restaurant was empty	10
+prices are a bit high	10
+great lunch	10
+fried rice with shrimp	10
+hour and a half	10
+authentic Asian food	10
+fried egg	10
+gift certificate	10
+pretty expensive	10
+wonton chips	10
+wor won ton soup	10
+fairly quickly	10
+rave reviews	10
+ended up throwing	10
+past week	10
+live in the area	10
+Happy Family	10
+ginger and scallions	10
+overly sweet	10
+low mein	10
+visiting Las Vegas	10
+located close	10
+Sin City	10
+prepared to wait	10
+wine list	10
+lot to choose	10
+started eating	10
+reason I give them  stars	10
+Brazilian and Peruvian	10
+lunch crowd	10
+nice and helpful	10
+including tax	10
+update my review	10
+soup was delicious	10
+chili paste	10
+restaurant business	10
+super sweet	10
+couldn t taste	10
+horrible experience	10
+cucumber salad	10
+ve had in a long time	10
+high hopes	10
+rice porridge	10
+birthday dinner	10
+wife loves	10
+Shrimp Har Gow	10
+place is so popular	9
+decent dim sum	9
+lunch break	9
+asked for spicy	9
+spicy broth	9
+eat another bite	9
+spicy beef noodle soup	9
+soup  salad	9
+wide noodles	9
+Don t miss	9
+soup with wontons	9
+Spring Mtn	9
+food tastes good	9
+dishes are prepared	9
+meet friends	9
+ve had Chinese food	9
+cold day	9
+horrible customer service	9
+big party	9
+Chinese food in Vegas	9
+perfect amount	9
+large tables	9
+specialty drinks	9
+cheap Chinese food	9
+love the fact	9
+hate this place	9
+cancel the order	9
+french fries	9
+Malaysian food	9
+left full	9
+wasn t crowded	9
+work day	9
+tasty and fresh	9
+thought I would give	9
+real thing	9
+served hot	9
+red sauce	9
+found this place on Yelp	9
+couple of months	9
+met some friends	9
+waiter was very attentive	9
+moo shu pork	9
+attentive service	9
+nice selection	9
+dumplings and pork	9
+night of drinking	9
+neighborhood Chinese restaurant	9
+heard good things	9
+roasted pork belly	9
+salty side	9
+night of partying	9
+noodles and broth	9
+delivery charge	9
+roll  spicy tuna	9
+eating it   I don	9
+seafood hot pot	9
+yang chow fried rice	9
+prices are a bit	9
+crispy fried	9
+veggies and meat	9
+quick delivery	9
+didn t taste fresh	9
+Long Wongs	9
+casual dining	9
+Chinese and Japanese	9
+times in the past	9
+waitress told	9
+fish tacos	9
+treat customers	9
+told the waiter	9
+Good food  good service	9
+won t be returning	9
+people are friendly	9
+water boiled fish	9
+Asian Bistro	9
+didn t matter	9
+coconut shrimp	9
+food is consistently good	9
+people waiting	9
+Cafe Noodle	9
+service improves	9
+seafood soup	9
+sesame oil	9
+decent selection	9
+casino restaurant	9
+debit card	9
+Krazy Buffet	9
+beef tenderloin	9
+wonderful food	9
+broth soup	9
+chicken and cashew	9
+line out the door	9
+sat at a table	9
+pulled noodles	9
+Monte Carlo	9
+left feeling	9
+step foot	9
+chicken bone	9
+bit bland	9
+food truck	9
+food allergies	9
+Monday night	9
+Chinese food  I love	9
+pho I ve	9
+blow your mind	9
+fit the bill	9
+wouldn t mind	9
+amount of spice	9
+dirty dishes	9
+huge menu	9
+didn t notice	9
+takeout place	9
+lunch portion	9
+Dragon Wok	9
+drinks filled	9
+cheap buffet	9
+find a decent	9
+isn t that great	9
+imitation crab	9
+running the place	9
+interior design	9
+restaurant for Chinese	9
+Pan Asia	9
+chicken skewers	9
+place on Yelp	9
+green bell peppers	9
+meat eaters	9
+super greasy	9
+almond chicken	9
+make a difference	9
+good and cheap	9
+reviewers have mentioned	9
+forgot to mention	9
+vegan vegetarian	9
+st time	9
+clear broth	9
+menu   The only thing	9
+sweet and savory	9
+timely manner	9
+egg rolls and spring rolls	9
+gotta love	9
+Great food  great	9
+Asian style	9
+agree with the other reviewers	9
+Lots of parking	9
+ve never had a problem	9
+wasn t hungry	9
+Vegas night	9
+fish cakes	9
+egg tarts	9
+beef stew noodle	9
+walked in we were greeted	9
+curry flavor	9
+staff is friendly and helpful	9
+Yummy Yummy	9
+turnip cake	9
+loyal customers	9
+food selection	9
+spicy sweet	9
+kids meal	9
+moved to Las Vegas	9
+haven t been back	9
+Weekday Lunch Buffet	9
+American Chinese restaurants	9
+flat rice noodles	9
+dim sum I ve	9
+order correct	9
+restaurant was packed	9
+time of day	9
+China Tango	9
+crunchy noodles	9
+pm closing	9
+fried shrimp wontons	9
+decent place	9
+roast duck and roast pork	9
+service was fantastic	9
+people don	9
+entering the restaurant	9
+water and tea	9
+Sunday morning	9
+ambiance is great	9
+huge chunks	9
+favorite places to eat	9
+takeout or delivery	9
+smaller portions	9
+chef making	9
+bento box	9
+heard about this place	9
+dinner or lunch	9
+ordered my usual	9
+lunch specials are great	9
+takeout order	9
+meat was cooked	9
+night dinner	9
+low quality	9
+drinking water	9
+bun bo hue	9
+felt bad	9
+beat the price	9
+mushrooms  tofu	9
+experience was good	9
+open kitchen	9
+happy hour specials	9
+pineapple bun	9
+black pepper chicken	9
+attentive and friendly	9
+Asian lady	9
+bland food	9
+chop sticks	9
+bring cash	9
+place is kind	9
+drink included	9
+checked on my table	9
+served a small	9
+steam table	9
+paper towels	9
+price is average	9
+Shiu Mai	9
+restaurant decor	9
+decided to give this place	9
+friendly and attentive	9
+dish  The noodles	9
+hour for lunch	9
+seated promptly	9
+service was outstanding	9
+great portions	9
+Pick Up Stix	9
+tofu and vegetables	9
+San Jose	9
+enoki mushrooms	9
+Don t waste your time	9
+ordered the beef and broccoli	9
+send it back	9
+recent visit	9
+cold food	9
+menu looked	9
+stay away from this place	9
+food and service are great	9
+Harbor Palace	9
+sweet potato fries	8
+greeted at the door	8
+Vegas and staying	8
+single time	8
+friend told	8
+pineapple fried rice	8
+Central Phoenix	8
+bit chewy	8
+orange peel chicken	8
+queso fundido	8
+good and consistent	8
+hard working	8
+honestly don	8
+place I have found	8
+cheap food	8
+entire life	8
+worth the extra	8
+place was crowded	8
+Golden Gate	8
+York style Chinese food	8
+meal including	8
+great customer service	8
+delivery is quick	8
+portions are good	8
+food is wonderful	8
+favorite dim sum	8
+busy place	8
+cooked fresh	8
+small side	8
+Singapore rice noodles	8
+Szechwan Palace	8
+quality of food and service	8
+noodle soup  beef	8
+dishes to share	8
+service was wonderful	8
+couldn t find	8
+rice was cooked	8
+steamed pork	8
+breakfast buffet	8
+honey walnut	8
+specialty rolls	8
+place is run	8
+taste and texture	8
+white sauce	8
+employees are friendly	8
+fun to watch	8
+tables of people	8
+vegetables and tofu	8
+pretty darn	8
+share between  people	8
+fast delivery	8
+feeling sick	8
+closer to home	8
+pm pm	8
+lettuce cups	8
+closest thing	8
+couple weeks ago	8
+super delicious	8
+salted fish	8
+service was impeccable	8
+Korean restaurants	8
+duck noodle soup	8
+flavors and textures	8
+split the bill	8
+bang for your buck	8
+isn t a big	8
+located in a strip mall	8
+time  It was really busy	8
+running errands	8
+buffet items	8
+quality is good	8
+larger portion	8
+prices are pretty good	8
+ethnic food	8
+sign on the door	8
+crab cakes	8
+important thing	8
+live  miles	8
+boyfriend ordered	8
+mei fun	8
+steamed veggies	8
+thing I ate	8
+Spicy Korean	8
+ve been here a couple	8
+portion for the price	8
+taking care	8
+grilled cheese	8
+ll make	8
+star of the show	8
+lazy susan	8
+full menu	8
+spicy hot	8
+horrible food	8
+Chinese sausage	8
+lunch specials are cheap	8
+rare steak	8
+picky when it comes to Chinese food	8
+open mind	8
+sushi joint	8
+fast Chinese food	8
+fresh fish	8
+Yi Mei	8
+lunch deal	8
+sauce on top	8
+free egg rolls	8
+shrimp cocktail	8
+pretty damn good	8
+burrito or quesadilla	8
+super fresh	8
+neighborhood place	8
+crispy wonton	8
+gave us free	8
+haven t been disappointed	8
+priced for the quality	8
+consistently good	8
+ramen noodles	8
+reading the Yelp reviews	8
+items to choose	8
+super tasty	8
+Shanghai style	8
+hot dog	8
+popcorn chicken	8
+price and portion	8
+duck meat	8
+meet our expectations	8
+side salad	8
+fried rice and chow mein	8
+special occasion	8
+white or brown rice	8
+wasn t a fan	8
+Asian market	8
+food Asian	8
+ordered the General Tso s Chicken	8
+dishes  Chinese	8
+hot oil	8
+adults and  kids	8
+pieces of pork	8
+tuna tataki	8
+Chinese food I have ever eaten	8
+vegetables were fresh	8
+server brought	8
+sit and wait	8
+ready in  minutes	8
+veggies and tofu	8
+gave it a shot	8
+ordered delivery from them a few times	8
+wait staff was friendly	8
+vegetable lo mein	8
+ve eaten here a few times	8
+recently opened	8
+make it spicy	8
+dining options	8
+super clean	8
+make the trip	8
+sauce mixed	8
+SF Bay Area	8
+started coming	8
+lunch last week	8
+love Pei Wei	8
+lady was very nice	8
+thick noodles	8
+waiter was nice	8
+fried ice cream	8
+store bought	8
+good Chinese place	8
+beautifully decorated	8
+spicy flavor	8
+place is my favorite	8
+repeat customer	8
+ll be coming back	8
+bitter melon	8
+back to the hotel	8
+didn t bring	8
+pretty good deal	8
+bachelorette party	8
+chicken was moist	8
+surf and turf	8
+tables were clean	8
+ended up taking	8
+quality meat	8
+prices are comparable	8
+slightly spicy	8
+place is legit	8
+pork intestine	8
+house lo mein	8
+Korean BBQ	8
+chicken was breaded	8
+won t regret	8
+give this place a chance	8
+large variety	8
+simply delicious	8
+number of times	8
+tasted weird	8
+middle of the desert	8
+good idea	8
+dim sum place in Vegas	8
+sauce was light	8
+found a hair	8
+decent amount	8
+yum yum	8
+people complain	8
+stay open	8
+friendly waitress	8
+sense of humor	8
+HK style	8
+attentive staff	8
+authentic Cantonese	8
+drive from the strip	8
+cup of tea	8
+favorite spots	8
+bit of a wait	8
+black sesame	8
+original location	8
+pork lo mein	8
+lobster tail	8
+spicy mustard	8
+wait forever	8
+recent trip	8
+simple dish	8
+pm on a Saturday	8
+finally gave	8
+gai lan	8
+area of the restaurant	8
+night in Vegas	8
+enjoyed our dinner	8
+ve had dim sum	8
+seasoned rice	8
+couple days	8
+offer samples	8
+bowl of ramen	8
+house special fried rice	8
+good  I was surprised	8
+sushi chef	8
+packed with flavor	8
+clearing plates	8
+almond pudding	8
+speak to the manager	8
+BBQ meats	8
+egg whites	8
+extremely rude	8
+ended up paying	8
+order extra	8
+understand English	8
+Asian Island	8
+noodles were cooked	8
+buffet in Vegas	8
+dinner tonight	8
+delivery driver	8
+flavorful and fresh	8
+menu choices	8
+plenty of parking	8
+slightly sweet	8
+work hard	8
+light and fluffy	8
+Vietnamese sandwiches	8
+Chinese good	8
+delivery time	8
+doors open	8
+seat at the bar	8
+menu lists	8
+sitting there for hours	8
+salty for my taste	8
+delivery fee	8
+pork wontons	8
+plenty of leftovers	8
+sushi selection	8
+shrimp rice noodle	8
+NY style	8
+soup  hot	8
+drink tea	8
+red jade chicken	8
+didn t finish	8
+happy to have found	8
+bursting with flavor	7
+love coming	7
+fish head	7
+Dragon Noodle	7
+search for good	7
+Mr  Hunan	7
+tasted similar	7
+online menu	7
+front of the restaurant	7
+noodles with seafood	7
+half the size	7
+server told	7
+lack of service	7
+Great service  great food	7
+delicious and fresh	7
+decided I wanted	7
+asked for the check	7
+higher rating	7
+dishes to choose	7
+serves its purpose	7
+East Ocean	7
+disappointing meal	7
+soup broth	7
+tasty and pretty	7
+close at pm	7
+super busy	7
+outdoor seating	7
+asked for the manager	7
+lot of things	7
+girl behind the counter	7
+hot wings	7
+great tasting food	7
+ordered the wrong thing	7
+day time	7
+sweet side	7
+Chinese food in Las Vegas	7
+tempura shrimp	7
+RANDOM NB I WORK	7
+menu is confusing	7
+ordered it extra spicy	7
+pickled vegetables	7
+Sunday brunch	7
+usual order	7
+food was terrible	7
+Indian School	7
+Hard Rock	7
+live nearby	7
+Big Buddha	7
+Noodle Exchange	7
+speak the language	7
+flavor was great	7
+decent service	7
+don t feel like cooking	7
+beef slices	7
+finished eating	7
+ve read	7
+live fish	7
+duck tongue	7
+food and service are good	7
+town visiting	7
+Southern California	7
+coconut rice	7
+time dining	7
+quantity over quality	7
+give an extra	7
+greeted and seated	7
+friendly people	7
+amount of time	7
+bottled water	7
+Thai Style Noodle House	7
+wait longer	7
+people  has lots	7
+cheap Chinese	7
+west coast	7
+Asian BBQ   Noodles	7
+seafood noodle soup	7
+wait  minutes for a table	7
+place and decided	7
+staff is super friendly	7
+menu board	7
+busy day	7
+tender and juicy	7
+good nonetheless	7
+rib eye	7
+dive bar	7
+regular stop	7
+waitress was friendly	7
+Chinatown Plaza	7
+braised beef	7
+dessert room	7
+back to the kitchen	7
+worst thing	7
+Asian people	7
+pork spare ribs	7
+local Chinese restaurant	7
+couple of things	7
+didn t give	7
+chive dumplings	7
+nigiri sushi	7
+buffet I ve	7
+cream cheese puffs	7
+past weekend	7
+Bellagio fountains	7
+food was fresh  hot	7
+care about their customers	7
+Shanghai Club	7
+Victorian Room	7
+put it in your mouth	7
+eat sushi	7
+minutes for a table	7
+beef chow mein	7
+ordered the pot stickers	7
+sugar cane	7
+sour sauce	7
+back anytime	7
+added bonus	7
+service was friendly and fast	7
+long day	7
+service is fast and the food	7
+order  minutes	7
+Viva China taco	7
+worst Chinese food I ve	7
+order   I wanted	7
+Ta Ta	7
+cold dish	7
+moved to Vegas	7
+open  hrs	7
+told the server	7
+Chinese food craving	7
+sample dishes	7
+local place	7
+friendly greeting	7
+small tables	7
+average Chinese	7
+asked questions	7
+coupons for free	7
+local Chinese	7
+reviews I read	7
+balance of flavors	7
+star anise	7
+fresh and crisp	7
+dinner hours	7
+onion pancake	7
+grew up eating	7
+Lesson learned	7
+chicken nuggets	7
+minutes to arrive	7
+Chinese food fix	7
+Chinese buffet I ve	7
+good portion size	7
+Chinese food and authentic	7
+eat here everyday	7
+shrimp paste	7
+order at the counter	7
+decided to give it a shot	7
+veggie dishes	7
+decided to stop	7
+sauce was thick	7
+place compared	7
+double check	7
+long night of partying	7
+chinese sausage fried rice	7
+taking so long	7
+nail salon	7
+comfortable booth	7
+decent Chinese	7
+asked for extra	7
+family owned and operated	7
+Grand China	7
+server was rude	7
+cheap  fast	7
+absolutely love this place	7
+finished plates	7
+ll admit	7
+fried rice  egg	7
+sauce flavor	7
+places that I frequent	7
+iced coffee	7
+Christmas Day	7
+sizzling rice	7
+fairly large	7
+item combo	7
+lunch special menu	7
+Asian fare	7
+don t judge	7
+tuna ceviche	7
+inside is clean	7
+lemon grass	7
+left satisfied	7
+days ago	7
+cooked meat	7
+skin was crispy	7
+nice and friendly	7
+opening of this place	7
+bathrooms are clean	7
+side of white rice	7
+mashed potatoes	7
+Monterey Park	7
+type of restaurant	7
+owner and chef	7
+medium spicy	7
+water glasses	7
+ve had in years	7
+Food is good here  and the price is reasonable	7
+bus boy	7
+craving Asian	7
+time I ve eaten	7
+small size	7
+nice surprise	7
+bar area	7
+guy at the counter	7
+white or fried rice	7
+visit every time	7
+bok choi	7
+fish filet	7
+style noodles	7
+sit down and eat	7
+broth tasted	7
+noodles were chewy	7
+Great concept	7
+piece of fish	7
+super hungry	7
+home from work	7
+craving good Chinese food	7
+Chinese American	7
+bring water	7
+lunch rush	7
+section of the menu	7
+pricey side	7
+favorite Thai	7
+selection of items	7
+duck curry	7
+son loves	7
+texture and taste	7
+average Chinese food	7
+ordered a bunch	7
+entire meal	7
+half order	7
+server asked	7
+sooooo good	7
+chow mein  fried rice	7
+doesn t make	7
+cook rice	7
+Kim Chee	7
+leaves something to be desired	7
+Mongolian chicken	7
+spicy order	7
+traditional dishes	7
+moved into the neighborhood	7
+curry beef	7
+extra rice	7
+eggplant and tofu	7
+Buddha s Feast	7
+Shrimp Mojo	7
+sriracha sauce	7
+love love	7
+pan fried dumplings	7
+greasy side	7
+hard to understand	7
+General Tao s chicken	7
+served in the restaurant	7
+tender and tasty	7
+feel at home	7
+crispy green beans	7
+black truffle	7
+extra mile	7
+bbq pork ribs	7
+pretty pricey	7
+long wait time	7
+walked into the restaurant	7
+food tastes great	7
+sharing with friends	7
+fast food restaurant	7
+cheap and good	7
+don t be afraid	7
+give you samples	7
+Las Vegas Strip	7
+tea bag	7
+good food at reasonable prices	7
+finally made	7
+days back	7
+favorite Chinese place	7
+beef balls	7
+pm when we arrived	7
+hard to mess	7
+stay in Vegas	7
+beef jerky	7
+spicy kick	7
+round tables	7
+highlight of the meal	7
+priced lunch	7
+previous visits	7
+food isn t bad	7
+sauce was sweet	7
+nice ambiance	7
+give  stars to a place	7
+winter melon	7
+Sam Woo BBQ	7
+ve never had a bad experience	7
+Bund Shanghai	7
+break the bank	7
+fried rice was bland	7
+Mekong Palace	7
+seafood tofu	7
+late dinner	7
+bad taste in my mouth	7
+breaded and fried	7
+lunch specials until pm	7
+menu selection	7
+Chinese places in the area	7
+lamb skewers	7
+business lunch	7
+Good food at a great price	7
+driven past	7
+split checks	7
+standard Chinese restaurant	7
+seated at a table	7
+decided to grab	7
+shaved noodles	7
+adding soy sauce	7
+deep fried tofu	7
+dessert menu	7
+Everytime I m in Vegas	7
+Great food at a great price	7
+decor and ambiance	7
+steamed white rice	7
+soup  hot and sour	7
+prices are outrageous	7
+location is convenient	7
+hand made	7
+plate was huge	7
+Sunday evening	7
+recently moved	7
+full size	7
+craving dim sum	7
+large order	7
+half empty	7
+wait a long time	7
+Wah Kee	7
+selection was very limited	7
+style Chinese	7
+yellowtail taquitos	7
+fell in love	7
+ginger and onion	7
+live a block	7
+eat family style	7
+steer clear	7
+ice water	7
+slot machines	7
+doesn t work	7
+kick ass	7
+China Garden	7
+close to closing time	7
+meat and seafood	7
+bit dry	7
+word of mouth	7
+Neo Tokyo	7
+unique flavor	7
+authentic tasting	7
+efficient and friendly	7
+extremely friendly	7
+tea pot	7
+English language	7
+higher quality	7
+pork and mushroom	7
+Valentine s Day	7
+lunch specials include	7
+eggplant dish	7
+pieces of shrimp	7
+Chinese food and eat	7
+good food and service	7
+wait staff is attentive	7
+cut corners	7
+lunch special prices	7
+snow crab legs	7
+type of noodle	7
+pepper chicken	7
+fall off the bone	7
+beef skewers	7
+Gang Pang	7
+Jade Red	7
+cheap lunch	7
+bigger portions	7
+soda fountain	7
+moist and tender	7
+price they charge	7
+parking spot	7
+friendly server	7
+good find	6
+authentic Asian	6
+walking through the casino	6
+sausage fried rice	6
+fluent English	6
+ordered the Kung Pao	6
+tasty and filling	6
+prices are pretty	6
+belly full	6
+Chef Kenny	6
+pork and chive	6
+fried egg rolls	6
+plate full	6
+tender meat	6
+cheap and quick	6
+Vegas to eat	6
+good news	6
+wait is worth	6
+bahn mi	6
+parking in front	6
+pork ramen	6
+equally good	6
+place truly deserves  stars	6
+rush hour	6
+family run business	6
+service was alright	6
+Pho Kim	6
+recommend this place to friends	6
+ahi tuna	6
+day dim sum	6
+continue to eat	6
+lived closer	6
+braised pork	6
+party was seated	6
+friendly and nice	6
+heavy on the sauce	6
+pho spot	6
+good service and good food	6
+nice lady	6
+food  I really enjoyed	6
+Chinese food in town	6
+clean restrooms	6
+crispy eggplant	6
+tasted fine	6
+empty stomach	6
+Golden Phoenix	6
+home cooking	6
+chicken curry with roti	6
+portions are pretty big	6
+thing happened	6
+back  I ll	6
+boiled water	6
+Great service and food	6
+expensive side	6
+beautifully presented	6
+located in the Bellagio	6
+reason I gave it  stars	6
+hotel on the strip	6
+surprised to find	6
+Golden Flower	6
+open late night	6
+ice cold	6
+large shrimp	6
+waiter was very helpful	6
+sea bass skewers	6
+beef  Mongolian	6
+talk to the manager	6
+duck and pork	6
+Har Gau	6
+complain about the price	6
+regular customers	6
+couldn t figure	6
+safe bet	6
+minute walk	6
+eat at Panda Express	6
+overly greasy	6
+Trader Joe	6
+picking up plates	6
+rest of the food	6
+Viva China	6
+spring rolls we ordered	6
+tap water	6
+hot peppers	6
+bump them up to four stars	6
+Super friendly staff	6
+soy bean	6
+business trip	6
+person on the phone	6
+cheaper price	6
+crab claw	6
+atmosphere is great	6
+York style	6
+nice patio	6
+BBQ items	6
+shrimp and broccoli	6
+original review	6
+dim sum offerings	6
+meat inside	6
+dim sum favorites	6
+Tom Ka	6
+told the manager	6
+good food for the price	6
+styrofoam container	6
+friend suggested	6
+arrived  minutes	6
+Noodles at Bellagio	6
+real treat	6
+China Wok	6
+egg noodle soup	6
+ordering process	6
+small selection	6
+hard to screw	6
+clean decor	6
+half full	6
+spot in Vegas	6
+ve had worse	6
+small serving	6
+shishito peppers	6
+mood for Chinese	6
+heat lamp	6
+soaked in oil	6
+prepared food	6
+pho bowl	6
+good service and food	6
+searching Yelp	6
+dim sum experience	6
+meat was dry	6
+friendly owners	6
+eye contact	6
+waitress recommended	6
+South American	6
+menu is large	6
+family owned restaurant	6
+lobster taco	6
+staff was very attentive and friendly	6
+shopping plaza	6
+Big Heng	6
+popular dishes	6
+steamed or fried	6
+subtle flavors	6
+service is average	6
+people in our party	6
+favorite part	6
+hoping to find	6
+white onions	6
+stomach ache	6
+food at a reasonable price	6
+cooks in the kitchen	6
+Queen Creek	6
+China Bistro	6
+sushi and sashimi	6
+Green Valley	6
+Vegas next time	6
+entr es	6
+ho fun	6
+past  months	6
+fried bread	6
+pad thai noodles	6
+shrimp fried	6
+ll try something else next time	6
+service was poor	6
+completely satisfied	6
+people seated	6
+find great	6
+restaurant is beautiful	6
+meal for free	6
+don t speak	6
+great happy hour	6
+house chow mein	6
+lemon sauce	6
+restaurants in the valley	6
+restaurant inside	6
+rice  and your entree	6
+dollar tip	6
+cuts of meat	6
+broccoli chicken	6
+Pad Kee Mao	6
+stopped in for lunch today	6
+shaved snow	6
+hand stretched noodles	6
+wanted to drink	6
+dinner combination	6
+orange sauce	6
+stuff is good	6
+extremely salty	6
+started with hot and sour soup	6
+entree  rice	6
+Chef Sheridan	6
+served cold	6
+large amount	6
+ordering system	6
+honey seared chicken	6
+post a review	6
+lot to be desired	6
+raw oysters	6
+fried taro	6
+whipped cream	6
+posted on the wall	6
+fried rice was dry	6
+worth of food	6
+Cantonese food	6
+tasted watered	6
+time delivery	6
+kim chi	6
+carrot cake	6
+absolutely disgusting	6
+give this place a shot	6
+compared to other restaurants	6
+food was horrible	6
+Chinese restaurant in the valley	6
+doggie bag	6
+juicy inside	6
+Tien Wong	6
+weird taste	6
+ready by the time	6
+cut in half	6
+fish was fresh	6
+mildly spicy	6
+owner or manager	6
+strip hotel	6
+darn good	6
+oolong tea	6
+Beijing beef	6
+menu includes	6
+stir fried veggies	6
+tad bit	6
+Love love love this place	6
+make you sick	6
+filling and tasty	6
+service and the food was good	6
+water tasted	6
+time for dinner	6
+eating here for years	6
+asked the lady	6
+char siu bao	6
+hubby ordered	6
+beef salad	6
+sliced thin	6
+seafood pho	6
+minutes before closing	6
+beer and wine	6
+bland flavor	6
+small bites	6
+town guests	6
+rave about this place	6
+awesome lunch specials	6
+rock shrimp tempura	6
+free appetizer	6
+pad se ew	6
+Chinese and Thai	6
+quick and easy	6
+wanted to give	6
+ve had in Phoenix	6
+shrimp toast	6
+totally disappointed	6
+mystery meat	6
+sauce was perfect	6
+bit spicy	6
+crisp and fresh	6
+diverse menu	6
+order of spring rolls	6
+tucked away in the corner	6
+Vegas hotel	6
+large serving	6
+medium sized	6
+Mongolian BBQ station	6
+limited menu	6
+prices are very affordable	6
+Flamingo Palace	6
+traditional Chinese food	6
+American style	6
+pretty basic	6
+busy restaurant	6
+sounds weird	6
+Cantonese cuisine	6
+order  I decided	6
+tea and water	6
+booth seats	6
+inside is nice	6
+stir fried chicken	6
+plenty of seating	6
+combo  chicken	6
+El Topo roll	6
+Jose Andres restaurant	6
+place sucks	6
+dimsum places	6
+Hotel   Casino	6
+chicken meat	6
+plates were cleared	6
+continue to search	6
+diamond in the rough	6
+seafood buffet	6
+spicy garlic	6
+war wonton soup	6
+pass this place	6
+bourbon chicken	6
+quick and friendly	6
+table to sit	6
+stuffed with shrimp	6
+Red House	6
+ll leave	6
+shrimp wonton soup	6
+fresh and made to order	6
+guy working	6
+ordered the house special	6
+give a  star rating	6
+overly salty	6
+couple minutes	6
+salty spicy	6
+Iron Chef	6
+portions are tiny	6
+server for at least  minutes	6
+pretty authentic	6
+orange juice	6
+staff is extremely	6
+served in a bowl	6
+fish with black bean sauce	6
+tasted horrible	6
+beef tongue	6
+lunch specials are a great deal	6
+decor is modern	6
+sauce for dipping	6
+noodles and rice dish	6
+beef lo mein	6
+make an effort	6
+tomato sauce	6
+family favorite	6
+sour soup	6
+plan to eat	6
+Chinese fare	6
+drive  miles	6
+kids menu	6
+mayo sauce	6
+menu specials	6
+North Scottsdale	6
+vegetarian friendly	6
+parking spaces	6
+Don t waste your time or money	6
+serving was huge	6
+food was fresh and delicious	6
+end of the night	6
+good hot and sour soup	6
+jerk chicken fried rice	6
+delivery area	6
+barely warm	6
+visiting Phoenix	6
+lunch and dinner specials	6
+left a tip	6
+mediocre Chinese food	6
+red wine	6
+manager told	6
+stir fried noodles	6
+quick bite to eat	6
+Lee Lee	6
+fusion of Japanese	6
+Dungeness Crab	6
+didn t pay	6
+fishy taste	6
+put my finger	6
+minutes for a server	6
+Hot Wok	6
+left me wanting	6
+Long story short	6
+yum yum yum	6
+taste authentic	6
+Street Sandwich	6
+Chinese food joint	6
+light rail	6
+plate of rice	6
+changed my mind	6
+fried rice or white rice	6
+Zha Jiang	6
+Asian Diner	6
+Lunch Buffet       Sr	6
+live seafood	6
+consistently delicious	6
+ate here last night	6
+salty and greasy	6
+crab roll	6
+told the waitress	6
+staff was helpful	6
+number of people	6
+open a location	6
+Chinese Mexican fusion	6
+wasn t worth	6
+completely empty	6
+honey glazed	6
+leave hungry	6
+expect from a Chinese restaurant	6
+half the meal	6
+drive  minutes	6
+nom nom	6
+Dragon roll	6
+waste your time or money	6
+fried pork	6
+shark fin soup	6
+perused the menu	6
+cash register	6
+Chop Chop Wok	6
+crab puff  egg roll	6
+looked pretty	6
+place stays	6
+BBQ ribs	6
+Chinese food  Great	6
+seated within  minutes	6
+promptly seated	6
+dumpling skin	6
+plan on going back	6
+close to this place	6
+restaurant chain	6
+solely based	6
+young lady	6
+time I have eaten	6
+extra crispy	6
+Hunan Beef	6
+interior decor	6
+taro cake	6
+called and told	6
+home leftovers	6
+honey seared	6
+service issues	6
+service we received	6
+food trays	6
+water boiled	6
+portion was a good size	6
+young man	6
+stars rounded	6
+quality and taste	6
+pleasant experience	6
+order  I called	6
+red chili	6
+rock hard	6
+eat at home	6
+bubble tea	6
+BoBo Brazil	5
+menu was interesting	5
+red color	5
+spicy or mild	5
+clean my plate	5
+pork chow mein	5
+rice noodle soup	5
+coconut pudding	5
+knife cut	5
+recommended by our server	5
+raised their prices	5
+weren t bad	5
+Lee s Garden	5
+Sliced Pork   Mushrooms	5
+chewy texture	5
+ordered shrimp fried rice	5
+draft beer	5
+beef  I ordered	5
+goldfish tanks	5
+barbecue pork	5
+dishes using the traditional	5
+checked yelp reviews	5
+run business	5
+decor is beautiful	5
+cute little place	5
+couple of years	5
+friendly waiters	5
+owned restaurant	5
+hair salon	5
+mixed veggies	5
+family and I have been coming	5
+caught my eye	5
+wedding reception	5
+place is open  hours	5
+reading reviews on Yelp	5
+standard Chinese	5
+light and refreshing	5
+spring onions	5
+serve dim sum all day	5
+people running the place	5
+private room	5
+staying at the Venetian	5
+Chang s Hong Kong Cuisine	5
+ordered half	5
+restaurant in Phoenix	5
+make it a point	5
+prepared perfectly	5
+cheese puffs	5
+combo platter	5
+curry noodles	5
+China Gourmet	5
+volcano cookies	5
+Tso s chicken	5
+favorite local	5
+Chinatown area	5
+future visits	5
+place for a date	5
+bit over priced	5
+management change	5
+taste  I ve	5
+avocado roll	5
+huge variety	5
+shrimp chow mein	5
+San Fran	5
+higher end	5
+wasn t greasy	5
+leave happy	5
+Asian American	5
+beef brocolli	5
+large size	5
+dinner at  pm	5
+patio area	5
+breaded chicken	5
+bring home	5
+variety on the menu	5
+mochi ice cream	5
+prices are cheaper	5
+Chinese restaurant in town	5
+China City	5
+super salty	5
+spicy Thai	5
+called the manager	5
+vegetables  The chicken	5
+appears clean	5
+sweet and spicy sauce	5
+dish with tofu	5
+chance to try this place	5
+Cultural Center	5
+hot tea and water	5
+veggie lo mein	5
+wrong  Don	5
+ill be back	5
+double the price	5
+typical Asian	5
+red bell pepper	5
+greeted warmly	5
+expect a lot	5
+strip restaurants	5
+good sized portions	5
+health code	5
+worst dining experience	5
+attentive server	5
+pet peeve	5
+ve had in a long	5
+sea cucumber	5
+tofu fried	5
+decor inside	5
+arrived hot	5
+orange chicken tasted	5
+American menu	5
+explain each dish	5
+speak Cantonese	5
+extremely nice	5
+love Thai food	5
+war won ton soup	5
+lost my appetite	5
+good quality food	5
+tasting broth	5
+ll stick	5
+worth mentioning	5
+family has been going here for years	5
+roast pig	5
+nice waitress	5
+bird s nest	5
+bit overpriced	5
+fried pork chop	5
+positive note	5
+isn t food	5
+offerings on the menu	5
+won ton noodle soup	5
+hard to beat	5
+chicken was all white meat	5
+banana spring rolls	5
+Hot   Sour Soup was excellent	5
+ve been here a couple times	5
+soft serve	5
+style cuisine	5
+meat fat	5
+beef szechuan	5
+happy camper	5
+strawberry chicken	5
+food is good and cheap	5
+Red Dragon	5
+played it safe	5
+dim sum fix	5
+make the drive	5
+beef with Chinese broccoli	5
+ordered the Kung	5
+low key	5
+told there was a  minute wait	5
+late night snack	5
+appetizer sampler	5
+American style Chinese food	5
+free drink	5
+set the bar	5
+dim sum is variety	5
+Vegas strip	5
+specifically asked	5
+rich and flavorful	5
+minutes to be seated	5
+dry noodles	5
+time tonight	5
+understand they don	5
+arrived to the table	5
+sit there for about  minutes	5
+wanted to check	5
+Hunan Chicken	5
+Panda Express orange chicken	5
+sized bowl	5
+waitress asked	5
+plates and utensils	5
+walking  minutes	5
+wouldn t call	5
+Gourmet House of Hong Kong	5
+standard Americanized Chinese	5
+standard fare	5
+lobster sauce	5
+sweet fire chicken	5
+easy parking	5
+slightly crispy	5
+sweet and pungent	5
+glass was always full	5
+hit this place	5
+find it hard	5
+quality and price	5
+waiter asked	5
+house chow fun	5
+bao buns	5
+delicious and authentic	5
+portion for lunch	5
+staff is always polite	5
+ordered the Mongolian	5
+Saturday lunch	5
+don t want to drive	5
+improve their service	5
+choice of soup	5
+noodles  egg	5
+Yelp search	5
+soup spoon	5
+immediately seated	5
+East Mesa	5
+open tables	5
+glad I didn	5
+ordered  sushi rolls	5
+happened  times	5
+bottle of wine	5
+pho joint	5
+glass of wine	5
+sauce that accompanied	5
+watching a movie	5
+order and was told	5
+decor of the restaurant	5
+beef tripe	5
+boiled beef	5
+noise level	5
+Palace Station	5
+Sun Prairie	5
+fill drinks	5
+difficult to find	5
+passion fruit	5
+close to the strip	5
+selection and great	5
+macadamia nut	5
+includes an entree	5
+jade red chicken quesadilla	5
+staff is rude	5
+bit smaller	5
+missed the mark	5
+real ice cream	5
+tasting but it didn	5
+fake meat	5
+don t speak English	5
+walked past	5
+wild mushroom	5
+Orient House	5
+baby corn	5
+good customer service	5
+left the table	5
+time and money	5
+find a Chinese	5
+scoop of rice	5
+pm last night	5
+service is on par	5
+cumin lamb	5
+sliced carrots	5
+restaurant for Dim Sum	5
+Beijing Noodle Cafe	5
+Casa Grande	5
+house special chow mein	5
+dry chicken	5
+cart dim sum	5
+worst experience	5
+honey walnut prawns	5
+Crazy Buffet	5
+creme brulee	5
+seafood noodle	5
+lot of fun	5
+seated right away   The hostess	5
+Great service  good food	5
+nicely presented	5
+won ton noodle	5
+mung bean	5
+thick sauce	5
+ordered the chicken lettuce wraps	5
+share family style	5
+beef stew noodle soup	5
+tapas style	5
+medium rare	5
+complex flavors	5
+summer rolls	5
+Big Wa	5
+mix and match	5
+leave full	5
+poor customer service	5
+put the sauce	5
+soft on the inside	5
+pay  dollars	5
+jelly fish	5
+refund my money	5
+daughter loves	5
+dinner entrees	5
+green tea ice	5
+food a lot	5
+funny thing	5
+love hate	5
+rolls of sushi	5
+twenty minutes	5
+friend and I shared	5
+friendly and fast	5
+Chinese and Thai food	5
+strange taste	5
+cubed beef	5
+nice sized portions	5
+food came out pretty quick	5
+egg roles	5
+pork was dry	5
+cheap and delicious	5
+black pepper beef	5
+Singapore style	5
+orders  received	5
+nice size	5
+half stars	5
+service was friendly and attentive	5
+sit people	5
+gold leaf	5
+wont be back	5
+broth was tasty	5
+staying in the hotel	5
+food you receive	5
+craving for Thai food	5
+charge  cents	5
+Hoi Nam Chicken	5
+customer service was great	5
+authentic Chinese cuisine	5
+limited options	5
+pretty packed	5
+decided to stay	5
+quesadilla or burrito	5
+mixing sauces	5
+staff and management	5
+ve noticed	5
+love the hot and sour soup	5
+Desert Jade	5
+couple pieces	5
+brought friends	5
+half duck	5
+menu description	5
+meal to make	5
+make eye contact	5
+staff was very nice and friendly	5
+table was ready	5
+Yelp app	5
+fancy place	5
+chocolate mousse	5
+kind of weird	5
+lunch tomorrow	5
+health dept	5
+mediocre service	5
+dishes were cold	5
+crab cream cheese	5
+hockey puck	5
+couple hours	5
+fast food Chinese place	5
+carrots and peas	5
+lobster  crab	5
+served piping hot	5
+rolled her eyes	5
+poor reviews	5
+orange chicken and fried rice	5
+Abacus Inn	5
+crab or lobster	5
+fusion cuisine	5
+Szechuan cuisine	5
+stopped in for dinner	5
+Don t be scared	5
+place a chance	5
+egg roll  rice	5
+China A GoGo	5
+atmosphere is fun	5
+Sun Asian	5
+chow fun noodles	5
+pulled pork	5
+knock your socks	5
+live in the neighborhood	5
+pig feet	5
+noodles are made	5
+couldn t stop eating	5
+don t mind paying	5
+red chili sauce	5
+soup  egg drop	5
+trays of food	5
+husband enjoyed	5
+man behind the counter	5
+Pho Dac Biet	5
+pales in comparison	5
+clams in black bean sauce	5
+breaded and deep fried	5
+college student	5
+lousy service	5
+flavor and lots	5
+lettuce wrap with chicken	5
+live music	5
+limited selection	5
+live  minutes	5
+don t pay	5
+tourist trap	5
+today for the first time	5
+quickly seated	5
+food was delicious and the service	5
+live in San Francisco	5
+hot soup	5
+entree choice	5
+rock cod	5
+don t know why people	5
+feed  people	5
+worst I ve	5
+delicious and cheap	5
+place to grab	5
+authentic and delicious	5
+jerk chicken quesadilla	5
+stopped in for a quick	5
+boba milk tea	5
+carts coming	5
+traditional dim sum	5
+friendly wait staff	5
+Vegas standards	5
+check to pay	5
+snap peas	5
+choice of meat	5
+service is hit or miss	5
+sweet chili sauce	5
+art on the walls	5
+crispy tofu	5
+fair share	5
+shabu shabu	5
+woman behind the counter	5
+weeks and both times	5
+restaurant nearby	5
+table was sticky	5
+shrimp tempura roll	5
+Vegas casino	5
+drive across town	5
+painted walls	5
+valley  and I ve	5
+prepared dishes	5
+clean inside	5
+food and excellent service	5
+special requests	5
+spot to hit	5
+generous amount	5
+beef cubes	5
+big pieces	5
+chicken  sweet and sour pork	5
+big plate	5
+Malaysian Cuisine	5
+pickled veggies	5
+eat here   times a week	5
+Singapore Sling	5
+amount of money	5
+Chinese food fan	5
+liquor license	5
+Service was quick and friendly	5
+Las Vegas   It s definitely a must visit	5
+place for takeout	5
+style cooking	5
+Vietnamese and Chinese	5
+pass the time	5
+tangy sauce	5
+sports book	5
+didn t leave	5
+glowing reviews	5
+owner has changed	5
+mind blowing	5
+menu for lunch	5
+kway teow	5
+jumbo shrimp	5
+great staff	5
+ve never seen a Chinese restaurant	5
+noodles were thick	5
+spider roll	5
+Vegas area	5
+lychee martini	5
+couple of friends	5
+friend recommended this place	5
+perfect size	5
+sweet for my taste	5
+weekend nights	5
+Mexican and Chinese food	5
+cigarette smoke	5
+plastic forks	5
+hour before closing	5
+give props	5
+soft drinks	5
+hot chili oil	5
+kitchen is open	5
+yellow tail	5
+view of the fountains	5
+ate here for the first time	5
+Dragon Palace	5
+stand in line	5
+fresh oysters	5
+outdoor patio	5
+blood pressure	5
+mins after we ordered	5
+chicken chunks	5
+checked back	5
+Asian  The food was just as good	5
+sign out front	5
+food coma	5
+burned my mouth	5
+offer free	5
+bill without tip	5
+couldn t stop	5
+ala carte	5
+free cookie	5
+chunks of chicken	5
+family come to visit	5
+Pillow Chicken	5
+beef broth	5
+boiled egg	5
+stuff your face	5
+onions  green	5
+Chinese and Vietnamese	5
+steak and eggs special	5
+mixed reviews	5
+close early	5
+ate a few bites	5
+lightly breaded	5
+place is cool	5
+pork steamed dumplings	5
+def be back	5
+search continues	5
+sat and waited	5
+northern Chinese	5
+open til	5
+back and waited	5
+owners are super nice	5
+rice  steamed	5
+day from eating	5
+comfort zone	5
+strong flavors	5
+average Chinese restaurant	5
+Chicken  Emerald	5
+service and quality	5
+sit down restaurant	5
+selection is large	5
+pm on a Sunday	5
+San Gabriel Valley	5
+staying at the Palms	5
+located in a casino	5
+house noodles	5
+received my order	5
+booths and  tables	5
+taste is the saltiness	5
+sitting in a booth	5
+Jimmy Woo	5
+deal breaker	5
+order ahead	5
+China Chan	5
+visited China	5
+sizzling beef	5
+simply amazing	5
+seafood and meat	5
+watch the chefs	5
+drive past	5
+coffee shop	5
+bonus points	5
+King Wah	5
+food is freshly prepared	5
+people in line	5
+feel guilty	5
+Booming Spot	5
+selection is good	5
+rest of the meal	5
+staff is super nice	5
+tip included	5
+egg plant	5
+plenty of options	5
+table full	5
+Bamboo House	5
+girl at the front	5
+choice of entree	5
+chicken with ginger	5
+reminds me of home	5
+eating family	5
+rice and chow mein	5
+lotus root	5
+drinks and appetizers	5
+happy to find	5
+preserved egg	5
+bell peppers  onions	5
+early morning	5
+prices are double	5
+thin noodles	5
+bad customer service	5
+flavor combinations	5
+recommend coming	5
+thing I remember	5
+high quality food	5
+peanut noodles	5
+fried won tons	5
+long night	5
+nice and attentive	5
+powdered sugar	5
+ordered instead of taking	5
+pineapple chunks	5
+milk tea boba	5
+review to  stars	4
+General Tsao	4
+Tsing Tao	4
+food is good quality	4
+China Magic Noodle House	4
+happy to have found this place	4
+Thai Dynamite	4
+Finally  a few minutes	4
+lo mein and fried rice	4
+delicious soup	4
+pay the price	4
+french toast	4
+higher price	4
+Japanese and Chinese	4
+day at work	4
+pricey compared	4
+hard to find good	4
+drink free	4
+seat or two at the group	4
+ownership change	4
+dish with shrimp	4
+incorrect order	4
+told him I wanted	4
+hotel we were staying	4
+jerk fried rice and black beans	4
+savory and sweet	4
+mom and pop place	4
+dish with a side	4
+bill for  people	4
+pao tofu	4
+dish  veggie	4
+jalape os	4
+roll  rainbow	4
+decided to yelp	4
+egg custard buns	4
+udon soup	4
+hold back	4
+food tasted fresh	4
+ve moved	4
+noodles and wonton	4
+gave us extra	4
+ordered chicken pad thai	4
+Mexican food and Chinese food	4
+vegetables  shrimp	4
+service was the worst	4
+surprised at how good the food	4
+corn starch	4
+lost a customer	4
+food court at the mall	4
+town  this place	4
+battered chicken	4
+limited English	4
+staff is incredibly	4
+pandas eat	4
+food arrived quickly	4
+high standards	4
+Chinese restaurant in Phoenix	4
+peppers  onions	4
+prices are moderate	4
+birthday celebration	4
+China Jade	4
+mint chicken	4
+Chandler location	4
+food arrived in  minutes	4
+friend raved	4
+years of eating	4
+lobster with ginger and scallions	4
+found my new favorite	4
+people were nice	4
+large group of people	4
+rice wrapped	4
+bland side	4
+carts around to your table	4
+crispy and nice	4
+calamari salad	4
+stamp card	4
+options to choose	4
+sticky table	4
+deal  They had a good	4
+told  minutes	4
+ve been to this buffet	4
+soup  won ton	4
+spending time	4
+Hawaiian style	4
+customer service skills	4
+recent trip to Vegas	4
+wide array	4
+perfectly crisp	4
+visiting friends	4
+based on my experience	4
+half dozen	4
+egg flower	4
+spicy  extra	4
+egg and tomato	4
+soup was tasty	4
+sliced pork	4
+entrees and appetizers	4
+cook at home	4
+brown gravy	4
+tuna roll	4
+overpriced food	4
+bbq pork slices	4
+issues with the service	4
+quail egg	4
+ordered  My husband	4
+Americanized Asian food	4
+lunch on the cheap	4
+chicken chow fun	4
+Phad Thai	4
+appetizers and drinks	4
+typical Americanized Chinese	4
+Chicken  Red	4
+mein noodles	4
+filled up quick	4
+pork pot stickers	4
+ve spent	4
+happy to make	4
+lamb chops	4
+empty plates	4
+healthy options	4
+beef rice noodle	4
+change things	4
+free hot tea	4
+Yelp deal	4
+puffs   The crab	4
+late afternoon	4
+called  minutes	4
+salt and pepper chicken	4
+sick the next day	4
+sucks and this place	4
+smell and taste	4
+add extra	4
+sauce and soy	4
+make it easy	4
+ox tongue	4
+Chinese place good	4
+variety of Asian	4
+shrimp and pork dumplings	4
+Excellent food and service	4
+rice vermicelli	4
+made from scratch	4
+years with my family	4
+benefit of the doubt	4
+Vietnamese coffee	4
+quoted  minutes	4
+flavor and spice	4
+eat cheap	4
+leave feeling	4
+super cool	4
+seafood chow mein	4
+basil fried rice	4
+Chinese delivery place	4
+York Chinese Restaurant	4
+ordered the cashew chicken	4
+fill my belly	4
+listed on the menu	4
+York style Chinese	4
+opening day	4
+low expectations	4
+covered in sauce	4
+web site	4
+atmosphere is casual	4
+downtown Phoenix	4
+pig face	4
+Hong Kong style noodles	4
+experience was pleasant	4
+bit skeptical	4
+gas station	4
+star due	4
+Saturday and Sunday	4
+Snoh Ice	4
+Kung Pau	4
+crispy gau gee	4
+service is super friendly	4
+biggest complaint	4
+Wednesday night	4
+scallions and ginger	4
+closer to my house	4
+hours  open	4
+menu is limited	4
+drive to Chinatown	4
+nice servers	4
+lemongrass chicken	4
+pupu platter	4
+chef owner	4
+make you feel at home	4
+haven t eaten	4
+Sun Asian Kitchen	4
+split an entree	4
+relaxed atmosphere	4
+seated at a booth	4
+Chinese restaurant in Las Vegas	4
+Thai spicy	4
+level of spiciness	4
+moment we walked	4
+seated within  mins	4
+bad reviews but this place	4
+table and sat	4
+Monday lunch	4
+miso ramen	4
+Crying Tiger Salad	4
+chicken chow mien	4
+tasted like frozen	4
+locally owned	4
+handmade noodles	4
+waitress was helpful	4
+shrimp were large	4
+service was mediocre	4
+fully cooked	4
+white guy	4
+made me sick	4
+ve had in the valley	4
+Venetian Hotel	4
+watching tv	4
+quality of the fish	4
+type of cuisine	4
+return in the future	4
+show every  minutes	4
+cab ride	4
+tastes strange	4
+salad  chicken	4
+asked for water	4
+back to the office	4
+remember the names	4
+chicken  jerk fried rice	4
+glad I found	4
+repeated my order	4
+egg custard tarts	4
+school Chinese	4
+pork rinds	4
+sick after eating	4
+dim lighting	4
+chicken  jerk	4
+typical dim sum	4
+vanilla ice cream	4
+color red	4
+crushed peanuts	4
+items on the cart	4
+lightly fried	4
+save room	4
+green beans in XO sauce	4
+lot of money	4
+meat quality	4
+meat was fatty	4
+sauce poured	4
+sauce they put	4
+Rice and Company	4
+steamed pork dumplings	4
+tofu with eggplant	4
+table set	4
+hot water	4
+eats there  if you see many people	4
+playing in the background	4
+accommodate our requests	4
+gau gee	4
+Yelp and found	4
+quick and cheap	4
+didn t get a chance	4
+wanted to give this place	4
+portions are bigger	4
+knowledgeable about the menu	4
+trouble finding	4
+popular items	4
+fusion of Chinese and Mexican food	4
+dessert selection	4
+moved to AZ	4
+dinner eating	4
+fast and friendly service	4
+sizzling plate	4
+brown rice instead of white	4
+Mongolian beef  chicken	4
+time in a long	4
+price for the amount of food	4
+braised tofu	4
+asked for extra spicy	4
+place close to my house	4
+fountain soda	4
+definately be back	4
+chicken with string beans	4
+dim sum craving	4
+garlic green beans	4
+tofu clay pot	4
+Chicken Chop Suey	4
+sauce and hot	4
+mee goreng	4
+arrived and our food	4
+dish with vegetables	4
+strongly recommend	4
+clean and nice	4
+David Wong	4
+finally seated	4
+braised pork belly	4
+awful service	4
+lived in China	4
+nice crisp	4
+Thai tea boba	4
+cream cheese rangoons	4
+South Phoenix	4
+buffet lunch	4
+grab a quick	4
+make money	4
+entire menu	4
+sashimi was fresh	4
+usual suspects	4
+level of heat	4
+huge amount	4
+filling our waters	4
+Food is served quickly	4
+spinach and garlic	4
+lot of Asian	4
+Pho Ga	4
+orange chicken I ordered	4
+refused to give	4
+added extra	4
+decided to leave	4
+tempura roll	4
+talking to  different people	4
+http   www yelp	4
+Fast forward	4
+made the decision	4
+great texture	4
+stir fried vegetables	4
+super quick	4
+Chopstick Express	4
+server gave	4
+back to check	4
+takes time	4
+food wasn t that good	4
+plastic utensils	4
+dish wrong	4
+line waiting	4
+slightly above average	4
+Yelp this place	4
+Chinese eatery	4
+worst Chinese	4
+location of this restaurant	4
+paying the check	4
+day in Vegas	4
+free samples	4
+separate orders	4
+chile sauce	4
+kind of hard	4
+food  Bring	4
+Sichuan peppercorns	4
+Cuban black beans	4
+ranch dressing	4
+cream puffs	4
+drenched in sauce	4
+bright green	4
+amount of heat	4
+wrapped in lotus leaf	4
+hot sake	4
+beef short ribs	4
+Mai Tai	4
+distinct flavor	4
+air conditioning	4
+earned  Stars	4
+pine nuts	4
+oxtail soup	4
+pho craving	4
+World Buffet	4
+Shanghai noodles	4
+yesterday for lunch	4
+Mexican Chinese fusion	4
+tea and I had hot	4
+favorite Chinese food place	4
+quick and efficient	4
+perfect flavor	4
+bartender server	4
+Restaurant was recommended	4
+egg rolls and wontons	4
+grab a quick bite	4
+rare beef	4
+Bellagio  Noodles	4
+staying on the strip	4
+free meal	4
+month since their opening	4
+pan fried noodles with beef	4
+good place to eat	4
+Orange County	4
+Hibachi Grill	4
+craving for sushi	4
+debit credit	4
+chili mint chicken	4
+ll pass	4
+grab lunch	4
+eat  I decided	4
+vermicelli noodles	4
+helpful and friendly	4
+fried rice  pork	4
+menu is full	4
+pork bao	4
+Pad Thai with chicken	4
+negative thing	4
+Peking Duck Bao	4
+paid the bill	4
+meal cost	4
+green tea ice cream	4
+spicy cucumber	4
+Thai Basil Chicken	4
+kung pow chicken	4
+sauce was watery	4
+size is small	4
+people working there are nice	4
+frequent this restaurant	4
+bunch of stuff	4
+beef rendang	4
+clean bathrooms	4
+felt rushed	4
+vegetable tempura	4
+sliced fish	4
+tea charges	4
+emerald chicken quesadilla	4
+restaurant com certificate	4
+group of girls	4
+egg soup	4
+flat screen	4
+waiter was rude	4
+kung pao chicken and shrimp	4
+beef chow	4
+owned and operated	4
+eat but didn	4
+noodles with spicy	4
+buffet style	4
+main ingredient	4
+rice on the side	4
+friends visiting	4
+thinly sliced beef	4
+open at pm	4
+free dessert	4
+doesn t feel	4
+decent sushi	4
+restroom was clean	4
+Chinese food delivery	4
+compared to other Chinese restaurants	4
+thought it was pretty	4
+thai pad	4
+grocery shopping	4
+fell short	4
+problem doing that   I ve	4
+cool place	4
+dirt cheap	4
+pleasant atmosphere	4
+flavor full	4
+waitress brought	4
+bit oily	4
+combination plate	4
+phone call	4
+cool atmosphere	4
+excellent choice	4
+fried rice and orange chicken	4
+bowl to serve	4
+soy dipping sauce	4
+don t think I ll be back	4
+people coming	4
+free entree	4
+cooking style	4
+bit pricier	4
+custard tarts	4
+skip this place	4
+service was adequate	4
+hand pulled	4
+beef was spicy	4
+visiting family	4
+seated and waiting	4
+fatty meat	4
+NY Chinese	4
+wrong dish	4
+boy was I wrong	4
+chopped chicken	4
+served family style	4
+quality of the food was good	4
+Scottsdale area	4
+figured I d give	4
+Chinese restaurant expecting	4
+service was prompt and friendly	4
+crispy pork	4
+red onions	4
+times in the last couple	4
+lunch at work	4
+great dining experience	4
+chicken katsu	4
+star experience	4
+order was very friendly	4
+Pacific Seafood Buffet	4
+cheese wontons	4
+put on my plate	4
+health code violations	4
+taste and smell	4
+feel like eating	4
+wait half an hour	4
+charge the prices	4
+snow ice	4
+thousand year old egg	4
+noodle pulling	4
+modern decor	4
+wagyu beef	4
+presented beautifully	4
+close to where I live	4
+jerk rice	4
+pho place in Vegas	4
+par food	4
+ve never had pho	4
+soft and chewy	4
+food Chinese place	4
+spare ribs in black bean sauce	4
+pretty solid	4
+Mongolian style BBQ	4
+aji panca	4
+beef was tough	4
+questions about the menu	4
+weekend dinner	4
+dim sum served	4
+golden brown	4
+front counter	4
+seat your party	4
+noodles were cooked perfectly	4
+flavor profile	4
+pork bone	4
+noodles  fried	4
+Oriental Buffet	4
+sweet tooth	4
+price increases	4
+guess I was expecting	4
+walked in  I noticed	4
+road trip	4
+located in a strip	4
+fruit salad	4
+open a restaurant	4
+quick to refill	4
+guilty pleasure	4
+shrimp with snow peas	4
+food was surprisingly good	4
+positive thing	4
+Saturday morning	4
+stars on Yelp	4
+Malaysian restaurant	4
+roll  tuna	4
+Crying Tiger	4
+dinning room	4
+Yamato roll	4
+find parking	4
+dirty table	4
+inside a casino	4
+sea salt	4
+lunch business	4
+teriyaki bowl	4
+knew what I wanted	4
+give them credit	4
+actual restaurant	4
+fair amount	4
+life   I ve	4
+selection to choose	4
+lot of food for your money	4
+super excited	4
+offers a variety	4
+orange chicken at other panda express	4
+service was top notch	4
+fresh spring rolls	4
+local favorite	4
+tea ice	4
+white rice  fried rice	4
+combo meal	4
+beef was crispy	4
+written a review	4
+place popped	4
+table and walked	4
+late night eats	4
+Lung Bao	4
+yellowtail sashimi	4
+interesting menu	4
+great ambiance	4
+bright red	4
+spicy tofu	4
+vegetable spring rolls	4
+American standards	4
+water filled	4
+plastic containers	4
+chicken  sesame	4
+Lucky Kitchen	4
+rice noodles with beef	4
+knocked off a star	4
+larger groups	4
+super fast service	4
+ll be back many times	4
+hot bowl	4
+adventurous eater	4
+satisfying meal	4
+plum wine	4
+tasted burnt	4
+asked the hostess	4
+Parking is easy	4
+Vegas Chinatown	4
+Nice clean restaurant	4
+prices are so inexpensive	4
+long wait for the food	4
+low quality food	4
+lunch on a Saturday	4
+mouth was on fire	4
+rangoon  It was the same old crab	4
+Asian fusion restaurant	4
+thing  My favorite	4
+curry chicken with roti	4
+place is not fancy	4
+delivery Chinese	4
+favorite place for Chinese food	4
+presentation was nice	4
+Taiwanese style	4
+Japanese  Brazilian	4
+homemade noodles	4
+duck noodle	4
+counter to order	4
+service wasn t that great	4
+time  since it s close	4
+minutes  I was told	4
+honey shrimp	4
+BBQ King	4
+gold fish	4
+included in the dish	4
+lot of stuff	4
+bland and tasteless	4
+bean sauce	4
+sauce and sweet and sour	4
+BBQ pork and roast duck	4
+egg fu young	4
+long drive	4
+samples of items	4
+accept credit cards	4
+special lunch	4
+leave satisfied	4
+brown or white rice	4
+kitchen staff	4
+small strip mall	4
+left something to be desired	4
+frequent this place	4
+Service was great and friendly	4
+tender on the inside	4
+Chinese food in AZ	4
+prices are inflated	4
+nice ambience	4
+main reason	4
+strip mall restaurant	4
+nice guy	4
+sesame paste	4
+kids and adults	4
+soo good	4
+easy to miss	4
+neighborhood Chinese	4
+rate this place  stars	4
+back  years	4
+Pho Chandler	4
+large plate	4
+dim sum selection	4
+prices are steep	4
+raw fish	4
+brought the check	4
+shui mai	4
+Chef Lisa	4
+fountain drink	4
+prices are lower	4
+vinegar sauce	4
+Yun Nan	4
+lunch with coworkers	4
+veggies were cooked	4
+brought home	4
+dishes  The meat	4
+jasmine rice	4
+Chicken Chili Mint	4
+typical Americanized	4
+looked and tasted	4
+portion size for the price	4
+shrimp and veggies	4
+eat in Vegas	4
+cost a dollar	4
+thin skin	4
+make a decision	4
+attention to detail	4
+earlier in the day	4
+chicken special	4
+pricey  but worth	4
+plain fried rice	4
+refill our water glasses	4
+top with a sauce	4
+steamed rice instead of fried	4
+small for the price	4
+San Francisco Bay Area	4
+older lady	4
+kinda weird	4
+inside the Venetian	4
+Cantonese restaurant	4
+wait on people	4
+make sure they don	4
+fried garlic	4
+prompt service	4
+salad and soup	4
+price is reasonable and the portions	4
+spots in town	4
+regular size	4
+selection of  food items	4
+rainbow roll	4
+yin yang	4
+days in a row	4
+finally decided	4
+hot  served	4
+Vegas Chinese restaurant	3
+wide range	3
+taste and quality	3
+Chinese brocolli	3
+satay chicken	3
+wonton and egg roll	3
+prix fixe	3
+Mexican Asian	3
+hand made noodles	3
+greasy and salty	3
+Hainanese Chicken	3
+back a week	3
+Delivery took over an hour	3
+tangerine beef	3
+service and food is excellent	3
+level of spice	3
+served quickly	3
+portion size is good	3
+items to order off the menu	3
+Mekong Plaza	3
+time spent	3
+fan of buffets	3
+food was really good and the service was good	3
+fast and efficient	3
+tomato and egg	3
+Chinese restaurant in Madison	3
+spot for Chinese	3
+concept is great	3
+speedy service	3
+call to pick	3
+oyster mushroom	3
+Excellent Hot   Sour Soup	3
+special combo	3
+noodles are homemade	3
+bill came out to be   including tip	3
+seating was comfortable	3
+place after passing	3
+takes  minutes	3
+price we paid	3
+newly opened	3
+tasty soup	3
+century egg	3
+deduct a star	3
+Rolls  El Topo	3
+fried sweet potato	3
+employees are nice	3
+Chinese Food  Real	3
+hangover cure	3
+portions are perfect	3
+past few times	3
+coworkers for lunch	3
+Chinese takeout place	3
+chicken and house	3
+restaurant frequently	3
+giving me a reason	3
+eggs  steak	3
+rice and black beans	3
+chicken lettuce	3
+chicken curry over rice	3
+hotel restaurant	3
+shared plates	3
+friendly and accommodating	3
+served warm	3
+peking pork	3
+time we arrived	3
+Chicken  General Tso	3
+beef was chewy	3
+sample everything on the menu	3
+restaurant sits	3
+health inspection	3
+ramen bowl	3
+waiting time would be at least  minutes	3
+bad  it s pretty	3
+service was awful	3
+trip to Las Vegas	3
+good ol	3
+Wo Fat	3
+Spicy Lamb	3
+hash browns	3
+meant to be shared	3
+good amount of food	3
+chunks of beef	3
+words to describe	3
+spicy garlic sauce	3
+positive experience	3
+coupon in the mail	3
+food joint	3
+drop soup	3
+cold beer	3
+ha ha	3
+Chinese restaurants that I have found	3
+selection on the menu	3
+waiting list	3
+pork and roast duck	3
+curry dipping	3
+Asian BBQ	3
+generous serving	3
+Jimmy Chung	3
+outstanding food	3
+salt   pepper porkchops	3
+wine or beer	3
+star deduction	3
+food was fresh and tasty	3
+sauce  beans	3
+visiting from out of town	3
+red jade	3
+tiny portions	3
+Kung Poa	3
+wasn t horrible	3
+substitute meat	3
+mushu pork	3
+Noodle Cafe	3
+flavorful and light	3
+gave this place  stars	3
+favorite place for dim sum	3
+stars based	3
+Asian population	3
+modern and clean	3
+properly cooked	3
+Vegas buffet	3
+family ordered	3
+upscale restaurant	3
+tasted fishy	3
+Simply put	3
+ordered take out and it was ready in  minutes	3
+boyfriend and I decided	3
+staff and owner	3
+good Chinese food is hard to find	3
+asked what we would like to drink	3
+beef chunks	3
+spot for late night	3
+fried squid	3
+thick skin	3
+pork belly and duck	3
+noodles are hand pulled	3
+older gentleman	3
+place a bad review	3
+prices and great food	3
+place and the locals	3
+time I ve ordered	3
+sat for  minutes	3
+tiny pieces	3
+hours a day	3
+ll continue	3
+Egg Foo Yong	3
+service was very good and friendly	3
+togo order	3
+lower price	3
+pot of hot	3
+tofu skin	3
+changed owners	3
+love it   My husband	3
+polite staff	3
+woman working	3
+PF Changs fan	3
+giving it a second thought	3
+packed this place	3
+Autumn Court	3
+year and a half	3
+chow fried rice	3
+wonton wrappers	3
+pork fried	3
+rice with extra	3
+bite to eat	3
+young girl	3
+Chinatown in San Francisco	3
+wrote a review	3
+waiter didn	3
+fish quality	3
+opening week	3
+options on the menu	3
+restaurant that is mainly one type	3
+quick fix	3
+dry and overcooked	3
+meat was juicy	3
+waiter brought	3
+food and price are still good	3
+food   Great quality	3
+pork slices	3
+brought out the wrong	3
+food quality and service	3
+customer service was good	3
+noodles and it was so wide	3
+week day	3
+spend a lot	3
+dishes I sampled	3
+lime juice	3
+sashimi and sushi	3
+real crab	3
+included with the lunch special	3
+chow mein  chicken	3
+Red Rock	3
+place and was excited	3
+long it takes	3
+call in an order and pick	3
+acquired taste	3
+ve been coming here for years	3
+choices on the menu	3
+REMEMBER why I don	3
+past three times that I ve	3
+chicken with black bean sauce	3
+food and amazing service	3
+red chicken	3
+pickled mustard greens	3
+room in the back	3
+perfectly and the sauce	3
+sauce duck	3
+night of clubbing	3
+lovely wife	3
+chocolate chip	3
+minced chicken	3
+order right away       min	3
+Samba Sushi	3
+vacation in Vegas	3
+similar restaurants	3
+battered and fried	3
+chicken  lemon	3
+lunch special is awesome	3
+star for that reason	3
+served on a bed	3
+ready to leave	3
+bring your drinks	3
+fine  Service	3
+highly suggest	3
+people sitting	3
+lotus leaf wrapped	3
+bit steep	3
+lunch specials  I ordered	3
+chili relleno	3
+AYCE sushi	3
+place in the valley	3
+appetizer platter	3
+service was efficient	3
+items   My favorite	3
+business and stay	3
+share a large	3
+minutes after we sat	3
+Sunday around pm	3
+year since my last visit	3
+priced lunch specials	3
+quick dinner	3
+ve learned	3
+baked pork chop rice	3
+Duck Steamed Bun	3
+table was dirty	3
+taking it home	3
+mu shu chicken	3
+glass noodles	3
+dish has a unique	3
+huge disappointment	3
+mistake of ordering	3
+Great friendly service	3
+BBQ station	3
+support local	3
+food  Thai	3
+hard earned	3
+sauce and peanuts	3
+Friday and Saturday nights	3
+food is terrific	3
+Chinese Chicken Salad	3
+ample parking	3
+coconut drink	3
+restaurant I walked	3
+flavorful and tender	3
+floor was dirty	3
+chow fun  beef	3
+long night of drinking	3
+chicken corn soup	3
+service was exceptional	3
+food snob	3
+Sunday lunch	3
+mango shrimp salad	3
+food came out pretty fast	3
+small cup	3
+Szechuan Spicy	3
+Samba Juice	3
+mix of Mexican and Chinese	3
+flavor  I had to add	3
+Saturday    pm	3
+store front	3
+late night dinner	3
+China Gate	3
+late night specials	3
+fresh made noodles	3
+smoothie with boba	3
+skin was too thick	3
+watch what I eat	3
+helpful and nice	3
+brought our drinks	3
+fried dough	3
+tasted and looked	3
+Taiwanese breakfast	3
+spend a lot of money	3
+greasy and oily	3
+sick to my stomach	3
+hair was found	3
+filled wontons	3
+local business	3
+dry and hard	3
+drinks and never asked	3
+shrimp spring rolls	3
+people Chinese	3
+jalapeno peppers	3
+didn t see the waiter	3
+mixed drinks	3
+Chinese American food	3
+celebrate a birthday	3
+Service was good and fast	3
+easily feed two people	3
+judge a book by its cover	3
+minimum for delivery	3
+generously sized	3
+meat substitutes	3
+long ago	3
+reviews posted	3
+pho with rare steak	3
+duck  pork belly	3
+service and food was great	3
+tasted pretty	3
+food  vietnamese	3
+add some flavor	3
+fast casual	3
+filled with plates	3
+bit confusing	3
+soda refills	3
+years of coming	3
+paper menu	3
+clean and the staff is friendly	3
+decor is interesting	3
+confused   The menu	3
+tangy sweet	3
+rolls  the Neo Tokyo	3
+Phoenix Chinese food	3
+garlic pepper	3
+bottle of sake	3
+staff is extremely friendly	3
+Sun Devil	3
+maine lobster	3
+Dumpling Haus	3
+fried or steamed rice	3
+fried brown rice	3
+inside decor	3
+spent time	3
+flavor was complex	3
+night late	3
+made to order  fresh	3
+spend  dollars	3
+Fountain Hills	3
+Vegas restaurant	3
+bland and boring	3
+ve been to a Chinese buffet	3
+pieces were small	3
+front of the house	3
+beef chow fun  dry	3
+dimly lit	3
+short drive	3
+restaurant style	3
+pay cash	3
+server was polite	3
+Chinese food that s cheap	3
+home to eat	3
+combination pho	3
+standard chinese food	3
+level of service	3
+absolutely horrible	3
+idea of good	3
+prices are a bit higher	3
+Chinese food for Americans	3
+promptly greeted	3
+packed full	3
+feeling  I made	3
+plates to share	3
+combination of Chinese and Mexican	3
+dishes   The fish	3
+fresh seafood	3
+fatty pork	3
+ordered the teriyaki chicken	3
+dollar bill	3
+exceptional service	3
+orange slices	3
+bones than meat	3
+clean and modern	3
+items on the buffet	3
+mile drive	3
+pea sprouts	3
+interior is nice	3
+smell of smoke	3
+NYC Chinatown	3
+fork and spoon	3
+frozen yogurt	3
+good food and fast	3
+fill my glass	3
+walking by our table	3
+crispy spicy eggplant	3
+years and this is the first time	3
+add soy sauce	3
+lo mein  beef	3
+chilli sauce	3
+combination of flavors	3
+Ga Hyang	3
+waiter told	3
+Singapore rice	3
+expanded menu	3
+al Pastor	3
+light broth	3
+Panda Express down the street	3
+noodles were soft	3
+give them the benefit of the doubt	3
+attentive and nice	3
+chicken with garlic sauce	3
+seated  We waited for about  minutes	3
+learned my lesson	3
+tasted funny	3
+flavor explosion	3
+corn syrup	3
+picture menu	3
+impeccable service	3
+typical Americanized Chinese food	3
+veggie chow mein	3
+correct order	3
+horrible taste	3
+concept is really cool	3
+cost extra	3
+greeted as soon as I walked	3
+terriyaki chicken	3
+Hainanese Chicken Rice	3
+special board	3
+yellow curry chicken	3
+takes forever	3
+food  great service  good	3
+seasoned perfectly	3
+beef was super tender	3
+week it opened	3
+fresh and crunchy	3
+quality and quantity of food	3
+baked pork chop	3
+pm on a Friday	3
+wanted to leave	3
+time this has happened	3
+guy on the phone	3
+sort of thing	3
+forward to going back	3
+jade chicken quesadilla	3
+appetizers and main	3
+didn t taste good	3
+bill  they charged	3
+additional charge	3
+mixed seafood	3
+nice crunch	3
+high chair	3
+million times	3
+Vietnamese and Thai	3
+morning early	3
+wasn t terrible	3
+truffle oil	3
+owner s wife	3
+closed doors	3
+good as it smelled	3
+beef teriyaki	3
+pick and choose	3
+don t use MSG	3
+coconut ice cream	3
+Chinese restaurant in the neighborhood	3
+perfect portion	3
+located in Chinatown	3
+live up to the hype	3
+prix fixe menu	3
+ton soup	3
+work in the area	3
+lettuce wrap appetizer	3
+weekend in Vegas	3
+outstanding service	3
+seating is limited	3
+nice variety	3
+perfectly crispy	3
+depending on what you order	3
+decided to finally	3
+lunch special with orange chicken	3
+comfortable atmosphere	3
+wanted  I asked	3
+service was lousy	3
+beef noodle soup   spicy	3
+plain and simple	3
+spacious and clean	3
+Pacific Seafood	3
+perfectly prepared	3
+decor is cute	3
+quality of food is consistant	3
+Chinese food in Madison	3
+chicken lunch special	3
+Hao Bao	3
+char sui	3
+corn soup	3
+Parking is plenty	3
+free wifi	3
+YELP  CHALLENGE	3
+place is a hidden	3
+chow main	3
+meat  with just the right amount	3
+putting their best efforts	3
+interior of the restaurant	3
+buy  get  free	3
+deep fried shrimp	3
+baked BBQ pork	3
+Ranch Market	3
+Vegas  years	3
+helpful and attentive	3
+food was fresh and good	3
+noodles with BBQ pork	3
+dinning area	3
+Pho Kim Long has the best pho	3
+find something they ll	3
+watch them make	3
+friend s birthday	3
+bowl was large	3
+ginger and garlic	3
+greeted immediately	3
+ladies pushing the carts	3
+orders  my wife	3
+location opened	3
+authentic Thai	3
+vegetable stir fry	3
+high class	3
+jerk chicken rice	3
+corn tortillas	3
+juicy and tender	3
+beaten path	3
+pea pods	3
+quick stop	3
+bit slow	3
+Beef Pepper	3
+fried chicken and rice	3
+dishes range	3
+BBQ pork rice	3
+big screen	3
+flavor was perfect	3
+tofu deep fried	3
+make sure I didn	3
+complimentary tea	3
+king crab	3
+plate filled	3
+tip added	3
+lunch and it was great	3
+lettuce chicken wraps	3
+service was great and the food was good	3
+Brazilian Japanese	3
+white wine	3
+chow mien noodles	3
+amazing from the service to the food	3
+Vietnamese iced coffee	3
+cater to an American	3
+Crispy Duck Salad	3
+authentic Szechuan	3
+pork potstickers	3
+quickly prepared	3
+Chinese authentic	3
+low rating	3
+fried veggies	3
+larger parties	3
+find a Chinese restaurant	3
+texture was great	3
+drunken chicken	3
+fast chinese food   Although this particular place	3
+flag down a waiter	3
+hostess seated	3
+place and decided to give	3
+area for work	3
+sticky rice in lotus leaf	3
+told my friend	3
+fast food joint	3
+overcooked noodles	3
+born and raised	3
+live right around the corner	3
+money to spend	3
+chicken  beef and broccoli	3
+crossing my fingers	3
+spicy and salty	3
+Yunnan Garden	3
+peak hours	3
+experience with dim sum	3
+lunch specials are anywhere from      They include soup	3
+decor and atmosphere	3
+overcooked and dry	3
+clean and comfortable	3
+combo specials	3
+tiger shrimp mango salad	3
+chairs and tables	3
+chicken wraps	3
+green curry chicken	3
+fried rice  lo mein	3
+meat off the bone	3
+red pepper flakes	3
+serve alcohol	3
+share around the table	3
+pork was cooked	3
+greeted by a friendly	3
+noodle stir fry	3
+eat healthy	3
+Hakka Noodles	3
+long life	3
+broth was light	3
+Lan Zhou Beef Noodle Soup	3
+interior is clean	3
+Thai  Vietnamese	3
+ve found this place	3
+bean paste	3
+San Gabriel	3
+standard Chinese fare	3
+Rou Jia Mo	3
+Cosmopolitan hotel	3
+lunch stop	3
+portions and reasonable prices	3
+work lunch	3
+hard to chew	3
+brunch buffet	3
+front of the store	3
+reason I give	3
+mom and pop shop	3
+extra napkins	3
+meat was tough	3
+valley this place	3
+lunch yesterday	3
+ve driven	3
+sake selection	3
+tofu cubes	3
+dry fried rice	3
+eaten Chinese food	3
+food is prepared fresh	3
+hot  temperature	3
+neighborhood restaurant	3
+leftovers for lunch	3
+Peking pork chops	3
+tendon and tripe	3
+chicken corn	3
+included on the menu	3
+bland and the rice	3
+helpful waitress	3
+strong drink	3
+hostess asked	3
+crispy fried noodles	3
+Philly roll	3
+bowl of noodle soup	3
+bad taste	3
+kinda bland	3
+spent my money	3
+great price    Lunch	3
+taste like orange chicken	3
+beef pies	3
+Yelper mentioned	3
+red velvet	3
+wide rice noodles	3
+bowl and a small	3
+place was clean and the service	3
+restaurant is located inside	3
+deep fried chicken	3
+reviewer stated	3
+sesame chicken and orange	3
+fried rice  vegetable	3
+male server	3
+hanger steak	3
+watery sauce	3
+veggies mixed	3
+worthy of  stars	3
+half a dozen times	3
+top quality	3
+fast  cheap	3
+hot   sour soup  the bowl	3
+friendly service  good	3
+greeted with a smile	3
+comped the meal	3
+flavorful and it had almost a subtle	3
+thing or a bad	3
+selection of desserts	3
+soda machine	3
+roti pancakes	3
+patiently waited	3
+sizes are large	3
+terrible food	3
+mind paying	3
+Basil Chicken	3
+full belly	3
+close to an hour	3
+pork and cabbage	3
+diablo chicken	3
+city of sin	3
+Madison and this place	3
+good food and great service	3
+ong choy	3
+birthday party	3
+friends from work	3
+Good service  friendly	3
+faux meat	3
+time it takes	3
+grab a bite	3
+casual atmosphere	3
+customer service was horrible	3
+pork blood	3
+tender pork	3
+bill totaled	3
+ox tail	3
+Kim Long	3
+perfect spice	3
+ve ever had in my life	3
+seafood udon	3
+Staff is friendly  place is clean	3
+fellow diners	3
+heard good	3
+broth  beef	3
+Chinese broccoli with oyster sauce	3
+line was long	3
+spot for lunch	3
+Vegas Weekly	3
+veggie egg	3
+finish half	3
+soup was bland	3
+skewers of beef	3
+spicy chili	3
+unique dishes	3
+translated into English	3
+broth was spicy	3
+Interesting decor	3
+staff is awesome	3
+wheat noodles	3
+Orange Chicken with crispy	3
+delivery is free	3
+Las Vegas restaurant	3
+made noodles	3
+prompt and friendly	3
+due to lack	3
+dark brown	3
+drinks are strong	3
+styrofoam plates	3
+eat or wanted	3
+appetizers we had lettuce wraps	3
+China Village	3
+work close	3
+restaurant  is the worst	3
+banana dessert	3
+delivery Chinese food	3
+food arrived hot	3
+finished the entire	3
+Black Bean Clams	3
+favorite part of the meal	3
+place in the neighborhood	3
+beef with fried noodles	3
+Szechuan beef noodle soup	3
+sweet and sour dipping sauce	3
+mood for Chinese food	3
+outrageous prices	3
+sweet and tangy	3
+food and I can say this is one of the best Korean	3
+pork and duck	3
+Hu Tieu	3
+snow crab	3
+El Topo	3
+authentic cuisine	3
+food isn t great	3
+mini desserts	3
+great place for groups	3
+onions and peppers	3
+surprisingly nice	3
+bill comes and I usually pay	3
+amount of meat	3
+Chinatown in Las Vegas	3
+dripping in oil	3
+place  I give them  stars	3
+home  We went back	3
+friendly employee	3
+noodles were crispy	3
+noodles are hand made	3
+clean environment	3
+fancy restaurant	3
+beef noodle stew	3
+boiled fish	3
+ve been back a few times	3
+mochi balls	3
+lady owner	3
+beat the lunch specials	3
+bad  but it wasn	3
+week night	3
+Chinese Cultural	3
+night long	3
+jam packed	3
+entire plate	3
+Wynn Hotel	3
+flavorful and rich	3
+menu  explaining	3
+soy sauce chicken	3
+staying at the Luxor	3
+difficult to eat	3
+blah blah	3
+water glass was always full	3
+foo young	3
+hadn t eaten	3
+boiled chicken	3
+explore the menu	3
+charge you   gratuity	3
+weeks back	3
+plates are small	3
+pickup order	3
+expectations were too high	3
+table and brought	3
+red curry with chicken	3
+check and asked	3
+mentioned in her review	3
+mein  chow	3
+drink at the bar	3
+Avoid at all costs	3
+introduced to this place	3
+watch people	3
+wipe the tables	3
+recommended by the waiter	3
+pepper shrimp	3
+spice and flavor	3
+left happy and full	3
+average  Service	3
+small amount	3
+fried rice cake	3
+minutes for the food to arrive	3
+short wait	3
+English speaking	3
+couldn t decide	3
+casino hotel	3
+hot stone	3
+pretty reasonably priced	3
+preserved pork	3
+dessert bar	3
+pay for your meal	3
+couple of months ago	3
+Yelp and decided	3
+pleasant staff	3
+based solely	3
+Chinese place in the valley	3
+service was terrific	3
+blah blah blah	3
+curry laksa	3
+meal to satisfy	3
+food has a good taste	3
+plate clean	3
+casino on the strip	3
+ox tail soup	3
+atmosphere is comfortable	3
+full and satisfied	3
+automatic tip	3
+doubt I ll	3
+accompanying sauce	3
+Christmas Eve	3
+place for some good Chinese Food	3
+staff is wonderful	3
+MSG  I don	3
+arrive early	3
+pretty close	3
+cream cheese filled	3
+Hainan Chicken Rice	3
+previously frozen	3
+melted cheese	3
+time I go back to Vegas	3
+huge serving	3
+xo green beans	3
+buffet Chinese	3
+table within  minutes	3
+disappointed that they didn	3
+staying at the Wynn	3
+nights  On Friday	3
+Chinese Buffets in the Valley	3
+helpful in explaining	3
+table to be cleared	3
+year old daughter	3
+prawn crackers	3
+customer care	3
+Chinese fix	3
+portions are ample	3
+Don t waste your money	3
+onion jam	3
+soft tofu	3
+supposed to be spicy	3
+vegetable egg rolls	3
+dried scallops	3
+slightly higher	3
+matter of fact	3
+service was superb	3
+BoBo Brazil roll	3
+lounge area	3
+Vegas for  days	3
+hard to find good Chinese	3
+wanton soup	3
+soup noodle   The beef	3
+great deal of lunch specials	3
+times in the past year	3
+couple bites	3
+return trip	3
+reviews raving	3
+red chili peppers	3
+Chinese speaking	3
+ate half	3
+chock full	3
+mind and don	3
+don t plan	3
+Asian Cafe	3
+ve never had a bad meal	3
+fried crispy	3
+meat pieces	3
+Saturday evening	3
+comfortable seating	3
+minimum for credit cards	2
+carte items	2
+tasted stale	2
+food Chinese restaurant	2
+back and bring	2
+lunch time special	2
+server  the manager	2
+choose to pick	2
+soup  choice	2
+people to share	2
+order    who knows  I most likely wouldn	2
+delivery and it took h mins	2
+review to write	2
+don t write	2
+pretty dang	2
+pork sandwich	2
+friendly and polite	2
+list of items	2
+piece of paper	2
+Vegas on vacation	2
+lo mein and chicken	2
+chicken with white	2
+Hot Garlic Sauce	2
+wontons filled	2
+entree get one free	2
+meal wasgreat half	2
+glad I found this place	2
+Pu Pu	2
+dumpling noodle soup	2
+tasty broth	2
+search for good Chinese food	2
+line of people	2
+plates were dirty	2
+visit definitely has had me not return	2
+selection is huge	2
+received better service	2
+charbroiled pork	2
+tempura batter	2
+drink alcohol	2
+quality is consistent	2
+Chou s Kitchen	2
+tables and booths	2
+drinks were brought	2
+food is made fresh	2
+put it simply	2
+appetizer of calamari	2
+King Wong	2
+mistake they may make	2
+chicken combo	2
+plastic cups	2
+Yun Nan Garden	2
+portions are enormous	2
+pulled into the parking lot	2
+server bartender	2
+ridiculously priced	2
+wontons  shrimp	2
+dinner on a Friday night	2
+American Chinese style	2
+roast pork and duck	2
+drink night	2
+days before Christmas	2
+glutinous rice	2
+food was some of the better Chinese we ve	2
+dining establishment	2
+good reviews about this place	2
+quickly served	2
+seafood was fresh	2
+potato mash	2
+pepper and chili	2
+yum cha	2
+rating based	2
+family happy	2
+Duck  Peking	2
+sour chicken	2
+fried green beans	2
+cuisine like other Asian	2
+eyes rolled	2
+woks and hot	2
+pan seared	2
+pork belly is braised	2
+minutes  I called	2
+SF Chinatown	2
+chicken quesadilla	2
+chow mein with shrimp	2
+happy customer	2
+noodles   I usually get the singapore	2
+menu  Americanized	2
+good cheap food	2
+Pei Wei Spicy	2
+wrapped chicken	2
+years since I moved	2
+pm on a Friday night	2
+beef marinated	2
+back to   We could also see ourselves just coming	2
+Chinese American restaurant	2
+place is cute	2
+time I visit Vegas	2
+food in the comfort	2
+roast pork and roast duck	2
+chicken  red jade	2
+music is so loud	2
+set up a table	2
+pork and shrimp dumplings	2
+experience was bad	2
+wine selection	2
+moderately priced	2
+expect  I don	2
+fast service  friendly	2
+frying pan	2
+Peruvian  and Brazilian	2
+money spent	2
+Monday through Friday	2
+soy sauce for dipping	2
+English is limited	2
+bit higher	2
+star earned	2
+Neo Tokyo Roll	2
+bad   and then again it isn	2
+katsu chicken	2
+dinner on a Saturday night	2
+day  we ate	2
+Iced Thai Tea	2
+ve been to dim sum places	2
+Spring Mountain Chinatown	2
+side sauces	2
+fried shrimp balls	2
+consistent food	2
+calamari with salt and pepper	2
+crispy spinach	2
+options for vegetarians	2
+friendly and fast service	2
+shredded beef	2
+tip and tax	2
+attentive waitress	2
+place with a type	2
+delivery was  minutes	2
+polite and attentive	2
+fried or white rice	2
+real authentic	2
+mentioned previously	2
+waitress was very rude	2
+tripe  tendon	2
+fruit smoothies	2
+food is still good  but it s not so fast	2
+XO spicy sauce	2
+good place to get Chinese	2
+snicker doodle cookie	2
+rolls  tempura	2
+bring our check	2
+siu bao	2
+back any time soon  I ll	2
+house specialties	2
+House because it is close	2
+ginger and green onion	2
+Salted Fish and Chicken Fried Rice	2
+noodle chow mein	2
+made at home	2
+sweet soy	2
+bowl of white rice	2
+fusion of mexican and chinese	2
+interesting concept	2
+wonderful experience	2
+visit again  next time I m in Vegas	2
+gourmet Chinese	2
+playing music	2
+real authentic Chinese	2
+middle of the road	2
+steamed vegetables	2
+ll update	2
+sum  The dim	2
+hard to find good Chinese food	2
+Kung Pao Chicken I ordered	2
+Chicken  General	2
+spicy garlic chicken	2
+chicken was battered	2
+large portion sizes	2
+prices  good food	2
+staff was pleasant	2
+previously mentioned	2
+banana leaf	2
+sweet sauce  spicy	2
+decent sized portion	2
+place deserves	2
+mango salad	2
+location on Central	2
+lunch or quick	2
+traditional Chinese restaurant	2
+loud talking	2
+place in Madison	2
+rice instead of white	2
+owners are super	2
+lunch special offered	2
+find in Phoenix	2
+kick   I also REALLY liked their spicy	2
+cup not those small	2
+hasn t changed	2
+rolls and beef	2
+noodles were overcooked	2
+duck was crispy	2
+dining experience and great	2
+wanted and told	2
+meal combo	2
+empty glasses	2
+food is freshly cooked	2
+soft bun	2
+day they opened	2
+working the counter	2
+beer selection	2
+top notch service	2
+water to drink	2
+generous portion sizes	2
+beans and green	2
+shrimp with garlic	2
+skimp on the meat	2
+owner and staff	2
+baked pork	2
+menu is diverse	2
+refill tea	2
+including tax and tip	2
+wasn t overly	2
+Kung Po	2
+price and portion size	2
+months and one time	2
+family style servings	2
+half shell	2
+salt and pepper wings	2
+fingers crossed	2
+entrees including	2
+add soy	2
+pea leaves	2
+balls  sesame	2
+chili flakes	2
+bao  pork belly	2
+HH menu	2
+Prices are great  especially for lunch	2
+love this place  I love	2
+tempura green beans	2
+owners from their previous	2
+consistent quality	2
+sauce  let alone a lobster	2
+price is not worth	2
+tables that arrived	2
+rice  brown	2
+time   I ll be back	2
+wonton soup with egg noodles	2
+check comes   And what do you know  it s not split	2
+thing positive	2
+soy sauce added	2
+combination chow mein	2
+bit heavy	2
+fried noodles with seafood	2
+Thai cravings	2
+perfect blend	2
+paying  bucks	2
+fish fried	2
+menu and if you want to take the dessert	2
+town from China	2
+sweetness of orange chicken	2
+style Thai	2
+huge pieces	2
+restaurants in Chinatown	2
+drive  mins	2
+white or brown	2
+waited  I sat	2
+Year s Eve	2
+place a  star rating	2
+basil thai	2
+salty  a bit	2
+finally arrived	2
+general tsos chicken	2
+chili mint	2
+spicy string beans	2
+hand washing	2
+meal was the highlight	2
+didn t speak	2
+mall food court	2
+server was very knowledgeable	2
+nice waiter	2
+chicken  shredded	2
+ambiance and decor	2
+beef satay	2
+service and food was amazing	2
+posted pictures	2
+oil sauce	2
+Fast  good service	2
+chicken with black bean	2
+ordered what my bf	2
+rice  jasmine	2
+people in our group	2
+wait a bit	2
+onions  bell peppers	2
+live in Las Vegas	2
+menu has a variety	2
+salt and pepper prawns	2
+happy and full	2
+brought us some water	2
+ordered the Pad Thai with chicken	2
+Pretty sure I got food	2
+room for dessert	2
+rolls  they do in California	2
+pretty place	2
+young coconut	2
+ordered the Pad	2
+pepper and salt	2
+dishes  curry	2
+samples of their most popular	2
+early lunch	2
+wasn t a big	2
+beef in the broccoli beef	2
+feeling adventurous	2
+rolls  egg	2
+tables are small	2
+spiced perfectly	2
+drive to spring mountain	2
+told me over the phone	2
+combo fried	2
+pork was crispy	2
+Fried   A stir	2
+soggy noodles	2
+green beans with garlic	2
+jobs  Not sure what they were going for  But whatever   Great	2
+candied walnuts	2
+forward to my next visit	2
+friendly  great service	2
+wok cooking	2
+Chicken with Orange Peel	2
+suggestions  My friend	2
+delicious hot	2
+ve had  but not the worst	2
+egg fu yung	2
+pepper squid	2
+dessert was the banana	2
+decor is simple	2
+includes egg	2
+selection was decent	2
+minutes of sitting	2
+ample portions	2
+sauce without drowning	2
+food and the amount	2
+lunch specials can t be beat	2
+black beans and jerk fried rice	2
+hankering for Chinese	2
+restaurant run	2
+dining area was clean	2
+dining room is clean	2
+fantastic service	2
+empty restaurant	2
+found on Yelp	2
+chunks of pineapple	2
+front of our table	2
+room for improvement	2
+order repeated	2
+chicken  mongolian beef	2
+walk up to the counter	2
+stir fried beef	2
+rice was sticky	2
+Lotus of Siam	2
+lunch on a weekday	2
+waiter was very friendly	2
+Shrimp and Chive Dumpling	2
+shrimp mango	2
+mango crepe	2
+quick to arrive	2
+huge plate	2
+space with tables	2
+buns filled	2
+choices are limited	2
+pig intestines	2
+mouth melting	2
+Food was good  Yes I was surprised	2
+place is great for groups	2
+tomorrow s lunch	2
+casino and when we walked	2
+beef with snow peas	2
+average price	2
+calamari appetizer	2
+night of the week	2
+Mr  Sandwich	2
+Asia buffet	2
+pho at Pho Kim Long	2
+cut into pieces	2
+service and excellent food	2
+food is freshly made	2
+super fast delivery	2
+snicker doodle	2
+staying at the Bellagio	2
+tender pieces	2
+great  I wasn	2
+steaming bowl	2
+strip or even driving	2
+tea drinks	2
+flavor was lacking	2
+door we were greeted	2
+charge for tea	2
+dinner  there on my birthday	2
+ingredients were quality	2
+food  The rest	2
+marinated beef	2
+Service was fast and efficient	2
+sushi eating	2
+bones  Duck	2
+entree selection	2
+place or hate	2
+glad I finally	2
+ladies with the carts	2
+Imperial Palace	2
+told the owner	2
+choose what dishes	2
+chopped chicken salad	2
+giving a  star review	2
+easy to make	2
+Cantonese style Chinese	2
+pm on a Saturday night	2
+roast duck and bbq pork	2
+back on my next trip	2
+minutes even though they always quote	2
+selection of sushi	2
+sliced cucumber	2
+alcoholic drinks	2
+green onion and ginger	2
+chicken  jade	2
+flavor to balance	2
+food is authentic Chinese	2
+moist on the inside	2
+pork and preserved egg	2
+till pm	2
+rolls  rice noodle	2
+crowd   The place	2
+egg and veggies	2
+China Joe	2
+ordered the sweet and sour	2
+member of staff	2
+noodle house style	2
+food   Prices are reasonable	2
+hour from  pm	2
+justify the price	2
+bar setting	2
+noodle curry	2
+bao   duck	2
+didn t have a long wait	2
+dipping sauce and you like the curry	2
+restaurant in a fancy	2
+combo dinner	2
+price if the food was good	2
+friend brought	2
+owned place	2
+style dishes	2
+quick to deliver	2
+manager and our server	2
+stomach is so upset	2
+seared chicken	2
+guests in town	2
+lamb potstickers	2
+noodles  pan fried	2
+good too    There were soooo	2
+overcooked shrimp	2
+story short	2
+crowd for lunch	2
+found a Chinese restaurant	2
+spring rolls and egg	2
+rice and pork chop	2
+chicken chow	2
+giving it another shot   I must say that this place	2
+coke machine	2
+tofu was crispy	2
+noodles   The flat	2
+Szechwan Beef Noodle Soup	2
+spicy crispy eggplant	2
+excellent customer service	2
+inside the Gold Coast	2
+Rainbow Dragon	2
+dried pork	2
+msg tasting	2
+Vegas weekend	2
+food is excellent  quality	2
+places to eat in Vegas	2
+bowl size	2
+special dinner	2
+Pho Saigon	2
+Diamond China	2
+duck skin	2
+similar taste	2
+meal was great	2
+ll bring	2
+seared ahi	2
+lunch on a weekend	2
+work here are friendly	2
+jalapeno slices	2
+combo for him  then an order	2
+sauce overpowered	2
+screen TV	2
+high ceilings	2
+items  Dim sum	2
+selection of dim sum	2
+pm  The specials	2
+wait was short	2
+Beef Pepper Steak	2
+easy and quick	2
+baked BBQ	2
+homely feel	2
+mom used to make	2
+veggies  shrimp	2
+Phoenix metro	2
+deals are great	2
+stop making	2
+taste in my mouth	2
+reading the Yelp	2
+pretty much looked	2
+weekend lunch	2
+choice with good	2
+icing on the cake	2
+sprinkled on top	2
+min for delivery	2
+Eat here and you ll	2
+description on the menu	2
+wall decor	2
+rice  egg	2
+certificates at restaurants	2
+Sunday dinner	2
+pay for something that we didn	2
+sitting on the counter	2
+cocktail shrimp	2
+size was nice	2
+dessert for free	2
+big eater	2
+Yang Chow	2
+service was extremely	2
+awesome staff	2
+Chow Seafood	2
+Chinese cravings	2
+cooked veggies	2
+didn t even apologize	2
+nice quiet	2
+Expensive  small portions	2
+place is fast food	2
+group of  was seated	2
+served with soft	2
+Cantonese speaking	2
+seafood chow fun	2
+salty and sweet	2
+courteous service	2
+wonderful service	2
+BBQ pork noodle	2
+poor quality food	2
+restaurant I have ever eaten	2
+Chinese restaurant    My favorite	2
+soup  seafood	2
+day  I was sick	2
+Friday from pm	2
+hot and sour soup  egg drop	2
+ate the whole thing	2
+wow factor	2
+bowl of hot and sour soup	2
+chefs prepare	2
+sweet and sour pork  chicken	2
+soups  Egg Drop or the Hot Sour	2
+lot of food for the price	2
+veggie options	2
+minced beef	2
+barely speak English	2
+English very well  AND she spoke	2
+Friday night around pm	2
+sign of a good	2
+small portion for the price	2
+place   good things	2
+coming out  We started	2
+chicken panang	2
+back and brought	2
+tasty treat	2
+leaves you wanting	2
+vegetables were cooked	2
+salted fish fried rice	2
+money   save	2
+vegetables mixed	2
+playing games	2
+bit high	2
+meat choices	2
+spicy and it wasn	2
+closed down  So we were pretty	2
+notice that they ve	2
+good   FOOD  Chinese	2
+recommend it highly	2
+Lan Zhou	2
+good   Service was fast	2
+tasted like sweet	2
+Nice clean place	2
+long bao	2
+egg drop or wonton soup	2
+duck and bbq	2
+salt foam	2
+food was good  the service was great	2
+bill was only about   dollars	2
+Chang s Spicy Chicken	2
+place is owned	2
+order was incorrect	2
+review update	2
+hopes were high	2
+strip mall location	2
+Great service and the food was great	2
+cashew nuts	2
+minutes for my check	2
+expected more   No I didn	2
+rice  white or brown	2
+China Magic	2
+meal are the best part	2
+explosion of flavors	2
+special house	2
+fried noodles with beef	2
+waitress was very attentive	2
+business    It s usually pretty	2
+tofu  spicy	2
+decent portion	2
+left stuffed	2
+Vegas visit	2
+English menu	2
+bowls of soup noodles	2
+Items Selected	2
+delivery is super fast	2
+Golden Dragon	2
+time we ordered for delivery	2
+water glass was never empty	2
+Phoenix metro area	2
+curry red	2
+sweet and sour chicken and I ordered	2
+tomato beef	2
+Dirty Dining	2
+soup with rice noodles	2
+pork egg	2
+Chinese food  this is a good place	2
+forward to returning	2
+reasonable and the portions	2
+compared to other pho	2
+orange chicken lunch special	2
+buffet in the valley	2
+smoke smell	2
+shrimp  salt and pepper	2
+fried battered	2
+shrimp with lobster	2
+left overs the next day	2
+dirty floor	2
+gave me   off for no reason	2
+carts pushed	2
+Cook on Wok	2
+BBQ pork and duck	2
+reason I give this place  stars	2
+turn the tables	2
+regular menu that you can only order	2
+wait to sit	2
+helpful staff	2
+hidden place	2
+green chicken curry	2
+skewer is a must try  Tried lamb	2
+charged my card	2
+egg rolls they included	2
+empty water glass	2
+food is high quality	2
+meal ended	2
+fan of Chinese food	2
+soy sauce to add	2
+home makes	2
+tables in the middle	2
+Dim Sum served all day	2
+seated  even though there were plenty	2
+prices are reasonable and the food	2
+negative stars	2
+knowledgeable and friendly	2
+heaping portion	2
+yum soup	2
+bright and clean	2
+seating  but without reservations	2
+back of the head	2
+minutes they finally	2
+pepper flakes	2
+place for dimsum	2
+bland   The fried rice	2
+broccoli and shrimp	2
+servers speak	2
+meals and were disappointed	2
+Yelp  we found this place	2
+eat at Panda	2
+American palate	2
+understand why people	2
+perfect combination	2
+eaten at the restaurant	2
+night at pm	2
+ordered the family	2
+forgot to bring	2
+good tasting food	2
+Great food for the price	2
+order off the regular menu	2
+back next time I m in Vegas	2
+table with the cart	2
+prices are extremely	2
+Roll Green Envy	2
+General Tao	2
+portions are great	2
+pan fried noodles with seafood	2
+decor on the walls	2
+sat at the sushi bar	2
+give them an extra star	2
+pepper pork	2
+fried rice instead of white	2
+chicken teriyaki bowl	2
+variety is great	2
+phone told	2
+cup of water	2
+fluffy and light	2
+complimentary dessert	2
+chicken  in soy sauce	2
+front of the line	2
+delivery minimum	2
+types of Asian	2
+couldn t understand	2
+refilling glasses	2
+white rice  brown	2
+breast meat	2
+street to Panda Express	2
+Asian patrons	2
+combination dinner	2
+dim sum joint	2
+service was pleasant	2
+sauce and oyster	2
+bite sized	2
+specials include	2
+sauce   The teriyaki	2
+cheap  Good food	2
+prices aren	2
+wrapped in lettuce	2
+round up to  stars	2
+large portion for the price	2
+TV playing	2
+Chinese food and Mexican food	2
+egg foo	2
+back  but I do plan	2
+worst customer service	2
+special fried rice	2
+shrimp  This coconut	2
+ratio of meat	2
+street from my house	2
+eat without feeling	2
+love the family	2
+rated higher	2
+disappointed and won	2
+service is great and fast	2
+Reasonable prices  good food	2
+clubbing all night	2
+tea refills	2
+weird texture	2
+garlic spicy	2
+years I ve been coming	2
+dish that is simple	2
+bold flavors	2
+wait didn	2
+vegetable egg	2
+Cantonese and Mandarin	2
+upset stomach	2
+decide  but we just couldn	2
+limited seating	2
+spoonfuls of the soup	2
+chicken  black pepper	2
+good  And damn	2
+wait time can be a little long	2
+Asian Mexican fusion	2
+plates away before we had even finished	2
+made by hand	2
+Americanized Asian	2
+Chinese food I ve ever had it was far from the worst	2
+looked and smelled	2
+sum place	2
+Sun Devil Chicken	2
+bit overcooked	2
+location  original	2
+Pork Peking	2
+ramen  that s what I m going to do as miso	2
+waiting for tables upto  minutes	2
+plate piled	2
+loud music	2
+rock shrimp	2
+date place	2
+forward to coming back	2
+super friendly and helpful	2
+prompt and courteous	2
+lived here for  years	2
+ladies pushing	2
+beans in black	2
+service was nice and friendly	2
+plate was empty	2
+hungry and leave	2
+vegetables were crisp	2
+cashew shrimp	2
+Valley and this is Chinese food	2
+ve been a here a few times and I either order	2
+shrimp with walnuts	2
+spicy chicken dish	2
+give you a lot of food	2
+roast duck noodle soup	2
+sum experience	2
+extra buck	2
+standards are pretty	2
+good   It didn t taste	2
+healthy eating	2
+pho and vietnamese	2
+couple weeks	2
+Ping Pong Pang	2
+based soup	2
+eat at one sitting	2
+immediately greeted	2
+dishes like spicy chicken	2
+dim sum standards	2
+food was pretty good as well  Exactly what you d want from a Chinese	2
+fried rice with bbq pork	2
+food was prepared quickly	2
+minutes it is ready	2
+iced green tea	2
+cooking  even the chefs	2
+entrees to share	2
+management staff	2
+sushi including	2
+lunch prices are great	2
+waste    I don	2
+courteous staff	2
+friendly  attentive service	2
+chicken  honey	2
+trays were empty	2
+typical Chinese American food	2
+Wong is BIG	2
+noodles  lo mein	2
+empty tables	2
+opened about  years ago	2
+service was friendly and efficient	2
+water but it never got empty	2
+fried salt and pepper	2
+cookie with your meal	2
+depth of flavor	2
+Chinese favorites	2
+drive is worth	2
+mustard and hot	2
+pretty good in taste	2
+server to bring	2
+Truth is here the truth	2
+Rou Jia	2
+centrally located	2
+place is a hole in the wall	2
+plastic bag	2
+weekday lunch	2
+doesn t sound	2
+talking loudly	2
+curry duck	2
+box for our leftovers	2
+roll and the Summer	2
+wouldn t recommend this place	2
+spot for great	2
+clean and bright	2
+nice and super	2
+table to check	2
+ordered separately	2
+banana fried	2
+noodles were perfectly cooked	2
+neighborhood or live	2
+sushi rolls   We ordered	2
+style BBQ	2
+rolls  spider	2
+earlier this week	2
+salmon roll	2
+including sushi	2
+fat to meat	2
+Chinese buffet food	2
+entire table	2
+manager call	2
+good   Overall the price was pretty	2
+wontons  fried	2
+plate  they put	2
+give my money	2
+roll  shrimp tempura	2
+set foot	2
+sweet and sour and orange chicken	2
+tender chicken	2
+spicy sweet sauce	2
+Yelp rating	2
+table space	2
+egg spring roll	2
+general tsos	2
+reviews from other Yelpers	2
+decided to review	2
+coming here as a family	2
+bottle of beer	2
+Chinese Gourmet	2
+buffet and an Asian	2
+egg noodles  wontons	2
+Samba Strip	2
+back  Haven	2
+close to  minutes	2
+loaded with veggies	2
+pretty decent for the price	2
+texture that was chewy	2
+bowl of hot	2
+fan of PF Changs	2
+eating and starts	2
+Spicy Basil	2
+didn t have to wait	2
+typical Chinese American	2
+honey crispy chicken	2
+ordering  We ended	2
+tacos  lobster	2
+food quality is always good	2
+quality control	2
+included an egg roll	2
+salt   pepper wings    the chicken	2
+Jacky Chan	2
+red snapper	2
+rolls for    and two specialty	2
+clean and the staff	2
+lunch on a Sunday	2
+hot and sour soup I ordered	2
+lived in Phoenix	2
+back for sure  Call	2
+portions for a good price	2
+trip I make	2
+buffet brunch	2
+mistake I made	2
+time frame	2
+dont expect	2
+pork pieces	2
+Taste of food  Good	2
+full table	2
+hard time finding	2
+wasn t crazy	2
+places nearby	2
+crisp vegetables	2
+week for lunch	2
+food in the valley	2
+effort they put	2
+manager asked	2
+Dim Sum is decent	2
+quality of the food is excellent	2
+pm dinner	2
+night we ate	2
+dumplings  steamed	2
+great prices and good food	2
+delicious  I absolutely	2
+fifteen minutes	2
+big smile	2
+shiitake mushrooms	2
+menu   In  perusing	2
+friendly service and great	2
+quesadilla  emerald chicken	2
+couple bucks	2
+jerk fried chicken	2
+feel like cooking	2
+hotel  we d still go back	2
+BBQ duck and pork	2
+mustard greens	2
+seasonal vegetables	2
+sticky rice and mango	2
+menu and regular	2
+friendly and quick	2
+table and left	2
+moving here  years ago	2
+patrons were Asian	2
+duck and roast pork	2
+food is excellent  the service was as good	2
+Samba Strip Roll	2
+flavor was bland	2
+meal  now pay	2
+background music	2
+call ahead and order	2
+beef stew soup	2
+entree portions	2
+wait in long lines	2
+soup w corn	2
+lack of customer service	2
+pleasant service	2
+Chinatown restaurant	2
+place  I wanted	2
+food variety	2
+steamed broccoli	2
+visits this year	2
+portions were decent	2
+super tender	2
+buffet in town	2
+joined by Mike	2
+service  but I think they need to slow down a bit	2
+sauce and chili	2
+crispy orange chicken	2
+dinner early	2
+flavor of the curry	2
+effort to make	2
+working the front	2
+honey garlic	2
+staff are friendly and super	2
+garlic  ginger	2
+soft serve ice cream	2
+duck and roast	2
+thing to getting real	2
+spicy scale	2
+dumplings  shrimp	2
+Thai iced	2
+cubes of tofu	2
+dishes that are popular	2
+lady at the front	2
+cucumber martini	2
+prices were pretty decent	2
+ordered off the lunch menu	2
+bill was paid	2
+full plate	2
+cheap lunch specials	2
+Don t judge a book by its cover	2
+told the wait would be  minutes	2
+meals  and I enjoyed	2
+experience   stars	2
+udon seafood	2
+dirty plates	2
+dinner with family	2
+pork dumplings  shrimp	2
+dinner and on the weekends	2
+battered and deep fried	2
+Chinese restaurant  but is definitely an authentic	2
+work and home	2
+paid and left	2
+inflated prices	2
+waiter suggested	2
+Chinatown on Spring Mountain	2
+egg roll and fried	2
+SEA BASS   MISO	2
+plain rice	2
+pork filling	2
+extra spicy as I d ordered	2
+great portion for the price	2
+tacos  carnitas	2
+crappy service	2
+waiter recommended	2
+location in Chandler	2
+coconut juice	2
+price     can t complain	2
+spring rolls are fresh	2
+teriyaki beef	2
+tip automatically	2
+miso sea bass	2
+feel she didn	2
+Chinese takeaway	2
+easily feed	2
+Food is good but not great   Service	2
+Lee s Sandwiches	2
+pepper  hot	2
+atmosphere is relaxed	2
+potato chicken	2
+Shrimp Har	2
+baked pork buns	2
+thing good about this place	2
+Holy crap	2
+sweet and a bit	2
+place hit	2
+offer brown rice	2
+refills on sodas	2
+flower soup	2
+vegetable chow mein	2
+area Scottsdale	2
+chrysanthemum tea	2
+service level	2
+York Chinese	2
+Long Island	2
+quantity and quality of food	2
+stew noodle	2
+water and hot tea	2
+price the food is great	2
+Li s Bowl	2
+notice I didn	2
+typical Chinese food	2
+full and happy	2
+menu with pictures	2
+roll  crab	2
+feel comfortable	2
+half of it home	2
+ve ever encountered	2
+chinatown is  drive	2
+bowl of wonton	2
+salad  fruit	2
+added a   gratuity	2
+barbeque pork	2
+metro area	2
+Americanized Chinese cuisine	2
+cucumber slices	2
+fried rice and black beans	2
+tea cup	2
+egg over rice	2
+Great food  good service	2
+pepper pork chops	2
+cookie  Snickerdoodle	2
+Pho with beef	2
+friendly and welcoming	2
+lights dim	2
+pea shoots	2
+noodle  dry	2
+drive  make	2
+tofu seafood	2
+busy  Well yes its my local	2
+staff is courteous	2
+portion of the entree	2
+dim sum places I ve	2
+drink fountain	2
+crispy honey chicken	2
+attentive waiters	2
+nice and the place is clean	2
+service   It s not that the customer	2
+make eye	2
+duck tongue taco	2
+North Las Vegas	2
+half  so we had to do it  We had to at least eat	2
+day for the rest	1
+curry fish balls	1
+Thai beef salad	1
+buns  steamed	1
+glass of ice	1
+salad    The calamari	1
+hot chili sauce	1
+Chinese neighborhood	1
+screen for big	1
+worries  they don	1
+Phoenix may be what you re looking for  especially if you re in North	1
+orange chicken and sweet	1
+serving style when it comes to  family	1
+mango shrimp	1
+menu is some Americanized Chinese	1
+accommodating and friendly	1
+egg roll  and veggies	1
+past couple	1
+ton noodle	1
+courteous and prompt	1
+tasted like chicken no orange	1
+quickly upon arriving and but did not get our food	1
+sauce  and black beans	1
+Japanese fusion	1
+room of Hotel	1
+waitress hostess	1
+tank  but think I only saw one fish	1
+pork with sour	1
+craving Chinese  or good food	1
+Lo Mein  Shrimp	1
+bao  steamed	1
+Veggie pickle	1
+years since it s opened	1
+Vegas   One of the better dim sum places	1
+mustard sauce	1
+rated so high	1
+Portions are small  It s relatively expensive	1
+changed ownership	1
+place more then one star  I would give	1
+bucks So i went up and payed	1
+people and the bill	1
+spoon or fork	1
+Szechuan style	1
+strip  non casino	1
+place   That is why I gave them two stars	1
+menu   The hours	1
+cost of a meal	1
+Las Vegas Chinatown	1
+week earlier	1
+menu  for happy hour	1
+Iced Thai	1
+ice cream was a real	1
+rice      Hainan chicken	1
+chicken  salt and pepper wings	1
+noodles are made fresh	1
+noodles stretched by hand	1
+beef and tendon noodle soup	1
+Ho Ho	1
+Asian food craving	1
+seating but also outdoor	1
+crispy spicy	1
+favorite Chinese food	1
+dim sum in Vegas  This is the place	1
+Duck   half	1
+late night spot	1
+restaurants   A little more upscale	1
+Chinese food buffets	1
+good Chinese food  I was pretty	1
+ready in  min	1
+chicken with white rice	1
+ordered the beef noodle	1
+Hot Garlic	1
+SMILE   And we had two very big	1
+year for the past	1
+standard Vegas	1
+coma after you done  Food	1
+salty  extremely	1
+rice paper	1
+fresh food always hot	1
+soup which has wontons and and egg noodles	1
+salad  duck	1
+place should be avoided	1
+Asian American food	1
+ordered two rolls of sushi	1
+fried rice  Pineapple	1
+price is half	1
+pork chop with salt and pepper	1
+ve ordered a few times	1
+comment on some of the reviews	1
+Chow s chicken	1
+noodle cake	1
+crab  not imitation	1
+prices are competitive	1
+offer dim sum	1
+salt and pepper fried	1
+veggie stir fry	1
+bring it out and the server	1
+food  great service  great	1
+roll appetizer	1
+Great food  good prices	1
+shrimp  pepper	1
+style Chinese food is an Americanized	1
+eat really late at night	1
+stomach empty	1
+chow mein  and house	1
+shrimp lo	1
+Wa I liked about Big	1
+local business to support	1
+soup   The shark fin	1
+food would be ready in  minutes	1
+food taste and quality	1
+orange and sweet and sour chicken	1
+feel left	1
+beers by the bottle	1
+speak Mandarin	1
+crisp which was nice	1
+gau gee   crispy	1
+clean and spacious	1
+filled with cream cheese	1
+favorite family	1
+spot  The parking	1
+broth and noodles	1
+restaurant is a fusion	1
+Phoenix    We live	1
+sauce  curry	1
+experience more enjoyable	1
+style chow mein	1
+great prices and great food	1
+chow mein  beef	1
+beef  orange	1
+sandwich from Mr	1
+place  some things are very good	1
+Beef stew soup noodles	1
+place was recommended by a friend	1
+good  food tasted	1
+enormous portion	1
+Great food and fast	1
+hotel as the Cosmopolitan	1
+giving this place  stars for several reasons	1
+gave it  stars  but these places	1
+terrific food	1
+baby bok	1
+nights  They are open late	1
+chew  sorry  it s hard	1
+online and pick	1
+Goo Gai Pan	1
+dumplings  pan fried	1
+open  hours   The place	1
+fried rice and chow	1
+lo mein  veggie	1
+including tip tax	1
+place  I had heard	1
+service and amazing food	1
+find that it s very easy	1
+hot and sour or egg drop soup	1
+extras you can add	1
+back    Instead of sending	1
+Chinese dishes  The Mexican	1
+shrimp jumbo	1
+restaurant you go to and see Japanese	1
+Eat in at your own peril and have nothing else planned	1
+noodle soup   tons	1
+Chinese Food and even some above average	1
+good prices  The food	1
+table shared	1
+sour pork	1
+strip in Vegas	1
+chunks of tender	1
+couldn t wait	1
+dry side	1
+quick and attentive	1
+Chinese fast food place	1
+shrimp was plump	1
+quiet but nice	1
+food is was out in less than   minutes after ordering	1
+steam cart	1
+picky when it comes to Chinese	1
+food is always hot when it arrives	1
+flavor was not too strong	1
+fish with black bean	1
+weeks just to eat	1
+rude server	1
+rave about to all your friends	1
+red and green	1
+customer who seems to have been treated	1
+intestines  pig	1
+sticks of chopped	1
+rude waiters	1
+isn t that the food is bad	1
+portion size was decent	1
+week in Vegas	1
+buns with egg custard	1
+cooked noodles	1
+haus dumplings	1
+check just came when he decided	1
+bad feeling	1
+rice  white or fried	1
+group  the larger	1
+money was refunded	1
+Hong Kong House	1
+Chinese food   this is the place to be  It is as authentic	1
+green bell	1
+chicken with garlic	1
+pow chicken	1
+nice interior	1
+menu and before our drinks	1
+lunch time and busy	1
+stuff  there was lots	1
+lady asked	1
+authentic Taiwanese	1
+sweet and sour sauce for dipping	1
+noodles and pad Thai	1
+bone in chicken	1
+BBQ combo	1
+pretty big portion	1
+tip not a   dollar	1
+sauce   This one was mayo	1
+noodles with BBQ	1
+drowning in sauce	1
+portions and great prices	1
+stuffed when I left	1
+teriyaki chicken and we also ordered	1
+food  The prices are great	1
+absolutely terrible	1
+Excellent quality food	1
+pretty much empty in the place	1
+hostess was friendly	1
+support local businesses	1
+Price is great and food is good	1
+dip that into the curry	1
+isn t great   But the food	1
+brown or white	1
+thing    a lot	1
+dinner   I stopped	1
+size  Bite	1
+greasy and a bit	1
+English translation	1
+stuffed eggplant	1
+Roast Duck Noodle	1
+tip  but including taxes	1
+price was able to justify	1
+added tip	1
+staff was friendly  Clean enough place	1
+menu  Our entire	1
+chicken and pork fried rice	1
+bits were very tiny	1
+paid         twice     So the the pricing	1
+eat and watch	1
+experience worst	1
+fusion of Mexican and Chinese food	1
+back when I drive	1
+size of the take out portion and the price	1
+crisp veggies	1
+styrofoam cups	1
+restaurant in a strip mall	1
+Magic Noodle	1
+pretty sure he thought	1
+rude  and had extremely	1
+pork and baked	1
+rare steak pho	1
+find it difficult	1
+plates   pick	1
+Poor food quality	1
+LOVE THIS  and all were absolutely	1
+meal and were full	1
+Pad Kee	1
+order was canceled	1
+Chinese are NY	1
+tempura veggies	1
+fire in your mouth	1
+attentive friendly staff	1
+chili sauce and hot	1
+rest of the day	1
+place was clean and the staff was friendly	1
+beef in the their beef and broccoli	1
+chicken terriyaki	1
+tofu was braised	1
+restaurant is owned	1
+reservation and were seated	1
+spicy  was even a bit	1
+good consistent food	1
+samba roll	1
+good but the food is always consistent	1
+number over the phone	1
+bell peppers  red	1
+Chinese Food goes  this place is as good	1
+Friday dinner	1
+roll but WAY better  The BoBo Brazil	1
+sweet fire	1
+style restaurant	1
+tempura   After that we had the Rock Shrimp	1
+time   There are about a dozen	1
+fast Asian food	1
+soup but instead of the sour	1
+green ginger	1
+overpowering sauces	1
+Chef s Sushi	1
+burnt taste	1
+family style and shared	1
+service  great food  great	1
+made in house	1
+size was perfect	1
+Great service and friendly	1
+bland and dry	1
+food    Great tasting	1
+size was good	1
+dip in sweet and sour	1
+rice was plain	1
+make it  They ll	1
+sauce  The fish	1
+sample all they have to offer	1
+amazing  I absolutely	1
+rice noodle rolls	1
+dim sum is almost comparable	1
+white rice     Side	1
+noodles  chow fun	1
+choose from while there was not much selection	1
+quality of the food got high	1
+fried house rice	1
+limited choices	1
+counter girl	1
+soft shell	1
+wanted them to do that  I decided	1
+noodles  udon	1
+food chinese with my favorites	1
+Sauce    Hoisin	1
+popular place	1
+tasty  fresh food	1
+decor was fancy	1
+menu  dim sum	1
+dressing on the salad	1
+cups and styrofoam	1
+piece but here at Big	1
+hard and dry	1
+shrimp tiger salad with mangoes	1
+items  we sampled	1
+including beverage	1
+wonton soup with noodles	1
+pay for it  mind	1
+lady on the phone	1
+chicken and potato	1
+sized pieces	1
+lunch menu    I ordered	1
+chive   pork	1
+reviews for this place on yelp	1
+specials  Best time to go is for lunch	1
+compared to the prices	1
+Noodle with mushroom and pork	1
+bo hue	1
+love them  my boyfriend	1
+hour specials	1
+restaurant   The other  Asians	1
+paying if you expect	1
+rich broth	1
+Mandarin speaking	1
+pulled into the parking	1
+clean place  Staff is friendly	1
+good food for cheap	1
+longer wait	1
+trip worth	1
+sushi  love	1
+buns   They took the some of the duck	1
+drinks  or ask if we wanted	1
+bowl was huge	1
+funny taste	1
+penny s worth	1
+area  you must try this dining	1
+fried potatoes	1
+stopped by and got something  I couldn	1
+egg rolls  vegetable	1
+Excellent service and food	1
+shu chicken	1
+quick and friendly service	1
+scale the spicy	1
+Chinatown location	1
+lotus leaf rice	1
+call him but he of course wouldn	1
+delicious and fresh food	1
+speaking staff	1
+Mongolian style	1
+sized but full	1
+Palazzo Hotel	1
+customers happy	1
+taste how good the food	1
+items to try   All of their most popular	1
+share   We always ordered several dishes	1
+stated in other reviews	1
+delicious food better fresh	1
+wrapped in lotus	1
+order an  or  depending	1
+green beans with XO	1
+lunch specials and dinner	1
+Olive Garden	1
+duck and bbq pork	1
+Chandler Pho	1
+long periods of time	1
+great and the food tasted	1
+duck buns	1
+big  pretty	1
+fancy decor	1
+mall strip	1
+consistently good food	1
+table  bring food	1
+hour happy	1
+greeted promptly	1
+string beans in spicy	1
+quick at a very fair	1
+Chinese fan	1
+foo yung	1
+party members	1
+menu   After we sampled	1
+Friday night dinner	1
+eat here cause the place was really good	1
+hostess waitress	1
+doesn t get any better than this place	1
+difference to make	1
+fresh  tasty food	1
+utensils  plates	1
+variety  good	1
+sticky rice wrapped	1
+sauce with brown	1
+flavors  depth	1
+customer service very poor	1
+black chicken	1
+great service    Our food was good	1
+Orange Beef and the Chicken	1
+feel welcome and that we don	1
+beef panang	1
+Prawns with Honey Walnuts	1
+chopped pork	1
+Madison Chinese food	1
+place a shot	1
+pepper and salt pork chops	1
+pieces were very large	1
+American Chinese food style	1
+items from the menu   Some of my favorites	1
+bucks   but if you got a couple	1
+fish maw	1
+cooked properly	1
+mention they forgot	1
+fix of chinese	1
+lotus leaf	1
+appetizers and rolls	1
+star and a half	1
+roast duck  pork	1
+green red	1
+mouth tastes	1
+battered in tempura	1
+portion of nice sized	1
+dish   eggplants	1
+lightly fried that the batter	1
+credit card minimum	1
+deep fried battered	1
+worse I ve	1
+tuna roll  spicy	1
+spicy beef noodle	1
+including special	1
+service is spotty	1
+spicy crispy	1
+broth was rich	1
+free coupon	1
+service and delicious food	1
+skin tofu	1
+Good thing too  as I heard	1
+efficiently and quickly	1
+priced for the portions and just had an overall good	1
+time to come back   You ll	1
+Friendly staff  and extremely	1
+drive down Spring	1
+egg noodles  Also  the wonton soup	1
+yellowtail seviche	1
+takeout boxes	1
+restaurant in the middle	1
+flavors overall were delicate	1
+good portions  reasonably priced	1
+bite the small	1
+food was good   definitely not authentic Chinese	1
+meal came out quickly	1
+nice employees	1
+beans  refried	1
+wings   They are hot	1
+consistent quality food	1
+chili oil was not even that hot	1
+bao long	1
+service  consistent food	1
+buffet   Seafood	1
+authentic Hong	1
+portion was small for the price	1
+pick up my call in order	1
+lunch from the leftovers	1
+reviewers have commented	1
+Thai food fullfill s the craving	1
+fun atmosphere	1
+pao shrimp	1
+past  years   Each time	1
+years in Vegas	1
+entire staff	1
+things  orders came wrong	1
+samples of the menu items	1
+expected I guess	1
+sesame sauce	1
+place as i know what good dim sum	1
+eat there  At the end	1
+spicy but you would not have known it by this dish    The chicken	1
+fried rice  steamed	1
+friendly hostess	1
+restaurants of similar	1
+sake    different bottles	1
+salmon and avocado	1
+deal on yelp	1
+Food is great  they are fast	1
+happened before  some of the things	1
+perfectly made	1
+service is okay    The food  is great and sometimes not so great	1
+red jade chicken in a quesadilla	1
+Dragon  as the use of red	1
+seated after a  minute wait	1
+slices of meat	1
+ordered the General Tso	1
+eat   The place is great	1
+Chinese neighborhood restaurants	1
+found this one to try  I ve	1
+order togo	1
+flat noodles  these ones ARE rice	1
+Sundays and Saturdays	1
+street from where I live	1
+feel like making	1
+place is clean and nice	1
+minute wait for a table	1
+people in an Asian	1
+roll was greasy	1
+check  and did a double	1
+mix of Chinese and Mexican	1
+dishes and every single	1
+Chinese place  The food	1
+Wor Won Ton	1
+pork was actually ground	1
+black rice	1
+quality food  great	1
+checking reviews on yelp	1
+bright lights	1
+friendly couple	1
+veggies were crisp	1
+Chinatown in SF	1
+tasted great   All three of us had food	1
+food type	1
+wontons and pork	1
+food is good  It is pretty	1
+place to anyone  but wouldn t go out of my way to recommend	1
+don t know honestly	1
+seat people	1
+pancake  What if I just want the green onion	1
+BBQ pork steam buns	1
+quality of service and food	1
+taquitos Yellowtail	1
+lunch  Have been there many times for dinner	1
+cheap and the food is good	1
+Phoenix to find	1
+Mike C  joined	1
+cheaper than a lot	1
+time I come here I order something different and I ve	1
+selection of beer	1
+amount of good	1
+coconut in the young	1
+Yelp Stars	1
+noodle bowl soup	1
+flavors were bold	1
+spring egg rolls	1
+avocado and salmon	1
+prices are pretty reasonable	1
+rolls  We tried the Yamato	1
+good Chinese food place	1
+Saigon Pho	1
+American Chinese menu	1
+wonton egg drop soup	1
+sizes are generous	1
+dollar extra	1
+Vegas of all places for Pho	1
+nice and accommodating	1
+stars  Their service was a   Give	1
+lighting was bright	1
+Chow style	1
+cream crab	1
+yellow chicken curry	1
+food quality and quantity	1
+won ton soup noodles	1
+buffet  although Krazy	1
+based on the reviews on Yelp	1
+Good price  good food	1
+quality of the food was poor	1
+basing my five stars	1
+remember a few things	1
+life and it took me so long	1
+beautiful restaurant	1
+chinese food and this is the worst	1
+chili in it but it was sweet	1
+realized they didn	1
+hot jasmine tea	1
+works  and I do like that people	1
+careful you don	1
+green ice tea	1
+hostess stand	1
+food  great value and great service	1
+small strip	1
+driver for their deliveries	1
+time you come in   Since you had to wait as long	1
+quick and filling	1
+money and time	1
+cool concept	1
+pick up within  minutes	1
+superb service	1
+dim sum that is as good as most places	1
+menu to explore	1
+variety of selections	1
+variety of items	1
+wall art	1
+food and service is always good   Great	1
+rating on Yelp	1
+food selection was down to  items	1
+minds have been changed	1
+area away from the bar	1
+kitchen in the back	1
+fruit was just that   fresh	1
+Chinese for cheap	1
+rings  so I had to try them     and he was right  they are what I wish onion	1
+fan of Chinese	1
+shrimp  cashew	1
+Chinese foods that are typically	1
+lunch on Monday	1
+garlic chili	1
+consistent food quality	1
+bags of tea	1
+food in Madison	1
+shrimp chow	1
+Roasted bbq ducks	1
+noodles  The spicy beef	1
+meal was finished	1
+items  The variety	1
+chinese great food	1
+dish  their signature	1
+chicken with a minced	1
+night   on a Tuesday	1
+Small over priced portions	1
+live in San	1
+Tai Fung	1
+quesadilla and the red jade chicken	1
+fast Chinese	1
+Chinese food and Mexican	1
+Long is Pho Kim	1
+return  I ll	1
+Pei Wei Spicy Chicken	1
+experience dining	1
+seafood fried noodles	1
+sauce with ginger	1
+Chinese locals	1
+ordered the orange	1
+back to you  I won	1
+Goreng  mee	1
+boba milk	1
+ve only tried the food from the Chinese	1
+process of ordering	1
+good  I heard	1
+sauces were not too heavy	1
+cafe style	1
+boba  thai tea	1
+fresh herbs	1
+lot to eat	1
+ass kicked	1
+prices were ridiculous	1
+visit recently	1
+NY style Chinese	1
+sampler appetizer	1
+restaurant interior	1
+feel welcomed	1
+time  go right ahead	1
+Madison food	1
+run into people	1
+time we were ready	1
+day cold	1
+General Tso s Chicken and I ordered	1
+platter appetizer	1
+Chinese food fast	1
+meals for the entire	1
+happy to leave	1
+Buffet       Sr	1
+menu dinner	1
+tasteless and bland	1
+restaurant until actual	1
+noodles were soggy	1
+cold appetizers	1
+previous owners	1
+stars if I could  The only reason I m not giving	1
+pad se	1
+tax included	1
+sauce   Lemon	1
+sauce  tomato	1
+reasoning how the extreme	1
+noodles with sesame	1
+bar and then sat	1
+ready  The food	1
+shot  but I can t give	1
+options are plentiful	1
+table in front	1
+satisfied and full	1
+fried vegetables	1
+friendly service too   The staff	1
+lunch special  chicken	1
+busy running	1
+pretty good for the price	1
+egg drop soup and some wonton	1
+wonton  crab	1
+clean place  Staff	1
+plan on coming	1
+won t be coming	1
+nuggets  You get more chicken	1
+egg roll  crab	1
+shu pork	1
+bowl  big	1
+food         real Chinese	1
+waiter was not to be seen  so we flagged	1
+Lobster Sauce Shrimp	1
+corners are being cut	1
+night craving	1
+reviews written	1
+cars in the parking	1
+price on some happy hour	1
+joint   The food	1
+fish steamed	1
+moved recently	1
+pretty quick    As for the food	1
+service was so good because there were not that many other customers	1
+super helpful and friendly	1
+place for good Chinese	1
+listed on their wine	1
+brocolli beef	1
+beat the lunch	1
+beef soup noodle	1
+boba smoothies	1
+chicken curry  It s a yellow	1
+night  I ended	1
+kitchen cooking	1
+convenient if you re staying	1
+typical Chinese buffet	1
+good food   prices are reasonable	1
+flavor that just bursts	1
+Chinese food in Arizona	1
+banana chocolate	1
+disappointed  It s a bit	1
+half roast duck	1
+expensive compared	1
+warmly greeted	1
+batter was light	1
+dry rice	1
+work   This girl	1
+opened recently	1
+ramen  the beef	1
+Soup was more sour than hot	1
+sweet and slightly	1
+food is great  Some of the better Chinese	1
+soup noodle or the wonton	1
+service  Very good food  Great	1
+noodles at China Magic	1
+doesn t compare	1
+sushi was decent	1
+reservation for pm	1
+slices of BBQ pork	1
+long day at work	1
+po tofu	1
+garlic chicken is spicy	1
+pretty quiet	1
+loving it  One of my daughters	1
+curry with roti	1
+care because I didn	1
+mango in the salad and the shrimp	1
+beef boiled	1
+portions are not anything better than the lunch sizes	1
+eat at this place since it s one of their favorite	1
+cost    AVOID	1
+money or do anything to make	1
+Palace Jade	1
+broccoli if it is of the Chinese	1
+tax and tip included	1
+Phoenix   I ve	1
+bill as it was being split	1
+garlic sauce was spicy	1
+inexpensive prices	1
+Brown rice is also offered	1
+service was friendly and prompt	1
+veggie rolls or spring	1
+sliced jalapenos	1
+plaza in Chinatown	1
+shops popping	1
+chicken wings  really salt and pepper	1
+Chinese style food	1
+juicy meat	1
+white rice  fried	1
+lunch menu specials	1
+food at a good price  Great	1
+nice owner	1
+chicken to me   The fried fish	1
+shrimp pieces	1
+egg rolls for free	1
+staff is super	1
+fixe menu	1
+Vegas dim sum	1
+place I would not have found without the help of yelp	1
+Vegas Chinese food	1
+table in the corner	1
+fried wonton  The shrimp	1
+work out the kinks	1
+insult to injury	1
+visits here  though worth	1
+review  I don t write	1
+delivery Chinese place	1
+accept credit	1
+selection of entrees	1
+Design Interior	1
+simple decor	1
+cool decor	1
+service was friendly and quick	1
+amount of food for the price	1
+door so it s a walking	1
+vegetables and well seasoned	1
+Kitchen Asian	1
+minutes later and I live	1
+day which is not bad	1
+tips in your bill	1
+cut it with a knife	1
+starch and corn	1
+beef pieces	1
+service is speedy	1
+members of our party	1
+Good price  decent food	1
+favorite item on the menu	1
+meat  ours uses white	1
+fried rice  jerk chicken	1
+tea and Thai	1
+place came highly recommended	1
+plates are big	1
+friendly and helpful staff	1
+flavor  nice	1
+Bell  also a former Red	1
+chewy but the beef	1
+standing at the hostess	1
+home for half	1
+Yelper s reviews	1
+coming here since  and I ve	1
+black bean sauce spare ribs	1
+occupied tables	1
+great  Good service	1
+Yum Tom Goong	1
+rush us   I felt	1
+wall with pictures	1
+roast duck and roast	1
+combo includes	1
+belly roasted pork	1
+meat   zero mystery	1
+order at the last minute  Food	1
+cooked PERFECTLY  You know how usually the noodles	1
+packed pretty	1
+taste that I couldn	1
+rice in lotus leaf	1
+Mexican Asian fusion	1
+plates combined	1
+removing plates	1
+Hong Kong Cuisine	1
+dipping it in sweet and sour sauce	1
+dinner  but the lunch specials	1
+decided to check this place	1
+Mongolian Beef and I ordered	1
+tiger mango shrimp salad	1
+fried rice  fish	1
+Jen Red	1
+pork lo	1
+honey crispy	1
+Changs  Nice	1
+Vegas you can do much better eating in most other places	1
+tendon and beef noodle soup	1
+dumplings  fried	1
+hot chili	1
+Beef with Tomatoes	1
+dish is vegetarian	1
+found in the area	1
+friendly staff and very helpful	1
+chicken to be objectionable  The green curry	1
+write this place a review	1
+delicious their food is   An absolute	1
+day   I followed up with him twice    When the first couple	1
+environment is clean	1
+order for pickup	1
+satay beef	1
+fast service good	1
+menu in English	1
+customers  poor	1
+York Chinese food	1
+CURRY  Massaman	1
+place is a mom and pop	1
+sweet and sour chicken and pork	1
+taro snoh	1
+basil spicy	1
+bill including	1
+food  What good Chinese place	1
+food is Americanized Chinese	1
+cart pushing ladies	1
+wait long for our food	1
+shrimp kung pao	1
+Chinese    Traditional	1
+late they were open	1
+order the broccoli and beef	1
+phone the lady	1
+place to eat and have a great	1
+broth was salty	1
+item food selection	1
+fork  plastic	1
+ordered the salt and pepper	1
+Drop Egg Soup	1
+glass was never empty	1
+chicken  kung pow	1
+line up in front	1
+crab cheese	1
+Chinese comfort food	1
+shredded chicken	1
+feel doesn	1
+ahead and ordered	1
+delicious and super	1
+Brazilian fusion	1
+cooked feel	1
+review if I wrote	1
+Nonetheless  it s a good	1
+friends or bring	1
+share an entree	1
+dinner on a Saturday	1
+point I will just have to make	1
+bean  not a string	1
+Roti with curry chicken	1
+things that are very important	1
+lobster shrimp	1
+Eat   No one can tell you to stop	1
+drinks and bring	1
+great  great food	1
+Fast great food	1
+prices  good portions	1
+pop shop	1
+Special Lunch menu	1
+rice grain	1
+strip in Las Vegas	1
+place is rated	1
+sauce and vinegar	1
+service was courteous	1
+don t recall	1
+tea milk	1
+Ma Po	1
+perfect texture	1
+teas such as bubble	1
+combination fried	1
+taste of MSG	1
+didn t need  and good taste	1
+quick and pretty	1
+option  and is healthy	1
+thai  not authentic	1
+tea boba	1
+young was   The egg foo	1
+Portion sizes are nice	1
+ll be coming	1
+included in the meal	1
+things wrong	1
+Service is very efficient and friendly	1
+sour shrimp	1
+restaurant  My favorite	1
+flavors were so distinctive	1
+Casino   It s now in its new location	1
+welcoming feeling	1
+egg  is preserved	1
+early and close	1
+day   If they are busy	1
+stellar service	1
+air margarita	1
+wife  my husband	1
+park only to find	1
+service and their prices  They have a great	1
+soup noodle bowls	1
+times I was there  st	1
+home and had to drive	1
+table was wiped	1
+won tons and wor	1
+ordered the beef chow	1
+chicken pad	1
+lobster with ginger	1
+make it just like my mom	1
+air salt margarita	1
+price of the lunch was more than reasonable	1
+wrap paper	1
+broth was bland	1
+decision was made	1
+kinda pricey	1
+time  Getting in is the hard	1
+rude waitress	1
+door  a sign	1
+fine  but the taste	1
+Venetian Palazzo	1
+staff speaks	1
+served in large	1
+oil dripping	1
+fried shrimp  rice	1
+table turns	1
+tiger shrimp salad with mango	1
+times the amount	1
+pop place	1
+compared to the more expensive	1
+Soup comes with tons	1
+cake  chocolate	1
+eating here  It was a great place	1
+filled buns	1
+entree we split	1
+isn t any  service	1
+prices   By the way  the portions are very large	1
+green bean tempura	1
+large enough to share	1
+Walnuts  Honey	1
+string bean chicken	1
+black beans and fried rice	1
+price and the quality of food	1
+days especially when I worked long	1
+quality of the food and the price	1
+ready to order within a  minute	1
+cabbage and pork	1
+calamari  fried	1
+gratuity charge	1
+chicken wings  fried	1
+cravings after a night	1
+Chili and Spicy	1
+noodles again  but there are a TON	1
+Chinese  I am very picky about my food	1
+piled my plate	1
+sweet and sour chicken  orange	1
+chicken  salt and pepper	1
+bring some we ll	1
+coming up to us  sometimes two people	1
+black bean spare ribs	1
+sauce or I mixed soy	1
+population of Asian	1
+place that introduced	1
+Yelp to read reviews	1
+noodles  beef stew	1
+fried rice combo	1
+manager comes by  says sorry I talked	1
+servings are generous	1
+tough meat	1
+phone was ringing	1
+place is my favorite Chinese	1
+spring rolls  vegetable	1
+deserving place	1
+tempura shrimp rolled	1
+full of half	1
+hint of spice	1
+food was ok  but nothing you can t get at any other Thai or Chinese	1
+water  taps	1
+questions answered	1
+eat  of it if it wouldn	1
+sorely disappointed	1
+check  they brought	1
+fusion of Chinese	1
+skin was thin	1
+waitress waiter	1
+curry and Thai	1
+years ago and opened	1
+quality was excellent	1
+service is super fast	1
+tasty and not super	1
+quesadilla  jade red chicken	1
+beef is sliced thin	1
+empty place	1
+seats  They grab	1
+Pei Wei Chicken Spicy	1
+stars  then this place truly deserves	1
+Sunday dim sum	1
+vegan options	1
+Pho  Vegas of all places	1
+reservation made	1
+food for under    Chinese and Mexican	1
+gratuity added	1
+balls  shrimp	1
+sour and sweet	1
+balanced perfectly	1
+Asia Noodle	1
+shrimp stuffed	1
+seafood pan fried noodles	1
+paper wrapped	1
+San Francisco Chinatown	1
+snow peas  and shrimp	1
+Shrimp and Sweet and Sour	1
+white chicken	1
+time as multiple	1
+Topo roll	1
+water bottle	1
+line the bottom	1
+friendly staff  nice	1
+curry rice   it was just their chicken	1
+crunchy and fresh	1
+poured the sauce	1
+tofu was soft	1
+sides  a small	1
+increase prices	1
+Noodle Soup and Seafood	1
+carts but they will steam	1
+middle of the restaurant	1
+deals were pretty good	1
+Wei Spicy	1
+buns  pork	1
+shopping for groceries	1
+metro Phoenix area	1
+excellent quality	1
+constantly refilled	1
+area and found	1
+teriyaki chicken bowl	1
+noodles were thin	1
+tofu is by far the best mapo	1
+salad on the side	1
+steak   The pepper	1
+dinner  or late night	1
+Buffet Orient	1
+appetizer for free	1
+Shrimp with Walnuts  Honey	1
+Flying Pigs	1
+brown rice as an option	1
+nice people working	1
+style   We went here with family	1
+Clean dining area	1
+noodle types	1
+pork steam buns	1
+Mexican dishes and Chinese	1
+bad   I felt	1
+fried rice  beef	1
+salty broth	1
+tasted   its supposed	1
+eggplant in spicy	1
+told the guy	1
+business   Super	1
+Chinese classics	1
+Gourmet House of Hong	1
+water with no ice	1
+Pao Beef	1
+sauce  The orange	1
+works and doesn	1
+chicken and the mu shu	1
+pieces of cut	1
+duck bones	1
+order was messed	1
+show  I would go three stars	1
+sized serving	1
+AZ Chinese food	1
+glasses filled	1
+Chinese restaurant American	1
+bit hard	1
+bland  I was kind	1
+refilled constantly	1
+combo with rice  fried	1
+recommended by the waitress	1
+friends  As a vegetarian	1
+chicken  kung pao shrimp	1
+lot cheaper	1
+family style and ordered	1
+Saturday night at pm	1
+service was good  food was good	1
+main course almost right after the appetizers	1
+plates are quite large	1
+inside of this location	1
+prices  decent food	1
+make sure you watch	1
+chicken was boiled	1
+Chinese American cuisine	1
+met my expectations	1
+Pork  Shredded	1
+Check it out   It will be worth	1
+roast pork  BBQ	1
+menu reads	1
+extra order	1
+pretty good service	1
+peel  the Orange	1
+Portion sizes are generous	1
+bland but overall it is still pretty	1
+spot for Pho	1
+option of getting your veggies	1
+authentic G S is  but I think it s one of the best places for Chinese	1
+iceberg lettuce	1
+competitive prices	1
+years of living	1
+drink to be mixed	1
+Chinese Restaurants typically	1
+food was good but it wasn	1
+order every time I ve	1
+cuisine   Chinese Mexican	1
+half a year	1
+noodle soup  roast duck	1
+ordered the chicken teriyaki	1
+Chicken and salted fish fried rice	1
+dumplings  Had shrimp and pork	1
+prices are reasonable and the food is very good	1
+temperature hot	1
+area or live	1
+stars I gave	1
+wonderful staff	1
+good food quality	1
+favorite foods  Chinese	1
+seafood mix	1
+soybean milk	1
+hungry  so I wasn	1
+onion and ginger	1
+food is quickly prepared	1
+put on top	1
+food or isn t Chinese	1
+Steamed Chicken with Rice	1
+fast food places   They do have Chinese	1
+place is rated   stars	1
+fried rice   chicken  shrimp	1
+custard buns	1
+steak and brisket	1
+beef stir fry	1
+Madison  The restaurant	1
+restaurant in Madison	1
+restaurants in the hotel	1
+decorated and clean	1
+food is THAT good  especially for  Chinese	1
+lunch early	1
+CENTER I shop	1
+joint so she can get her Sushi	1
+crispy noodles  fried	1
+noodles  dan dan	1
+times the number	1
+change of pace	1
+check what I wanted	1
+service and food quality	1
+place and I absolutely love	1
+soda water	1
+rice and the sizzling	1
+vegas  We have been there  times out of convience and each visit	1
+offer lunch specials	1
+break for lunch	1
+miss them  Easy	1
+foods  Malaysian	1
+area of Vegas	1
+day long	1
+Egg Noodle Soup  so that s what we got  me without wontons	1
+menu it was no question	1
+Chinese and Mexican cuisine	1
+customer service  or lack	1
+time  We eat here at least once a week	1
+XO beans	1
+drive a long	1
+fun noodles	1
+service is stellar	1
+reviews and decided	1
+fried rice  house	1
+Moo Goo	1
+chow fun  seafood	1
+favorite Vegas restaurants	1
+experience was horrible	1
+free delivery	1
+soup was Egg Flower	1
+yummy for a super	1
+meal for two  Not bad	1
+houses  Cathay	1
+smaller size	1
+cashew chicken    all ordered	1
+crispy outside and extra	1
+fried rice  veggie	1
+spotty service	1
+chicken with brown rice	1
+chicken with steamed	1
+Quick service and friendly	1
+specials  e i  the flaunder   lunch order	1
+extra    was it worth	1
+seafood soup with noodles	1
+hype to live	1
+fusion of Chinese and Mexican	1
+steamed or fried rice	1
+Friday and Saturday	1
+shrimp and chive	1
+Noodle Beijing	1
+varieties offered	1
+spicy  medium	1
+pay for something if you don	1
+meals are decent	1
+spring rolls  egg rolls	1
+ribs in black bean sauce	1
+bar  sushi	1
+chop suey  and chicken	1
+decor is cool	1
+Asian food fast	1
+shrimp mango salad	1
+sauce was tangy	1
+good  but they sound	1
+carrot slices	1
+regret is that we probably won	1
+buffet with SUPER	1
+range of dishes	1
+hot steaming	1
+meat chicken	1
+inside was soft	1
+black bean chicken	1
+reason I didn t give	1
+chicken pad thai  I actually ordered	1
+chicken wrapped in lettuce	1
+smile or greeting	1
+pictures on the wall	1
+friendly and attentive staff	1
+kitchen  and we were the lucky	1
+ribs  they are more like spare	1
+Waited to order for  minutes	1
+Review   but I did check Yelp	1
+special hours	1
+spicy  but we asked	1
+back in the future	1
+specials until pm	1
+literally  minutes	1
+town  The restaurant	1
+giant bowl	1
+pork belly  roast	1
+people running	1
+appetizers  cold	1
+full glasses	1
+bland broth	1
+fried rice was plain	1
+flavor whatsoever	1
+felt sick	1
+sauce  garlic	1
+soup with udon	1
+taco with duck tongue	1
+tiger shrimp	1
+suggestions from the waiter	1
+chicken and broccoli beef	1
+made sauces	1
+questions asked	1
+fan of Big	1
+busy at lunch time	1
+charged for delivery	1
+juice  lime	1
+white rice   The chicken	1
+meal also comes with a cookie	1
+tables are all round	1
+sweet    not overly	1
+give me a break	1
+ordered the sesame	1
+hot pot  The seafood	1
+menu section	1
+dinner to enjoy	1
+good as it looked	1
+wasn t very good  some food	1
+buffet is cheap	1
+cold and it seems like they are serving	1
+Chinese food is probably my least favorite	1
+Chinese Food  The worst I ve	1
+pork was juicy	1
+expecting but definitely not what I got   It wasn	1
+charges on our bill	1
+apology or  Oh  hello   I m sorry  I didn	1
+checked on every minute	1
+Mr  Beijing	1
+bowl of beef noodle	1
+tempura vegetables	1
+noodle soup  won ton	1
+chicken lemongrass	1
+rude staff	1
+Kim Long is Pho	1
+find good food  Chinese	1
+reasonable portions and prices	1
+tables food  after bringing	1
+chinese or real	1
+tables  empty	1
+fried rice or brown	1
+flavors blended	1
+service and the food  are consistently	1
+Asian fast food	1
+pushing ladies	1
+meat  dark	1
+restaurant is nice and clean	1
+counter and sit	1
+dry meat	1
+egg rolls and pork	1
+dim sum on a Sunday	1
+food is cheap  good	1
+pepper and salt chicken	1
+sushi craving	1
+Mandarin Beef	1
+pork and duck  The roasted	1
+staying at the Aladdin  we decide	1
+eggplant in garlic	1
+spicy mayo	1
+day old leftovers	1
+Beef and Kung Pao	1
+Palazzo Venetian	1
+thing sorted	1
+beef  pan fried noodles	1
+lemon pepper	1
+delivered quickly	1
+hot tea is free	1
+ready for pick	1
+noodles and wonton egg	1
+veggie tempura	1
+inside   However  once I got down to the  meat	1
+food was great and prices are good	1
+greasy  and super	1
+Food quality is consistent	1
+wings  really salt and pepper	1
+party of  people	1
+server recommended	1
+Lobster with Scallion and Ginger	1
+shrimp  chicken fried rice	1
+side of sweet	1
+York New York	1
+knowledgeable server	1
+reason I gave	1
+wrong  just too much   The boy	1
+ll tell you what I don	1
+rolls and spring rolls	1
+casino in Vegas	1
+broth for the pho	1
+dry beef chow fun	1
+min drive	1
+delivery  but the takeout	1
+legs  crab	1
+tough and chewy	1
+booths are comfortable	1
+chinese food places to my favorite	1
+chicken  fried rice  and the pork	1
+chicken rice  fried	1
+search for good Chinese	1
+leaving and they were ready	1
+refilled quickly	1
+Noodles  cold	1
+great place for lunch	1
+waited for an hour and a half	1
+spicy green beans	1
+make sure to ask the chef	1
+prices are good  pretty	1
+menu    lunch specials	1
+goodness this is sooooo	1
+drinks aside from boba	1
+give them that  I don	1
+noodle soup w beef tendon	1
+bar drinks	1
+great food  there are many other Chinese	1
+sauce covering	1
+good as everyone says   And sooo	1
+people talking	1
+clean and nice so it s definitely not one of those places	1
+changed management	1
+Don t waste	1
+Asian type	1
+special is happy hour	1
+worth it   It totally	1
+rice seasoning	1
+big enough to share	1
+plump shrimp	1
+crispy and slightly	1
+chop rice	1
+House delivers	1
+give one star for that reason	1
+Yelp check	1
+gold flakes	1
+food quality was low	1
+dandan noodles	1
+food and service were very good to excellent	1
+sides are how pricey	1
+half hours  Waiting	1
+selection wide	1
+nearby restaurant	1
+Chinese Menu and not the American	1
+BBQ pork fried	1
+Mexican food and Chinese	1
+visit in the near future	1
+time passed	1
+service is good great	1
+China One when we lived	1
+Pad Thai with shrimp	1
+review on here previously	1
+atmosphere is cool	1
+fried shrimp I ordered	1
+cookies  almond	1
+Mandarin and Cantonese	1
+clams in black bean	1
+Chinese restaurants you often find	1
+Price and portions were great	1
+food Japanese	1
+minute wait to be seated	1
+sliced thin and the beef	1
+nice portion sized	1
+decent Chinese place	1
+wrapped sticky rice	1
+buffets such as Crazy	1
+ambience is nice	1
+ready the table	1
+fast and great service	1
+tea  chrysanthemum	1
+deal for lunch	1
+girls in the group	1
+chicken stir fry	1
+oysters    Really fresh	1
+Palms  that s all  If you are staying	1
+fresh noodles are made	1
+room dinning	1
+Chilean seabass	1
+corner table	1
+quality and taste of the food	1
+couldn t resist	1
+Chinese food in New York	1
+attentive and helpful	1
+Order was called in   picked	1
+nam chicken	1
+casino  Gold Coast	1
+worth coming	1
+comfort Chinese food	1
+egg drop or hot and sour	1
+bad experience I ve	1
+balance of sweet	1
+find me  but they couldn	1
+bar if we could please sit	1
+Ahi seared	1
+long time since I ve	1
+Asian   Besides the typical	1
+standard Americanized	1
+food quality and price	1
+refreshing and light	1
+stretched noodles	1
+Fried Rice  It usually combines	1
+sweet chili	1
+tendons and beef	1
+corn chicken soup	1
+seated    Finally	1
+freshly made food	1
+wall   it just seemed so hole	1
+Fried Beef Noodles	1
+steamed bun with duck	1
+alright  but the service	1
+find it  However  I was surprised	1
+coffee and tea	1
+Tom Yum Goong	1
+shrimp was overcooked	1
+slowed them down a bit	1
+thin egg noodles	1
+crab was  as it should be  REAL	1
+curry  panang	1
+Spicy Szechuan	1
+Noodles with Beef in Spicy	1
+back  Maybe  It wouldn	1
+salsa  Chips	1
+years of coming here  I ve	1
+coke and diet	1
+amount of food  Good	1
+fast service and great	1
+beverages including	1
+roll  crab rangoon	1
+pricey     but you do get pretty	1
+waited patiently	1
+figured we couldn	1
+favorite person	1
+chinese   It would be your typical	1
+soup  oxtail	1
+town  Just on the other side	1
+cultures  Chinese	1
+guy was nice	1
+veggies   He loaded	1
+dessert  complimentary	1
+selections which is a nice	1
+blend of flavors	1
+buffet Chinese food	1
+counter guy	1
+grains of rice	1
+cravings satisfied	1
+selection and variety	1
+tables for large	1
+hint of sweetness	1
+fact of the matter	1
+place is nice and clean	1
+friendly staff and clean	1
+mien noodles	1
+special and I had the steak and eggs	1
+left a bad taste	1
+water or soda	1
+hours but they re always in a rush	1
+Chinese  I find	1
+hot fresh food	1
+good and pretty darn	1
+noodles and wonton soup	1
+Nan Garden	1
+vegetable fried	1
+craving for Thai	1
+fried chicken  pork	1
+dumplings  the chive	1
+rolls with avocado	1
+Stewed Beef Soup Noodle	1
+Chinese decent	1
+buffet such as Pacific Seafood	1
+fried flounder	1
+favorite place for Chinese	1
+place for dim sum in Vegas	1
+pork rice and fried chicken	1
+giving us a chance to place	1
+chicken was dark meat	1
+extremely reasonable	1
+owner told	1
+Roti with curry	1
+lunch so we just grabbed	1
+prices are raised	1
+tendon noodle soup	1
+menu is expansive	1
+extra dollar	1
+didn t get it    One other thing	1
+eaten here twice   haven	1
+XO noodles	1
+quality is always great  The food	1
+early afternoon	1
+oily greasy	1
+eat at this place again   We usually come here every vegas	1
+pickled mustard	1
+Noodles  more  The pan fried beef	1
+partying all night	1
+party was big	1
+pork was fatty	1
+preserved vegetables	1
+hot at all   I liked all of the seafood	1
+friendly and efficient	1
+variety and nice	1
+Walnut glazed	1
+minutes before our food is ready	1
+night snack	1
+won t be back for a while if ever   Not the same as it used to be and I have been coming	1
+minutes for someone to even come by and take our order   the food	1
+option of brown rice	1
+noodles are fried crispy	1
+varieties were huge	1
+phone and in person	1
+based on Yelp	1
+closer to where I live	1
+lot s of money on food	1
+packed restaurant	1
+Steamed BBQ	1
+Tiger Shrimp Mango	1
+lamb hot pot	1
+middle of the table	1
+wings and chicken	1
+American menu  and the Chinese	1
+pork  bbq	1
+buns were soft	1
+full and will pack	1
+found at Happy	1
+pork chop and baked	1
+meats  duck	1
+broccoli was steamed	1
+chicken with roti	1
+fusion Asian restaurant	1
+Mexican cuisine	1
+classic Chinese	1
+Style Cantonese	1
+dessert minis	1
+Thai Style Noodle	1
+beef  thinly sliced	1
+adequate service	1
+restaurant for us  but we are still looking for a better local	1
+Chicken   Pork  The Sweet   Sour	1
+fast food Asian	1
+front  I used to work	1
+Americanized dish in Chinese	1
+noodles being made by hand	1
+sesame and orange chicken	1
+spaghetti noodles	1
+efficient service	1
+curry chicken with rice	1
+bun baos	1
+cooked vegetables	1
+rice was bland	1
+hot water in the tea	1
+periods of time	1
+deal ever   their lunch specials are great	1

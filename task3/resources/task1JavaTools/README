@@ -1,0 +1,35 @@
+textmining.jar is a text mining tool with topic modeling and mutual information capabilities.
+The tool can take as input a directory of files or a single file, where each line inside a file is considered a separate document.
+
+
+
+The topic modeling algorithm implemented is called "Comparative Text Mining". More information can be found at "A cross-collection mixture model for comparative text mining, ChengXiang Zhai et. al., 2004"
+The Comparative Text Mining outputs common themes and collection-specific themes. In this implementation, each file is considered as a separate theme, for example each cuisine will be treated as a distinct sub-topic.
+To run the topic modeling algorithm you need to have a file with the specified parameters (see file param.txt):
+xmlfile = directory_or_file_name;
+cluster =4; //number of topics
+it = 10; // number of iterations
+resultsFile=topics; //result_file_name
+
+To run the topic modeling from the command line type:
+java -cp textmining.jar topicmodels.CTMMultiRun parameters_file(such as param.txt)
+
+The output will be two files: 
+1) topics_docprobs which contains the document distribution and 
+2) topics_termprobs that contains the term distribution for the common topics, as well as the sub-topics for each topic.
+
+
+
+
+The tool can also be used for calculating word co-occurence based on mutual information. 
+You can find how mutual information is used in Information Retrieval here: http://nlp.stanford.edu/IR-book/html/htmledition/mutual-information-1.html
+
+More specifically, the mutual information algorithm takes three parameters:
+1) the input folder or file
+2) --sentences: the (optional) splitting of sentences for local context word associations (where we search for words co-occurring frequently in sentences)
+Without this optional parameter, the algorithm outputs document-level (meaning global context) word co-occurence
+3) the output filename (output will be in tsv format; tab separated)
+
+To run the topic modeling from the command line type:
+1) with sentence split: java -cp textmining.jar functions.MutualInformation directory_or_file_name --sentences output_file_name.tsv
+2) without sentence split: java -cp textmining.jar functions.MutualInformation directory_or_file_name output_file_name.tsv
