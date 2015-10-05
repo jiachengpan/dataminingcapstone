@@ -1,0 +1,4077 @@
+[
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "barfi"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "wine cooler"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "garlic dip"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "sammy hagar"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "truffle roasted"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "clam sauce"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "carne asada tacos"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "gnocchi"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "sauerkraut"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "bay leaves"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "chickpeas"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "carbonara"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "baby food"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "lasagne"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "grand canal"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "pound cake"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "american cheese"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "mexican american"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "polenta"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "gobi manchurian"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "couscous"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "ghari"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "chicken garlic"
+  }, 
+  {
+    "freq": 1, 
+    "score": 1.3862943611198906, 
+    "name": "their garlic sauce"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "sports game"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "biryani"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "guanciale"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "wedding cake"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "emeril lagasse"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "marinara sauce"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "chick peas"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "veggie burger"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "caramelized onions"
+  }, 
+  {
+    "freq": 1, 
+    "score": 1.3862943611198906, 
+    "name": "thyme"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "panino"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "lentil soup"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "zongzi"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "sopa"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "tomatoes and onions"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "south indian"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "calzone"
+  }, 
+  {
+    "freq": 1, 
+    "score": 1.3862943611198906, 
+    "name": "chef boyardee"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "soy egg"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "guotie"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "greek food"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "bolognese sauce"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "chicken kabob"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "bone in ribeye"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "porcini mushrooms"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "mexican street tacos"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "swordfish"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "tater tots"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "ritz carlton"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "sierra nevada"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "bread onion"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "business casual"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "designated driver"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "molecular gastronomy"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "chick fil a"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "goulash"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "caprese"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "mole chicken"
+  }, 
+  {
+    "freq": 1, 
+    "score": 1.3862943611198906, 
+    "name": "wine tasting"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "profiterole"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "mint tea"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "frutti"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "gavi"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "cheese pie"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "wild rice"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "bruschetta"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "and pickles"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "sea urchin"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "basmati rice"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "home fries"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "brown butter"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "rigatoni"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "dried fruit"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "mexico city"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "pea puree"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "malga"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "strawberry shortcake"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "olive oil"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "angel wings"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "lamb rice"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "halo halo"
+  }, 
+  {
+    "freq": 1, 
+    "score": 1.3862943611198906, 
+    "name": "lamb shank"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "soup tomato"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "lentils"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "lardo"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "short rib tacos"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "middle eastern"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "pale ale"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "pappardelle"
+  }, 
+  {
+    "freq": 1, 
+    "score": 1.3862943611198906, 
+    "name": "thai chinese"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "yogurt dip"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.772588722239781, 
+    "name": "ciabatta"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "humble pie"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "rock candy"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "stir frying"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "lamian"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "kool aid"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "mexican flag"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "white cut chicken"
+  }, 
+  {
+    "freq": 1, 
+    "score": 1.3862943611198906, 
+    "name": "huevos rancheros"
+  }, 
+  {
+    "freq": 1, 
+    "score": 2.0794415416798357, 
+    "name": "march madness"
+  }, 
+  {
+    "freq": 1, 
+    "score": 3.4657359027997265, 
+    "name": "capers"
+  }, 
+  {
+    "freq": 1, 
+    "score": 0.6931471805599453, 
+    "name": "kanji"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.845143010338384, 
+    "name": "mascarpone"
+  }, 
+  {
+    "freq": 2, 
+    "score": 2.929632769781626, 
+    "name": "cornish hen"
+  }, 
+  {
+    "freq": 2, 
+    "score": 1.8310204811135165, 
+    "name": "peda"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.7352817814715733, 
+    "name": "paradise valley"
+  }, 
+  {
+    "freq": 2, 
+    "score": 5.493061443340549, 
+    "name": "shish kabob"
+  }, 
+  {
+    "freq": 2, 
+    "score": 2.7465307216702746, 
+    "name": "shaobing"
+  }, 
+  {
+    "freq": 2, 
+    "score": 5.370993411266315, 
+    "name": "butternut squash"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.7352817814715733, 
+    "name": "van buren"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "flip flops"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "ice cream sandwich"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.076114408270707, 
+    "name": "bowl of salsa"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.662040962227033, 
+    "name": "bridal shower"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "great white"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.174726696938817, 
+    "name": "graham cracker"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.295836866004329, 
+    "name": "santa monica"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.943755299006494, 
+    "name": "prosecco"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "ricotta"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "lobster bisque"
+  }, 
+  {
+    "freq": 2, 
+    "score": 2.307085806203031, 
+    "name": "california pizza kitchen"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.845143010338384, 
+    "name": "patra"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.7352817814715733, 
+    "name": "milk chocolate"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.076114408270707, 
+    "name": "rosemary"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.195963021579956, 
+    "name": "olive tapenade"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.295836866004329, 
+    "name": "white trash"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.080559929338694, 
+    "name": "salami"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.865282992673058, 
+    "name": "frou frou"
+  }, 
+  {
+    "freq": 2, 
+    "score": 2.7465307216702746, 
+    "name": "slow food"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.669102226839467, 
+    "name": "game hen"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.295836866004329, 
+    "name": "middle east"
+  }, 
+  {
+    "freq": 2, 
+    "score": 1.464816384890813, 
+    "name": "el pollo loco"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.7952060881261973, 
+    "name": "peter piper"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "salisbury steak"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.5399729301527985, 
+    "name": "rosetta"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.295836866004329, 
+    "name": "cool spot"
+  }, 
+  {
+    "freq": 2, 
+    "score": 2.471877649503247, 
+    "name": "sweet roll"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "ossobuco"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "steak and chicken"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.577551202783791, 
+    "name": "chicken fried steak"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.845143010338384, 
+    "name": "taco has"
+  }, 
+  {
+    "freq": 2, 
+    "score": 2.7465307216702746, 
+    "name": "pita bread"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.943755299006494, 
+    "name": "shiro"
+  }, 
+  {
+    "freq": 2, 
+    "score": 5.493061443340549, 
+    "name": "frank sinatra"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "south india"
+  }, 
+  {
+    "freq": 2, 
+    "score": 5.493061443340549, 
+    "name": "granita"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.174726696938817, 
+    "name": "golden corral"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "grand marnier"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.845143010338384, 
+    "name": "breadsticks"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.662040962227033, 
+    "name": "upma"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "trotte"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.7606532508951425, 
+    "name": "fish fry"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.394449154672439, 
+    "name": "chicken fajitas"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.028245058449736, 
+    "name": "art deco"
+  }, 
+  {
+    "freq": 2, 
+    "score": 5.493061443340549, 
+    "name": "amuse bouche"
+  }, 
+  {
+    "freq": 2, 
+    "score": 3.295836866004329, 
+    "name": "falafel"
+  }, 
+  {
+    "freq": 2, 
+    "score": 4.943755299006494, 
+    "name": "sauvignon blanc"
+  }, 
+  {
+    "freq": 2, 
+    "score": 5.493061443340549, 
+    "name": "red bull"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.545177444479562, 
+    "name": "mad men"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.941261547656674, 
+    "name": "mac and cheese"
+  }, 
+  {
+    "freq": 3, 
+    "score": 3.6967849629863747, 
+    "name": "flautas"
+  }, 
+  {
+    "freq": 3, 
+    "score": 3.0036377824264293, 
+    "name": "balsamic vinegar"
+  }, 
+  {
+    "freq": 3, 
+    "score": 3.2346868426130784, 
+    "name": "pita jungle"
+  }, 
+  {
+    "freq": 3, 
+    "score": 3.4027225227488223, 
+    "name": "growing pains"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.371890649339576, 
+    "name": "tin foil"
+  }, 
+  {
+    "freq": 3, 
+    "score": 4.332169878499658, 
+    "name": "corned beef"
+  }, 
+  {
+    "freq": 3, 
+    "score": 3.8123094930796992, 
+    "name": "steak medium"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.891751034759535, 
+    "name": "butter chicken"
+  }, 
+  {
+    "freq": 3, 
+    "score": 6.238324625039508, 
+    "name": "potato salad"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.25835792148924, 
+    "name": "dress code"
+  }, 
+  {
+    "freq": 3, 
+    "score": 6.007275564852859, 
+    "name": "braised abalone"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.083079324106265, 
+    "name": "valet parking"
+  }, 
+  {
+    "freq": 3, 
+    "score": 6.594265069110831, 
+    "name": "grilled tomato"
+  }, 
+  {
+    "freq": 3, 
+    "score": 3.76279898018256, 
+    "name": "black rice"
+  }, 
+  {
+    "freq": 3, 
+    "score": 4.505456673639644, 
+    "name": "bread pudding"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.545177444479562, 
+    "name": "bread crumbs"
+  }, 
+  {
+    "freq": 3, 
+    "score": 4.343722331508991, 
+    "name": "water feature"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.545177444479562, 
+    "name": "crispy kau chee"
+  }, 
+  {
+    "freq": 3, 
+    "score": 6.3153409784350565, 
+    "name": "strudel"
+  }, 
+  {
+    "freq": 3, 
+    "score": 6.099695188927519, 
+    "name": "and a lemon"
+  }, 
+  {
+    "freq": 3, 
+    "score": 6.122800094946184, 
+    "name": "white mushrooms"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.545177444479562, 
+    "name": "yui shan chicken"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.545177444479562, 
+    "name": "south asian"
+  }, 
+  {
+    "freq": 3, 
+    "score": 4.852030263919617, 
+    "name": "kitchen sink"
+  }, 
+  {
+    "freq": 3, 
+    "score": 5.545177444479562, 
+    "name": "sea scallops"
+  }, 
+  {
+    "freq": 3, 
+    "score": 6.931471805599453, 
+    "name": "lactose intolerant"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.667671351512702, 
+    "name": "classic rock"
+  }, 
+  {
+    "freq": 4, 
+    "score": 2.0117973905426254, 
+    "name": "speck"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.866935093052161, 
+    "name": "cream pie"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.616578084451301, 
+    "name": "kebab"
+  }, 
+  {
+    "freq": 4, 
+    "score": 7.603206689774888, 
+    "name": "baba"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.901272345591701, 
+    "name": "swap meet"
+  }, 
+  {
+    "freq": 4, 
+    "score": 4.97462627479631, 
+    "name": "god forbid"
+  }, 
+  {
+    "freq": 4, 
+    "score": 4.506426154815481, 
+    "name": "super bowl"
+  }, 
+  {
+    "freq": 4, 
+    "score": 7.725301979683681, 
+    "name": "free range"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.638931388790664, 
+    "name": "potato chips"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.120938812290319, 
+    "name": "assembly line"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.035392171627876, 
+    "name": "pinot noir"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.58406418723041, 
+    "name": "canadian bacon"
+  }, 
+  {
+    "freq": 4, 
+    "score": 4.209299155596877, 
+    "name": "idli"
+  }, 
+  {
+    "freq": 4, 
+    "score": 4.138554631973401, 
+    "name": "english muffin"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.793976484762761, 
+    "name": "puffed rice"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.901272345591701, 
+    "name": "baozi"
+  }, 
+  {
+    "freq": 4, 
+    "score": 4.138554631973401, 
+    "name": "italian sausage"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.954920276006171, 
+    "name": "vindaloo"
+  }, 
+  {
+    "freq": 4, 
+    "score": 7.737682271317789, 
+    "name": "goat cheese"
+  }, 
+  {
+    "freq": 4, 
+    "score": 8.047189562170502, 
+    "name": "lamb tender"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.942539984372063, 
+    "name": "arnold palmer"
+  }, 
+  {
+    "freq": 4, 
+    "score": 4.828313737302301, 
+    "name": "jiaozi"
+  }, 
+  {
+    "freq": 4, 
+    "score": 7.7789499100981505, 
+    "name": "grilled lamb"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.722445910876801, 
+    "name": "mantou"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.759639232223221, 
+    "name": "shangri la"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.364793041447001, 
+    "name": "cream dessert"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.667671351512702, 
+    "name": "big night"
+  }, 
+  {
+    "freq": 4, 
+    "score": 2.5751006598945607, 
+    "name": "small tacos"
+  }, 
+  {
+    "freq": 4, 
+    "score": 5.977912246183801, 
+    "name": "smoked ham"
+  }, 
+  {
+    "freq": 4, 
+    "score": 4.713353886414151, 
+    "name": "stained glass"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.974230953881101, 
+    "name": "chocolate glaze"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.236571910682138, 
+    "name": "tomato soup"
+  }, 
+  {
+    "freq": 4, 
+    "score": 6.437751649736401, 
+    "name": "love happy"
+  }, 
+  {
+    "freq": 5, 
+    "score": 6.026827305585276, 
+    "name": "in n out"
+  }, 
+  {
+    "freq": 5, 
+    "score": 5.5032612269147405, 
+    "name": "diners drive ins and dives"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.661316351182028, 
+    "name": "ginger ale"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.179771489954163, 
+    "name": "freshly squeezed"
+  }, 
+  {
+    "freq": 5, 
+    "score": 6.753554922474977, 
+    "name": "corn dog"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.764291033321571, 
+    "name": "key lime pie"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.421269505371859, 
+    "name": "absolutely fabulous"
+  }, 
+  {
+    "freq": 5, 
+    "score": 3.7721251983748525, 
+    "name": "risotto"
+  }, 
+  {
+    "freq": 5, 
+    "score": 4.351415853839562, 
+    "name": "die hard"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.883741664603442, 
+    "name": "deep fried fish"
+  }, 
+  {
+    "freq": 5, 
+    "score": 6.091982195375387, 
+    "name": "junk food"
+  }, 
+  {
+    "freq": 5, 
+    "score": 5.487263374510919, 
+    "name": "meat tender"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.461086382465815, 
+    "name": "fennel"
+  }, 
+  {
+    "freq": 5, 
+    "score": 6.399140961528768, 
+    "name": "hot chocolate"
+  }, 
+  {
+    "freq": 5, 
+    "score": 5.375278407684165, 
+    "name": "hip hop"
+  }, 
+  {
+    "freq": 5, 
+    "score": 5.375278407684165, 
+    "name": "service oriented"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.2141894418919055, 
+    "name": "brussels sprout"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.198656965255646, 
+    "name": "sweet pea"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.361544189730923, 
+    "name": "duck confit"
+  }, 
+  {
+    "freq": 5, 
+    "score": 4.300222726147331, 
+    "name": "fine print"
+  }, 
+  {
+    "freq": 5, 
+    "score": 6.901592029619175, 
+    "name": "pork loin"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.062917611526247, 
+    "name": "grilled vegetables"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.732856656668448, 
+    "name": "cottage cheese"
+  }, 
+  {
+    "freq": 5, 
+    "score": 2.0572053165211, 
+    "name": "customer experience"
+  }, 
+  {
+    "freq": 5, 
+    "score": 5.456722019921804, 
+    "name": "alici"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.921462916587191, 
+    "name": "bow tie"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.423003515373371, 
+    "name": "youtiao"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.644840402039701, 
+    "name": "tea egg"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.492812325862775, 
+    "name": "root beer"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.286887545179754, 
+    "name": "blue cheese"
+  }, 
+  {
+    "freq": 5, 
+    "score": 8.269659088744868, 
+    "name": "finger food"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.310378634450465, 
+    "name": "indian cuisine"
+  }, 
+  {
+    "freq": 5, 
+    "score": 7.580520831349463, 
+    "name": "garden salad"
+  }, 
+  {
+    "freq": 5, 
+    "score": 6.271158142298193, 
+    "name": "timo"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.1915322924487235, 
+    "name": "buddha's delight"
+  }, 
+  {
+    "freq": 6, 
+    "score": 8.49124428678682, 
+    "name": "white bread"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.9375927053276385, 
+    "name": "spanish rice"
+  }, 
+  {
+    "freq": 6, 
+    "score": 9.157224230848533, 
+    "name": "momo"
+  }, 
+  {
+    "freq": 6, 
+    "score": 7.556617745498133, 
+    "name": "tortilla chips"
+  }, 
+  {
+    "freq": 6, 
+    "score": 7.992130969334322, 
+    "name": "provolone"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.579029551567964, 
+    "name": "health food"
+  }, 
+  {
+    "freq": 6, 
+    "score": 8.026879364853167, 
+    "name": "lemon juice"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.2431283948857965, 
+    "name": "cong you bing"
+  }, 
+  {
+    "freq": 6, 
+    "score": 5.8377304471659395, 
+    "name": "circus circus"
+  }, 
+  {
+    "freq": 6, 
+    "score": 9.40523238710068, 
+    "name": "samosa"
+  }, 
+  {
+    "freq": 6, 
+    "score": 7.783640596221253, 
+    "name": "chocolate syrup"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.899135983014292, 
+    "name": "spicy salsa"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.486367163517711, 
+    "name": "chicken breasts"
+  }, 
+  {
+    "freq": 6, 
+    "score": 7.65809800595962, 
+    "name": "clam chowder"
+  }, 
+  {
+    "freq": 6, 
+    "score": 5.9767240292413195, 
+    "name": "pot roast"
+  }, 
+  {
+    "freq": 6, 
+    "score": 7.005276536599128, 
+    "name": "half chicken"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.616094506788065, 
+    "name": "heart attack"
+  }, 
+  {
+    "freq": 6, 
+    "score": 7.505653432070494, 
+    "name": "caesar salad"
+  }, 
+  {
+    "freq": 6, 
+    "score": 6.810685521693596, 
+    "name": "rice pudding"
+  }, 
+  {
+    "freq": 6, 
+    "score": 5.3512529099021116, 
+    "name": "gazpacho"
+  }, 
+  {
+    "freq": 7, 
+    "score": 9.174006801528687, 
+    "name": "cotton candy"
+  }, 
+  {
+    "freq": 7, 
+    "score": 8.034205956490275, 
+    "name": "buffalo wings"
+  }, 
+  {
+    "freq": 7, 
+    "score": 9.184200142419275, 
+    "name": "desert inn"
+  }, 
+  {
+    "freq": 7, 
+    "score": 8.317766166719343, 
+    "name": "movie theater"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.070101241711441, 
+    "name": "pepperoni"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.837895041716304, 
+    "name": "frida kahlo"
+  }, 
+  {
+    "freq": 7, 
+    "score": 6.862157087543458, 
+    "name": "mahi mahi"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.701635339554947, 
+    "name": "arugula"
+  }, 
+  {
+    "freq": 7, 
+    "score": 5.314128384292913, 
+    "name": "del taco"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.148080299524436, 
+    "name": "dim sim"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.944533069494757, 
+    "name": "cirque du soleil"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.677938000048624, 
+    "name": "grilled octopus"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.382017472963416, 
+    "name": "naan"
+  }, 
+  {
+    "freq": 7, 
+    "score": 9.441788621681416, 
+    "name": "fettuccine"
+  }, 
+  {
+    "freq": 7, 
+    "score": 9.037572854223901, 
+    "name": "panna cotta"
+  }, 
+  {
+    "freq": 7, 
+    "score": 7.004434666711025, 
+    "name": "anchovies"
+  }, 
+  {
+    "freq": 7, 
+    "score": 8.119724115130786, 
+    "name": "cuttlefish"
+  }, 
+  {
+    "freq": 8, 
+    "score": 6.591673732008658, 
+    "name": "snails"
+  }, 
+  {
+    "freq": 8, 
+    "score": 8.40115279569731, 
+    "name": "chili powder"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.690286020676768, 
+    "name": "lasagna"
+  }, 
+  {
+    "freq": 8, 
+    "score": 8.605796261233527, 
+    "name": "spinach salad"
+  }, 
+  {
+    "freq": 8, 
+    "score": 9.549476047653569, 
+    "name": "khar"
+  }, 
+  {
+    "freq": 8, 
+    "score": 8.884429812707323, 
+    "name": "cave creek"
+  }, 
+  {
+    "freq": 8, 
+    "score": 9.207417276456539, 
+    "name": "crispy kau"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.355925758908214, 
+    "name": "xiaolongbao"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.410247594153525, 
+    "name": "egg yolk"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.690286020676768, 
+    "name": "tuna tartare"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.590412176252395, 
+    "name": "punch card"
+  }, 
+  {
+    "freq": 8, 
+    "score": 3.3803455035941843, 
+    "name": "wolfgang puck"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.943811933446332, 
+    "name": "smoked salmon"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.87338806878812, 
+    "name": "bari"
+  }, 
+  {
+    "freq": 8, 
+    "score": 8.09503791650186, 
+    "name": "cauliflower"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.267742832727495, 
+    "name": "potato chip"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.7380517723579905, 
+    "name": "high roller"
+  }, 
+  {
+    "freq": 8, 
+    "score": 8.631953696678005, 
+    "name": "skirt steak"
+  }, 
+  {
+    "freq": 8, 
+    "score": 5.639543081829631, 
+    "name": "gordon ramsay"
+  }, 
+  {
+    "freq": 8, 
+    "score": 9.078006806362803, 
+    "name": "birthday girl"
+  }, 
+  {
+    "freq": 8, 
+    "score": 10.49785075838416, 
+    "name": "beef carpaccio"
+  }, 
+  {
+    "freq": 8, 
+    "score": 7.827612556760283, 
+    "name": "rice chicken"
+  }, 
+  {
+    "freq": 8, 
+    "score": 9.38045877247386, 
+    "name": "carne asada"
+  }, 
+  {
+    "freq": 8, 
+    "score": 10.18713213128611, 
+    "name": "apache junction"
+  }, 
+  {
+    "freq": 9, 
+    "score": 7.828789316179756, 
+    "name": "hard boiled egg"
+  }, 
+  {
+    "freq": 9, 
+    "score": 7.9311264314239365, 
+    "name": "spring training"
+  }, 
+  {
+    "freq": 9, 
+    "score": 9.014375683210732, 
+    "name": "self service"
+  }, 
+  {
+    "freq": 9, 
+    "score": 7.799078540786285, 
+    "name": "lazy sunday"
+  }, 
+  {
+    "freq": 9, 
+    "score": 6.907755278982138, 
+    "name": "penne"
+  }, 
+  {
+    "freq": 9, 
+    "score": 8.22351818926445, 
+    "name": "the gai lan"
+  }, 
+  {
+    "freq": 9, 
+    "score": 7.598530806880351, 
+    "name": "camaron"
+  }, 
+  {
+    "freq": 9, 
+    "score": 8.397663280331226, 
+    "name": "golden nugget"
+  }, 
+  {
+    "freq": 9, 
+    "score": 9.881927690766114, 
+    "name": "ground beef"
+  }, 
+  {
+    "freq": 9, 
+    "score": 9.289739857941495, 
+    "name": "inferno"
+  }, 
+  {
+    "freq": 9, 
+    "score": 7.460375701300709, 
+    "name": "home depot"
+  }, 
+  {
+    "freq": 9, 
+    "score": 6.8310024425490035, 
+    "name": "olives"
+  }, 
+  {
+    "freq": 9, 
+    "score": 9.269381015386287, 
+    "name": "sausages"
+  }, 
+  {
+    "freq": 9, 
+    "score": 9.033218441745872, 
+    "name": "house music"
+  }, 
+  {
+    "freq": 9, 
+    "score": 7.127049097362523, 
+    "name": "fast food chain"
+  }, 
+  {
+    "freq": 9, 
+    "score": 4.870853081333559, 
+    "name": "romaine lettuce"
+  }, 
+  {
+    "freq": 9, 
+    "score": 8.324730720824627, 
+    "name": "more frequently"
+  }, 
+  {
+    "freq": 9, 
+    "score": 8.05904782547916, 
+    "name": "coca cola"
+  }, 
+  {
+    "freq": 9, 
+    "score": 8.236169755709472, 
+    "name": "sardine"
+  }, 
+  {
+    "freq": 10, 
+    "score": 7.536242285937736, 
+    "name": "lake mead"
+  }, 
+  {
+    "freq": 10, 
+    "score": 7.319890832752922, 
+    "name": "the beef rice"
+  }, 
+  {
+    "freq": 10, 
+    "score": 9.74144954574338, 
+    "name": "yui shan"
+  }, 
+  {
+    "freq": 10, 
+    "score": 7.967200422523619, 
+    "name": "amarone"
+  }, 
+  {
+    "freq": 10, 
+    "score": 7.8787987534803605, 
+    "name": "cast iron"
+  }, 
+  {
+    "freq": 10, 
+    "score": 8.65327424531586, 
+    "name": "flat bread"
+  }, 
+  {
+    "freq": 10, 
+    "score": 6.8190146820203665, 
+    "name": "enchiladas"
+  }, 
+  {
+    "freq": 10, 
+    "score": 9.207917847545742, 
+    "name": "deer valley"
+  }, 
+  {
+    "freq": 10, 
+    "score": 8.50162869446695, 
+    "name": "waiting staff"
+  }, 
+  {
+    "freq": 10, 
+    "score": 10.390879515459606, 
+    "name": "red velvet cake"
+  }, 
+  {
+    "freq": 10, 
+    "score": 7.402198450812361, 
+    "name": "oregano"
+  }, 
+  {
+    "freq": 10, 
+    "score": 9.24902462365086, 
+    "name": "sour cream"
+  }, 
+  {
+    "freq": 10, 
+    "score": 8.492545757827562, 
+    "name": "pinni"
+  }, 
+  {
+    "freq": 10, 
+    "score": 9.24902462365086, 
+    "name": "jerk fried rice and black"
+  }, 
+  {
+    "freq": 11, 
+    "score": 6.0051910703210005, 
+    "name": "kick ass"
+  }, 
+  {
+    "freq": 11, 
+    "score": 8.320672266714364, 
+    "name": "pine nuts"
+  }, 
+  {
+    "freq": 11, 
+    "score": 7.691377725534287, 
+    "name": "celebrity chef"
+  }, 
+  {
+    "freq": 11, 
+    "score": 9.939626599152001, 
+    "name": "kabobs"
+  }, 
+  {
+    "freq": 11, 
+    "score": 10.590435483620286, 
+    "name": "low carb"
+  }, 
+  {
+    "freq": 11, 
+    "score": 7.4547199493640015, 
+    "name": "bloody mary"
+  }, 
+  {
+    "freq": 11, 
+    "score": 8.88542377802982, 
+    "name": "flank steak"
+  }, 
+  {
+    "freq": 11, 
+    "score": 8.559122904825335, 
+    "name": "parsley"
+  }, 
+  {
+    "freq": 11, 
+    "score": 9.939626599152001, 
+    "name": "pork and veggies"
+  }, 
+  {
+    "freq": 11, 
+    "score": 7.057134885397921, 
+    "name": "mole sauce"
+  }, 
+  {
+    "freq": 11, 
+    "score": 10.767928815748, 
+    "name": "roast beef"
+  }, 
+  {
+    "freq": 11, 
+    "score": 7.703210614342801, 
+    "name": "baked potato"
+  }, 
+  {
+    "freq": 11, 
+    "score": 7.392597283119302, 
+    "name": "won ton and"
+  }, 
+  {
+    "freq": 11, 
+    "score": 9.1320319379709, 
+    "name": "security guard"
+  }, 
+  {
+    "freq": 12, 
+    "score": 7.902816939205816, 
+    "name": "parmesan"
+  }, 
+  {
+    "freq": 12, 
+    "score": 8.044613893856638, 
+    "name": "bachelor party"
+  }, 
+  {
+    "freq": 12, 
+    "score": 10.157199455547685, 
+    "name": "ginger beef"
+  }, 
+  {
+    "freq": 12, 
+    "score": 11.598031877217382, 
+    "name": "pesto"
+  }, 
+  {
+    "freq": 12, 
+    "score": 8.133589409845136, 
+    "name": "blood orange"
+  }, 
+  {
+    "freq": 12, 
+    "score": 9.347815436082044, 
+    "name": "poached egg"
+  }, 
+  {
+    "freq": 12, 
+    "score": 7.539396596174821, 
+    "name": "hot dogs"
+  }, 
+  {
+    "freq": 12, 
+    "score": 11.30909489426223, 
+    "name": "cherry blossom"
+  }, 
+  {
+    "freq": 12, 
+    "score": 11.827266481628197, 
+    "name": "regular noodles"
+  }, 
+  {
+    "freq": 12, 
+    "score": 6.934863077581192, 
+    "name": "the refried beans"
+  }, 
+  {
+    "freq": 12, 
+    "score": 9.980998586643805, 
+    "name": "green salad"
+  }, 
+  {
+    "freq": 12, 
+    "score": 8.84465295676392, 
+    "name": "dandan noodles"
+  }, 
+  {
+    "freq": 12, 
+    "score": 9.928836222431755, 
+    "name": "family owned business"
+  }, 
+  {
+    "freq": 12, 
+    "score": 7.694848072384611, 
+    "name": "rocket"
+  }, 
+  {
+    "freq": 12, 
+    "score": 10.259797429846147, 
+    "name": "united states"
+  }, 
+  {
+    "freq": 12, 
+    "score": 8.759544032085625, 
+    "name": "cheddar cheese"
+  }, 
+  {
+    "freq": 12, 
+    "score": 7.1248593262820465, 
+    "name": "sun city"
+  }, 
+  {
+    "freq": 12, 
+    "score": 9.575810934523071, 
+    "name": "the chicken skewer"
+  }, 
+  {
+    "freq": 13, 
+    "score": 10.556229318461034, 
+    "name": "beans and rice"
+  }, 
+  {
+    "freq": 13, 
+    "score": 9.619789620855618, 
+    "name": "style dim"
+  }, 
+  {
+    "freq": 13, 
+    "score": 10.204355007845665, 
+    "name": "the fried rice and the"
+  }, 
+  {
+    "freq": 13, 
+    "score": 9.875182265657095, 
+    "name": "small salad"
+  }, 
+  {
+    "freq": 13, 
+    "score": 7.68431398917384, 
+    "name": "apple pie"
+  }, 
+  {
+    "freq": 13, 
+    "score": 8.98205477097123, 
+    "name": "fine dining restaurant"
+  }, 
+  {
+    "freq": 13, 
+    "score": 9.52744425776356, 
+    "name": "asian american"
+  }, 
+  {
+    "freq": 13, 
+    "score": 10.336307874326428, 
+    "name": "red bean soup"
+  }, 
+  {
+    "freq": 13, 
+    "score": 9.937700256832457, 
+    "name": "shopping mall"
+  }, 
+  {
+    "freq": 13, 
+    "score": 10.801723023541523, 
+    "name": "whipped cream"
+  }, 
+  {
+    "freq": 14, 
+    "score": 8.83948461869212, 
+    "name": "carne"
+  }, 
+  {
+    "freq": 14, 
+    "score": 10.415577696546961, 
+    "name": "mozzarella"
+  }, 
+  {
+    "freq": 14, 
+    "score": 9.628622937252302, 
+    "name": "puri"
+  }, 
+  {
+    "freq": 14, 
+    "score": 8.401899341881217, 
+    "name": "identity crisis"
+  }, 
+  {
+    "freq": 14, 
+    "score": 10.996325059021096, 
+    "name": "french bread"
+  }, 
+  {
+    "freq": 14, 
+    "score": 11.451183707517917, 
+    "name": "kabob"
+  }, 
+  {
+    "freq": 14, 
+    "score": 11.672630177164699, 
+    "name": "clay pots"
+  }, 
+  {
+    "freq": 14, 
+    "score": 7.657245396220042, 
+    "name": "pizza hut"
+  }, 
+  {
+    "freq": 14, 
+    "score": 10.324441391702177, 
+    "name": "sweet corn"
+  }, 
+  {
+    "freq": 14, 
+    "score": 8.18862798904716, 
+    "name": "enchilada"
+  }, 
+  {
+    "freq": 14, 
+    "score": 10.42599327424351, 
+    "name": "mgm grand"
+  }, 
+  {
+    "freq": 14, 
+    "score": 10.83220080440884, 
+    "name": "white chocolate"
+  }, 
+  {
+    "freq": 14, 
+    "score": 10.978581896360312, 
+    "name": "fruit salad"
+  }, 
+  {
+    "freq": 14, 
+    "score": 11.201480377286416, 
+    "name": "gelato"
+  }, 
+  {
+    "freq": 15, 
+    "score": 12.182586809841462, 
+    "name": "eggs benedict"
+  }, 
+  {
+    "freq": 15, 
+    "score": 10.119948836175201, 
+    "name": "rock hard"
+  }, 
+  {
+    "freq": 15, 
+    "score": 11.185961396622565, 
+    "name": "fresh air"
+  }, 
+  {
+    "freq": 15, 
+    "score": 9.157944567398065, 
+    "name": "tiramisu"
+  }, 
+  {
+    "freq": 15, 
+    "score": 9.673253986481015, 
+    "name": "bottled water"
+  }, 
+  {
+    "freq": 15, 
+    "score": 10.25857827228719, 
+    "name": "hainanese chicken rice"
+  }, 
+  {
+    "freq": 15, 
+    "score": 9.627044174443684, 
+    "name": "lamb chops"
+  }, 
+  {
+    "freq": 15, 
+    "score": 9.441788621681416, 
+    "name": "macaroni"
+  }, 
+  {
+    "freq": 15, 
+    "score": 9.922949111173955, 
+    "name": "melted cheese"
+  }, 
+  {
+    "freq": 15, 
+    "score": 11.69108244544441, 
+    "name": "red snapper"
+  }, 
+  {
+    "freq": 16, 
+    "score": 8.49964003216865, 
+    "name": "french toast"
+  }, 
+  {
+    "freq": 16, 
+    "score": 10.871632599285482, 
+    "name": "food critic"
+  }, 
+  {
+    "freq": 16, 
+    "score": 11.89949604503611, 
+    "name": "eggplants"
+  }, 
+  {
+    "freq": 16, 
+    "score": 11.241459397384341, 
+    "name": "sun prairie"
+  }, 
+  {
+    "freq": 16, 
+    "score": 11.602683218515931, 
+    "name": "carrot cake"
+  }, 
+  {
+    "freq": 16, 
+    "score": 10.536012123209053, 
+    "name": "long island"
+  }, 
+  {
+    "freq": 16, 
+    "score": 10.212745775086361, 
+    "name": "century egg"
+  }, 
+  {
+    "freq": 16, 
+    "score": 8.794766422174504, 
+    "name": "fast casual"
+  }, 
+  {
+    "freq": 16, 
+    "score": 8.332980423694755, 
+    "name": "hot plate"
+  }, 
+  {
+    "freq": 16, 
+    "score": 9.7588459628603, 
+    "name": "banana leaf"
+  }, 
+  {
+    "freq": 16, 
+    "score": 8.32617799069582, 
+    "name": "olive garden"
+  }, 
+  {
+    "freq": 17, 
+    "score": 8.59082716930249, 
+    "name": "alba"
+  }, 
+  {
+    "freq": 17, 
+    "score": 12.64537644079572, 
+    "name": "vanilla ice cream"
+  }, 
+  {
+    "freq": 17, 
+    "score": 9.79787036574971, 
+    "name": "corn tortilla"
+  }, 
+  {
+    "freq": 17, 
+    "score": 11.807476117363054, 
+    "name": "key lime"
+  }, 
+  {
+    "freq": 17, 
+    "score": 7.120184086524698, 
+    "name": "cheesecake factory"
+  }, 
+  {
+    "freq": 17, 
+    "score": 9.579517826170147, 
+    "name": "lobster tail"
+  }, 
+  {
+    "freq": 17, 
+    "score": 9.711649106531112, 
+    "name": "the mongolian beef and the"
+  }, 
+  {
+    "freq": 17, 
+    "score": 11.863466170469332, 
+    "name": "pork blood"
+  }, 
+  {
+    "freq": 18, 
+    "score": 11.209530850510834, 
+    "name": "white wine"
+  }, 
+  {
+    "freq": 18, 
+    "score": 13.205362694443428, 
+    "name": "thai cuisine"
+  }, 
+  {
+    "freq": 18, 
+    "score": 7.508319396874422, 
+    "name": "tourist trap"
+  }, 
+  {
+    "freq": 18, 
+    "score": 9.078686852429858, 
+    "name": "al pastor"
+  }, 
+  {
+    "freq": 18, 
+    "score": 10.482202765832527, 
+    "name": "boba milk"
+  }, 
+  {
+    "freq": 18, 
+    "score": 9.214361981862037, 
+    "name": "mixed drink"
+  }, 
+  {
+    "freq": 18, 
+    "score": 9.729450539854325, 
+    "name": "hockey puck"
+  }, 
+  {
+    "freq": 18, 
+    "score": 13.558114369185004, 
+    "name": "powdered sugar"
+  }, 
+  {
+    "freq": 19, 
+    "score": 9.193799046424317, 
+    "name": "mexican cuisine"
+  }, 
+  {
+    "freq": 19, 
+    "score": 12.294984539377838, 
+    "name": "linguine"
+  }, 
+  {
+    "freq": 19, 
+    "score": 5.376955362789214, 
+    "name": "frozen food"
+  }, 
+  {
+    "freq": 19, 
+    "score": 8.987196820661973, 
+    "name": "chen wok"
+  }, 
+  {
+    "freq": 20, 
+    "score": 13.301663507672574, 
+    "name": "vanilla ice"
+  }, 
+  {
+    "freq": 20, 
+    "score": 9.865794228572105, 
+    "name": "veal"
+  }, 
+  {
+    "freq": 20, 
+    "score": 12.24022286186764, 
+    "name": "home run"
+  }, 
+  {
+    "freq": 20, 
+    "score": 13.061983361845654, 
+    "name": "chocolate chip"
+  }, 
+  {
+    "freq": 20, 
+    "score": 11.658293237136034, 
+    "name": "pickles"
+  }, 
+  {
+    "freq": 20, 
+    "score": 11.342338493479419, 
+    "name": "white pepper"
+  }, 
+  {
+    "freq": 20, 
+    "score": 13.205616073625349, 
+    "name": "winter melon"
+  }, 
+  {
+    "freq": 21, 
+    "score": 12.557359966768159, 
+    "name": "malaysian cuisine"
+  }, 
+  {
+    "freq": 21, 
+    "score": 10.73730536429731, 
+    "name": "rush hour"
+  }, 
+  {
+    "freq": 21, 
+    "score": 12.031288318456214, 
+    "name": "sugar cane"
+  }, 
+  {
+    "freq": 21, 
+    "score": 10.974937250126155, 
+    "name": "glutinous rice"
+  }, 
+  {
+    "freq": 21, 
+    "score": 11.002015511953328, 
+    "name": "prix fixe"
+  }, 
+  {
+    "freq": 21, 
+    "score": 10.156282346748752, 
+    "name": "pastor"
+  }, 
+  {
+    "freq": 21, 
+    "score": 10.589682479097934, 
+    "name": "tomato sauce"
+  }, 
+  {
+    "freq": 22, 
+    "score": 13.03062531295231, 
+    "name": "oolong tea"
+  }, 
+  {
+    "freq": 22, 
+    "score": 9.976572505229113, 
+    "name": "chinese culture"
+  }, 
+  {
+    "freq": 22, 
+    "score": 9.20634471911112, 
+    "name": "air conditioning"
+  }, 
+  {
+    "freq": 22, 
+    "score": 11.373851567586131, 
+    "name": "wonton strips"
+  }, 
+  {
+    "freq": 22, 
+    "score": 13.16907570690243, 
+    "name": "queen creek"
+  }, 
+  {
+    "freq": 22, 
+    "score": 10.431548064533517, 
+    "name": "san francisco bay"
+  }, 
+  {
+    "freq": 22, 
+    "score": 10.506656056885397, 
+    "name": "duck soup"
+  }, 
+  {
+    "freq": 23, 
+    "score": 9.352558415023955, 
+    "name": "coconut chicken"
+  }, 
+  {
+    "freq": 23, 
+    "score": 9.331306991234394, 
+    "name": "food chain"
+  }, 
+  {
+    "freq": 23, 
+    "score": 12.373222912821337, 
+    "name": "goose"
+  }, 
+  {
+    "freq": 23, 
+    "score": 12.517640597084766, 
+    "name": "dried shrimp"
+  }, 
+  {
+    "freq": 23, 
+    "score": 11.619759317209677, 
+    "name": "hard rock"
+  }, 
+  {
+    "freq": 23, 
+    "score": 11.80419994129237, 
+    "name": "red wine"
+  }, 
+  {
+    "freq": 23, 
+    "score": 7.945134575869864, 
+    "name": "debit card"
+  }, 
+  {
+    "freq": 24, 
+    "score": 14.028533445694247, 
+    "name": "shrimp soup"
+  }, 
+  {
+    "freq": 24, 
+    "score": 10.636285334347098, 
+    "name": "chinese chicken salad"
+  }, 
+  {
+    "freq": 24, 
+    "score": 12.331467948790852, 
+    "name": "salad dressing"
+  }, 
+  {
+    "freq": 24, 
+    "score": 11.385283010181968, 
+    "name": "penda"
+  }, 
+  {
+    "freq": 24, 
+    "score": 13.41953865015475, 
+    "name": "pulled pork"
+  }, 
+  {
+    "freq": 24, 
+    "score": 11.662593568363047, 
+    "name": "deep fried shrimp"
+  }, 
+  {
+    "freq": 25, 
+    "score": 12.854671795466574, 
+    "name": "chinese noodles"
+  }, 
+  {
+    "freq": 25, 
+    "score": 13.226899378236466, 
+    "name": "dungeness crab"
+  }, 
+  {
+    "freq": 25, 
+    "score": 13.519992436687781, 
+    "name": "chocolate mousse"
+  }, 
+  {
+    "freq": 25, 
+    "score": 11.455887827236824, 
+    "name": "hash browns"
+  }, 
+  {
+    "freq": 25, 
+    "score": 10.02018369240569, 
+    "name": "scrambled eggs"
+  }, 
+  {
+    "freq": 25, 
+    "score": 9.205415615362284, 
+    "name": "iceberg lettuce"
+  }, 
+  {
+    "freq": 25, 
+    "score": 13.972221691899817, 
+    "name": "cantonese restaurant"
+  }, 
+  {
+    "freq": 25, 
+    "score": 10.89426029900933, 
+    "name": "dive bar"
+  }, 
+  {
+    "freq": 26, 
+    "score": 13.701264685817998, 
+    "name": "dumplings the"
+  }, 
+  {
+    "freq": 26, 
+    "score": 12.990889836805385, 
+    "name": "star anise"
+  }, 
+  {
+    "freq": 27, 
+    "score": 11.424701177743556, 
+    "name": "mai tai"
+  }, 
+  {
+    "freq": 27, 
+    "score": 10.317017810350151, 
+    "name": "downtown phoenix"
+  }, 
+  {
+    "freq": 27, 
+    "score": 12.77345062233828, 
+    "name": "fountain hills"
+  }, 
+  {
+    "freq": 27, 
+    "score": 12.879532039328877, 
+    "name": "red onion"
+  }, 
+  {
+    "freq": 27, 
+    "score": 11.707745576291257, 
+    "name": "fried dough"
+  }, 
+  {
+    "freq": 27, 
+    "score": 13.786996160849906, 
+    "name": "ravioli"
+  }, 
+  {
+    "freq": 27, 
+    "score": 14.25677372707872, 
+    "name": "lotus root"
+  }, 
+  {
+    "freq": 27, 
+    "score": 10.799912832085704, 
+    "name": "onion rings"
+  }, 
+  {
+    "freq": 27, 
+    "score": 14.419357698576336, 
+    "name": "bone marrow"
+  }, 
+  {
+    "freq": 27, 
+    "score": 11.10734836725068, 
+    "name": "creme brulee"
+  }, 
+  {
+    "freq": 27, 
+    "score": 11.622079145245223, 
+    "name": "casa grande"
+  }, 
+  {
+    "freq": 27, 
+    "score": 9.821234345779548, 
+    "name": "christmas eve"
+  }, 
+  {
+    "freq": 28, 
+    "score": 12.206447383700969, 
+    "name": "pork chop rice"
+  }, 
+  {
+    "freq": 28, 
+    "score": 11.887574672528007, 
+    "name": "soda fountain"
+  }, 
+  {
+    "freq": 28, 
+    "score": 15.167999234173308, 
+    "name": "fondue"
+  }, 
+  {
+    "freq": 29, 
+    "score": 9.365615978489993, 
+    "name": "tap water"
+  }, 
+  {
+    "freq": 29, 
+    "score": 14.655565953503595, 
+    "name": "light rail"
+  }, 
+  {
+    "freq": 29, 
+    "score": 10.039679018159374, 
+    "name": "double check"
+  }, 
+  {
+    "freq": 29, 
+    "score": 12.01756408187295, 
+    "name": "carnitas tacos"
+  }, 
+  {
+    "freq": 29, 
+    "score": 15.41629682775129, 
+    "name": "cantonese cuisine"
+  }, 
+  {
+    "freq": 29, 
+    "score": 13.35592142555139, 
+    "name": "beef tongue"
+  }, 
+  {
+    "freq": 29, 
+    "score": 12.501698483947383, 
+    "name": "litti"
+  }, 
+  {
+    "freq": 30, 
+    "score": 14.341946559908553, 
+    "name": "passion fruit"
+  }, 
+  {
+    "freq": 30, 
+    "score": 15.003253619595815, 
+    "name": "sea salt"
+  }, 
+  {
+    "freq": 30, 
+    "score": 11.428738664927128, 
+    "name": "creme brule"
+  }, 
+  {
+    "freq": 30, 
+    "score": 13.264617240854388, 
+    "name": "food allergies"
+  }, 
+  {
+    "freq": 30, 
+    "score": 11.969898255633938, 
+    "name": "chorizo"
+  }, 
+  {
+    "freq": 31, 
+    "score": 11.78350206951907, 
+    "name": "beef rice"
+  }, 
+  {
+    "freq": 31, 
+    "score": 13.310879485089217, 
+    "name": "guilty pleasure"
+  }, 
+  {
+    "freq": 32, 
+    "score": 11.943515927781542, 
+    "name": "lard"
+  }, 
+  {
+    "freq": 32, 
+    "score": 11.418974061498126, 
+    "name": "new york style chinese"
+  }, 
+  {
+    "freq": 32, 
+    "score": 11.915729716050242, 
+    "name": "rice paper"
+  }, 
+  {
+    "freq": 33, 
+    "score": 11.801553222382088, 
+    "name": "orange county"
+  }, 
+  {
+    "freq": 33, 
+    "score": 13.165079291900337, 
+    "name": "mashed potatoes"
+  }, 
+  {
+    "freq": 33, 
+    "score": 11.811183443895095, 
+    "name": "elba"
+  }, 
+  {
+    "freq": 33, 
+    "score": 11.932952132406475, 
+    "name": "shark fin soup"
+  }, 
+  {
+    "freq": 33, 
+    "score": 10.531428053245563, 
+    "name": "tsao's chicken"
+  }, 
+  {
+    "freq": 34, 
+    "score": 12.675588740962256, 
+    "name": "bubble tea"
+  }, 
+  {
+    "freq": 34, 
+    "score": 13.285774335039388, 
+    "name": "white sauce"
+  }, 
+  {
+    "freq": 34, 
+    "score": 13.332555230585301, 
+    "name": "street food"
+  }, 
+  {
+    "freq": 34, 
+    "score": 13.140845286093224, 
+    "name": "apples"
+  }, 
+  {
+    "freq": 34, 
+    "score": 14.964300796119621, 
+    "name": "bachelorette party"
+  }, 
+  {
+    "freq": 35, 
+    "score": 11.793859797450489, 
+    "name": "the dimsum"
+  }, 
+  {
+    "freq": 35, 
+    "score": 11.85766022724908, 
+    "name": "jasmine rice"
+  }, 
+  {
+    "freq": 35, 
+    "score": 13.417361606777527, 
+    "name": "san gabriel valley"
+  }, 
+  {
+    "freq": 35, 
+    "score": 13.546489173943975, 
+    "name": "lazy susan"
+  }, 
+  {
+    "freq": 35, 
+    "score": 13.139569441005737, 
+    "name": "shrimp paste"
+  }, 
+  {
+    "freq": 35, 
+    "score": 12.951861306134226, 
+    "name": "chinese american"
+  }, 
+  {
+    "freq": 35, 
+    "score": 10.533373849401293, 
+    "name": "soft serve"
+  }, 
+  {
+    "freq": 36, 
+    "score": 13.455420432379531, 
+    "name": "mashed potato"
+  }, 
+  {
+    "freq": 36, 
+    "score": 13.765109895180666, 
+    "name": "sweet soy"
+  }, 
+  {
+    "freq": 36, 
+    "score": 11.300048997216043, 
+    "name": "thai curry"
+  }, 
+  {
+    "freq": 36, 
+    "score": 14.103820552916265, 
+    "name": "king crab"
+  }, 
+  {
+    "freq": 37, 
+    "score": 12.78557511586997, 
+    "name": "soft drinks"
+  }, 
+  {
+    "freq": 37, 
+    "score": 16.171919192036583, 
+    "name": "neo tokyo"
+  }, 
+  {
+    "freq": 37, 
+    "score": 15.077531038865887, 
+    "name": "sunday brunch"
+  }, 
+  {
+    "freq": 38, 
+    "score": 13.097232884913486, 
+    "name": "vada"
+  }, 
+  {
+    "freq": 38, 
+    "score": 10.20319037894051, 
+    "name": "hot dog"
+  }, 
+  {
+    "freq": 38, 
+    "score": 14.23277489071606, 
+    "name": "monterey park"
+  }, 
+  {
+    "freq": 39, 
+    "score": 16.272057147591475, 
+    "name": "bitter melon"
+  }, 
+  {
+    "freq": 39, 
+    "score": 8.823400856461713, 
+    "name": "guy fieri"
+  }, 
+  {
+    "freq": 40, 
+    "score": 14.393480054160491, 
+    "name": "red peppers"
+  }, 
+  {
+    "freq": 40, 
+    "score": 15.358600522789422, 
+    "name": "acqui"
+  }, 
+  {
+    "freq": 41, 
+    "score": 10.716395409064203, 
+    "name": "olive"
+  }, 
+  {
+    "freq": 41, 
+    "score": 12.786764483600997, 
+    "name": "corn starch"
+  }, 
+  {
+    "freq": 42, 
+    "score": 13.422321981494674, 
+    "name": "red rice"
+  }, 
+  {
+    "freq": 42, 
+    "score": 13.585714210996574, 
+    "name": "las vegas strip"
+  }, 
+  {
+    "freq": 42, 
+    "score": 13.82565283906668, 
+    "name": "egg white"
+  }, 
+  {
+    "freq": 43, 
+    "score": 13.22761781946203, 
+    "name": "chicken skewer"
+  }, 
+  {
+    "freq": 44, 
+    "score": 13.633163335456494, 
+    "name": "margaritas"
+  }, 
+  {
+    "freq": 44, 
+    "score": 15.900395532491956, 
+    "name": "foie gras"
+  }, 
+  {
+    "freq": 45, 
+    "score": 15.768196083170727, 
+    "name": "food truck"
+  }, 
+  {
+    "freq": 45, 
+    "score": 14.392001394031297, 
+    "name": "hot n sour soup"
+  }, 
+  {
+    "freq": 45, 
+    "score": 15.834963445673344, 
+    "name": "beef tenderloin"
+  }, 
+  {
+    "freq": 45, 
+    "score": 12.678451837554054, 
+    "name": "diet coke"
+  }, 
+  {
+    "freq": 46, 
+    "score": 14.622782810535172, 
+    "name": "sin city"
+  }, 
+  {
+    "freq": 47, 
+    "score": 13.49493436512751, 
+    "name": "mu shu pork"
+  }, 
+  {
+    "freq": 47, 
+    "score": 16.902966790201784, 
+    "name": "twice cooked pork"
+  }, 
+  {
+    "freq": 47, 
+    "score": 15.952751418576472, 
+    "name": "bobo brazil"
+  }, 
+  {
+    "freq": 47, 
+    "score": 13.414786836409984, 
+    "name": "french fries"
+  }, 
+  {
+    "freq": 48, 
+    "score": 12.094580003359178, 
+    "name": "cash register"
+  }, 
+  {
+    "freq": 49, 
+    "score": 12.4967401562288, 
+    "name": "monday night"
+  }, 
+  {
+    "freq": 49, 
+    "score": 14.557856102167035, 
+    "name": "the stir fry"
+  }, 
+  {
+    "freq": 50, 
+    "score": 16.317076375805954, 
+    "name": "great taste"
+  }, 
+  {
+    "freq": 50, 
+    "score": 12.98906682239286, 
+    "name": "mixed vegetable"
+  }, 
+  {
+    "freq": 50, 
+    "score": 11.900793656192379, 
+    "name": "monte carlo"
+  }, 
+  {
+    "freq": 51, 
+    "score": 8.801736007598628, 
+    "name": "saving grace"
+  }, 
+  {
+    "freq": 51, 
+    "score": 14.052167510443724, 
+    "name": "san gabriel"
+  }, 
+  {
+    "freq": 51, 
+    "score": 14.31744782733035, 
+    "name": "peanut butter"
+  }, 
+  {
+    "freq": 51, 
+    "score": 16.29888033914839, 
+    "name": "ribeye"
+  }, 
+  {
+    "freq": 52, 
+    "score": 15.647621071058364, 
+    "name": "chocolate cake"
+  }, 
+  {
+    "freq": 52, 
+    "score": 14.046158786600364, 
+    "name": "southern california"
+  }, 
+  {
+    "freq": 53, 
+    "score": 15.026994695961308, 
+    "name": "frog legs"
+  }, 
+  {
+    "freq": 53, 
+    "score": 15.602744890467553, 
+    "name": "napa cabbage"
+  }, 
+  {
+    "freq": 54, 
+    "score": 14.519720924575187, 
+    "name": "sesame oil"
+  }, 
+  {
+    "freq": 54, 
+    "score": 16.116924723120757, 
+    "name": "chinese sausage"
+  }, 
+  {
+    "freq": 54, 
+    "score": 14.4386355987002, 
+    "name": "prime rib"
+  }, 
+  {
+    "freq": 55, 
+    "score": 12.251070363106978, 
+    "name": "chips and salsa"
+  }, 
+  {
+    "freq": 55, 
+    "score": 13.943236278148861, 
+    "name": "octopus"
+  }, 
+  {
+    "freq": 56, 
+    "score": 14.287269007280202, 
+    "name": "almond chicken"
+  }, 
+  {
+    "freq": 56, 
+    "score": 10.065803501298431, 
+    "name": "taco bell"
+  }, 
+  {
+    "freq": 57, 
+    "score": 17.279780029844158, 
+    "name": "roti canai"
+  }, 
+  {
+    "freq": 57, 
+    "score": 15.084650977004054, 
+    "name": "braised pork"
+  }, 
+  {
+    "freq": 57, 
+    "score": 17.256882794822282, 
+    "name": "strawberries"
+  }, 
+  {
+    "freq": 58, 
+    "score": 13.972595982349342, 
+    "name": "soft drink"
+  }, 
+  {
+    "freq": 59, 
+    "score": 14.043601848421805, 
+    "name": "planet hollywood"
+  }, 
+  {
+    "freq": 60, 
+    "score": 14.519687490700809, 
+    "name": "sesame seeds"
+  }, 
+  {
+    "freq": 61, 
+    "score": 14.245270296768542, 
+    "name": "japanese food"
+  }, 
+  {
+    "freq": 61, 
+    "score": 15.201957307728906, 
+    "name": "refried beans"
+  }, 
+  {
+    "freq": 62, 
+    "score": 17.112947782921545, 
+    "name": "filet mignon"
+  }, 
+  {
+    "freq": 63, 
+    "score": 14.658779262952917, 
+    "name": "lo mien"
+  }, 
+  {
+    "freq": 65, 
+    "score": 12.088184173715588, 
+    "name": "spaghetti"
+  }, 
+  {
+    "freq": 65, 
+    "score": 13.292357850601823, 
+    "name": "chicken soup"
+  }, 
+  {
+    "freq": 65, 
+    "score": 14.160667119338223, 
+    "name": "credit cards"
+  }, 
+  {
+    "freq": 66, 
+    "score": 15.495070949237077, 
+    "name": "duck sauce"
+  }, 
+  {
+    "freq": 69, 
+    "score": 15.478301584547395, 
+    "name": "beef broccoli"
+  }, 
+  {
+    "freq": 71, 
+    "score": 15.295627293011504, 
+    "name": "soy milk"
+  }, 
+  {
+    "freq": 71, 
+    "score": 16.89942514871102, 
+    "name": "sweet potato"
+  }, 
+  {
+    "freq": 72, 
+    "score": 15.332403282073438, 
+    "name": "zucchini"
+  }, 
+  {
+    "freq": 72, 
+    "score": 17.20676404146423, 
+    "name": "jasmine tea"
+  }, 
+  {
+    "freq": 73, 
+    "score": 14.549611347679315, 
+    "name": "shark fin"
+  }, 
+  {
+    "freq": 73, 
+    "score": 15.409615765792708, 
+    "name": "salad bar"
+  }, 
+  {
+    "freq": 73, 
+    "score": 14.434721707140517, 
+    "name": "general chicken"
+  }, 
+  {
+    "freq": 74, 
+    "score": 14.489197397969312, 
+    "name": "pasta"
+  }, 
+  {
+    "freq": 75, 
+    "score": 18.26189766943749, 
+    "name": "truffle"
+  }, 
+  {
+    "freq": 76, 
+    "score": 16.080433532823736, 
+    "name": "mussels"
+  }, 
+  {
+    "freq": 76, 
+    "score": 17.646709526280592, 
+    "name": "date night"
+  }, 
+  {
+    "freq": 77, 
+    "score": 15.54983427075376, 
+    "name": "of garlic"
+  }, 
+  {
+    "freq": 77, 
+    "score": 15.770565835454885, 
+    "name": "sesame seed"
+  }, 
+  {
+    "freq": 78, 
+    "score": 17.852315511508117, 
+    "name": "coconut milk"
+  }, 
+  {
+    "freq": 78, 
+    "score": 15.832822806586384, 
+    "name": "pork ribs"
+  }, 
+  {
+    "freq": 80, 
+    "score": 16.534365769178493, 
+    "name": "fruits"
+  }, 
+  {
+    "freq": 80, 
+    "score": 17.5114653106947, 
+    "name": "red chili"
+  }, 
+  {
+    "freq": 82, 
+    "score": 11.147529715123238, 
+    "name": "mandalay bay"
+  }, 
+  {
+    "freq": 85, 
+    "score": 16.06049523151165, 
+    "name": "red pepper"
+  }, 
+  {
+    "freq": 88, 
+    "score": 15.241847846786092, 
+    "name": "chop suey"
+  }, 
+  {
+    "freq": 88, 
+    "score": 15.83029369901417, 
+    "name": "fried fish"
+  }, 
+  {
+    "freq": 88, 
+    "score": 14.383660039810797, 
+    "name": "fish sauce"
+  }, 
+  {
+    "freq": 89, 
+    "score": 16.249312698414847, 
+    "name": "mapo tofu"
+  }, 
+  {
+    "freq": 90, 
+    "score": 16.6454443773535, 
+    "name": "pere"
+  }, 
+  {
+    "freq": 91, 
+    "score": 16.856735647774656, 
+    "name": "green pepper"
+  }, 
+  {
+    "freq": 91, 
+    "score": 16.956707163933903, 
+    "name": "chicken rice"
+  }, 
+  {
+    "freq": 92, 
+    "score": 15.019386502312381, 
+    "name": "california roll"
+  }, 
+  {
+    "freq": 93, 
+    "score": 17.75054705631071, 
+    "name": "fish ball"
+  }, 
+  {
+    "freq": 93, 
+    "score": 17.233187105162084, 
+    "name": "hoisin sauce"
+  }, 
+  {
+    "freq": 95, 
+    "score": 18.327975469863116, 
+    "name": "gluten free"
+  }, 
+  {
+    "freq": 95, 
+    "score": 17.544743605865214, 
+    "name": "chili pepper"
+  }, 
+  {
+    "freq": 96, 
+    "score": 16.500922568750195, 
+    "name": "pepper steak"
+  }, 
+  {
+    "freq": 98, 
+    "score": 15.165956097305195, 
+    "name": "mele"
+  }, 
+  {
+    "freq": 98, 
+    "score": 18.345132324768095, 
+    "name": "with black bean sauce"
+  }, 
+  {
+    "freq": 100, 
+    "score": 15.979234477665436, 
+    "name": "char siu"
+  }, 
+  {
+    "freq": 102, 
+    "score": 19.330211146030923, 
+    "name": "kobe beef"
+  }, 
+  {
+    "freq": 104, 
+    "score": 17.366284923053552, 
+    "name": "bell peppers"
+  }, 
+  {
+    "freq": 105, 
+    "score": 16.550969294012283, 
+    "name": "meatball"
+  }, 
+  {
+    "freq": 107, 
+    "score": 13.673315495944435, 
+    "name": "guacamole"
+  }, 
+  {
+    "freq": 110, 
+    "score": 16.16421171659215, 
+    "name": "standard chinese"
+  }, 
+  {
+    "freq": 111, 
+    "score": 15.409119930244126, 
+    "name": "language barrier"
+  }, 
+  {
+    "freq": 111, 
+    "score": 17.519743543267886, 
+    "name": "fried egg"
+  }, 
+  {
+    "freq": 112, 
+    "score": 17.723952425077062, 
+    "name": "asparagus"
+  }, 
+  {
+    "freq": 114, 
+    "score": 18.46151067008227, 
+    "name": "rice cake"
+  }, 
+  {
+    "freq": 114, 
+    "score": 20.962904480415972, 
+    "name": "condensed milk"
+  }, 
+  {
+    "freq": 117, 
+    "score": 16.45540493656273, 
+    "name": "miso soup"
+  }, 
+  {
+    "freq": 121, 
+    "score": 6.654597244844511, 
+    "name": "food poisoning"
+  }, 
+  {
+    "freq": 121, 
+    "score": 19.27021399352157, 
+    "name": "xo sauce"
+  }, 
+  {
+    "freq": 124, 
+    "score": 18.332264221630325, 
+    "name": "los angeles"
+  }, 
+  {
+    "freq": 125, 
+    "score": 21.07126039845419, 
+    "name": "shaved ice"
+  }, 
+  {
+    "freq": 126, 
+    "score": 16.378626825275465, 
+    "name": "pears"
+  }, 
+  {
+    "freq": 128, 
+    "score": 17.61681996581106, 
+    "name": "gold coast"
+  }, 
+  {
+    "freq": 128, 
+    "score": 19.285943232451054, 
+    "name": "mint"
+  }, 
+  {
+    "freq": 128, 
+    "score": 18.157386055716508, 
+    "name": "mu shu"
+  }, 
+  {
+    "freq": 133, 
+    "score": 18.017053549819423, 
+    "name": "great wall"
+  }, 
+  {
+    "freq": 134, 
+    "score": 19.12089017253138, 
+    "name": "jade chicken"
+  }, 
+  {
+    "freq": 135, 
+    "score": 18.059196129255067, 
+    "name": "peanut sauce"
+  }, 
+  {
+    "freq": 137, 
+    "score": 13.361404763576807, 
+    "name": "food court"
+  }, 
+  {
+    "freq": 138, 
+    "score": 17.075305692358405, 
+    "name": "salsa"
+  }, 
+  {
+    "freq": 152, 
+    "score": 18.515114023451012, 
+    "name": "bean curd"
+  }, 
+  {
+    "freq": 152, 
+    "score": 18.948398919785898, 
+    "name": "pita"
+  }, 
+  {
+    "freq": 154, 
+    "score": 19.663196703660727, 
+    "name": "bacon"
+  }, 
+  {
+    "freq": 155, 
+    "score": 16.542631747886414, 
+    "name": "fish tank"
+  }, 
+  {
+    "freq": 162, 
+    "score": 18.746312434299565, 
+    "name": "oyster sauce"
+  }, 
+  {
+    "freq": 162, 
+    "score": 19.469445211972516, 
+    "name": "tom yum"
+  }, 
+  {
+    "freq": 163, 
+    "score": 20.879967044967596, 
+    "name": "filet"
+  }, 
+  {
+    "freq": 168, 
+    "score": 19.541059266672285, 
+    "name": "potatoes"
+  }, 
+  {
+    "freq": 169, 
+    "score": 18.848380263974462, 
+    "name": "bell pepper"
+  }, 
+  {
+    "freq": 170, 
+    "score": 19.757988830973837, 
+    "name": "vermicelli"
+  }, 
+  {
+    "freq": 173, 
+    "score": 18.026629122430254, 
+    "name": "americanized chinese food"
+  }, 
+  {
+    "freq": 174, 
+    "score": 20.489621380138583, 
+    "name": "comfort food"
+  }, 
+  {
+    "freq": 176, 
+    "score": 18.897333091464454, 
+    "name": "tripe"
+  }, 
+  {
+    "freq": 177, 
+    "score": 17.41378221949119, 
+    "name": "dimsum"
+  }, 
+  {
+    "freq": 177, 
+    "score": 18.956328618155357, 
+    "name": "sushi rolls"
+  }, 
+  {
+    "freq": 178, 
+    "score": 17.697600690951408, 
+    "name": "hot sauce"
+  }, 
+  {
+    "freq": 179, 
+    "score": 18.98500354088894, 
+    "name": "brown sauce"
+  }, 
+  {
+    "freq": 181, 
+    "score": 17.782892246482692, 
+    "name": "riso"
+  }, 
+  {
+    "freq": 181, 
+    "score": 19.852731893465304, 
+    "name": "spinach"
+  }, 
+  {
+    "freq": 182, 
+    "score": 19.710309862718436, 
+    "name": "green onions"
+  }, 
+  {
+    "freq": 187, 
+    "score": 21.092355651212394, 
+    "name": "short rib"
+  }, 
+  {
+    "freq": 192, 
+    "score": 19.59898415178371, 
+    "name": "bay area"
+  }, 
+  {
+    "freq": 194, 
+    "score": 22.36142405390922, 
+    "name": "sushi samba"
+  }, 
+  {
+    "freq": 203, 
+    "score": 19.051726571354006, 
+    "name": "spare ribs"
+  }, 
+  {
+    "freq": 205, 
+    "score": 17.01450109841424, 
+    "name": "mexican food"
+  }, 
+  {
+    "freq": 206, 
+    "score": 19.71725314338409, 
+    "name": "burrito"
+  }, 
+  {
+    "freq": 212, 
+    "score": 19.205781194444672, 
+    "name": "main course"
+  }, 
+  {
+    "freq": 213, 
+    "score": 19.853276733650056, 
+    "name": "black pepper"
+  }, 
+  {
+    "freq": 216, 
+    "score": 18.416710019466354, 
+    "name": "cashew chicken"
+  }, 
+  {
+    "freq": 220, 
+    "score": 19.197080611220763, 
+    "name": "wonton noodle"
+  }, 
+  {
+    "freq": 222, 
+    "score": 17.992340395401445, 
+    "name": "sweet and sour sauce"
+  }, 
+  {
+    "freq": 224, 
+    "score": 20.450448070392554, 
+    "name": "congee"
+  }, 
+  {
+    "freq": 229, 
+    "score": 16.1367338543715, 
+    "name": "credit card"
+  }, 
+  {
+    "freq": 229, 
+    "score": 20.363026901296347, 
+    "name": "stir fried"
+  }, 
+  {
+    "freq": 234, 
+    "score": 21.027433031681696, 
+    "name": "sticky rice"
+  }, 
+  {
+    "freq": 235, 
+    "score": 21.36699149385226, 
+    "name": "pork chops"
+  }, 
+  {
+    "freq": 238, 
+    "score": 20.54105729730778, 
+    "name": "asian cuisine"
+  }, 
+  {
+    "freq": 250, 
+    "score": 21.657235083263657, 
+    "name": "green tea"
+  }, 
+  {
+    "freq": 251, 
+    "score": 20.05092835080851, 
+    "name": "sage"
+  }, 
+  {
+    "freq": 253, 
+    "score": 21.495069906841408, 
+    "name": "chinese cuisine"
+  }, 
+  {
+    "freq": 254, 
+    "score": 19.638118030811796, 
+    "name": "egg foo young"
+  }, 
+  {
+    "freq": 255, 
+    "score": 21.38747251865397, 
+    "name": "black beans"
+  }, 
+  {
+    "freq": 256, 
+    "score": 20.873511089958182, 
+    "name": "san francisco"
+  }, 
+  {
+    "freq": 256, 
+    "score": 21.37825872510001, 
+    "name": "bok choy"
+  }, 
+  {
+    "freq": 257, 
+    "score": 18.20927772719311, 
+    "name": "pizza"
+  }, 
+  {
+    "freq": 257, 
+    "score": 21.43184788252609, 
+    "name": "chili sauce"
+  }, 
+  {
+    "freq": 258, 
+    "score": 18.684322364707167, 
+    "name": "steamed rice"
+  }, 
+  {
+    "freq": 260, 
+    "score": 23.180247192543966, 
+    "name": "roti"
+  }, 
+  {
+    "freq": 262, 
+    "score": 20.323474783011726, 
+    "name": "sweet and sour pork"
+  }, 
+  {
+    "freq": 267, 
+    "score": 21.582412107563414, 
+    "name": "honey walnut"
+  }, 
+  {
+    "freq": 268, 
+    "score": 22.523225166913207, 
+    "name": "peking duck"
+  }, 
+  {
+    "freq": 273, 
+    "score": 20.871104816631803, 
+    "name": "beef chow fun"
+  }, 
+  {
+    "freq": 280, 
+    "score": 20.02242391465628, 
+    "name": "stir fry"
+  }, 
+  {
+    "freq": 282, 
+    "score": 22.130773926573905, 
+    "name": "basil"
+  }, 
+  {
+    "freq": 282, 
+    "score": 21.245065188126173, 
+    "name": "chile"
+  }, 
+  {
+    "freq": 286, 
+    "score": 20.72207301568017, 
+    "name": "iced tea"
+  }, 
+  {
+    "freq": 295, 
+    "score": 20.13986300094098, 
+    "name": "salmon"
+  }, 
+  {
+    "freq": 300, 
+    "score": 22.350080245186515, 
+    "name": "squid"
+  }, 
+  {
+    "freq": 305, 
+    "score": 21.91388200324816, 
+    "name": "garlic sauce"
+  }, 
+  {
+    "freq": 309, 
+    "score": 20.1835032213607, 
+    "name": "sandwich"
+  }, 
+  {
+    "freq": 310, 
+    "score": 19.228606140487592, 
+    "name": "dried"
+  }, 
+  {
+    "freq": 311, 
+    "score": 20.745297428767866, 
+    "name": "general tso's chicken"
+  }, 
+  {
+    "freq": 314, 
+    "score": 18.876748322920974, 
+    "name": "cream cheese"
+  }, 
+  {
+    "freq": 315, 
+    "score": 20.448535877571263, 
+    "name": "peas"
+  }, 
+  {
+    "freq": 316, 
+    "score": 18.669426427769032, 
+    "name": "fortune cookie"
+  }, 
+  {
+    "freq": 320, 
+    "score": 21.782535851813286, 
+    "name": "rice noodles"
+  }, 
+  {
+    "freq": 328, 
+    "score": 20.154473542434133, 
+    "name": "ada"
+  }, 
+  {
+    "freq": 336, 
+    "score": 22.48642443257826, 
+    "name": "dipping sauce"
+  }, 
+  {
+    "freq": 338, 
+    "score": 22.084458107694875, 
+    "name": "pici"
+  }, 
+  {
+    "freq": 347, 
+    "score": 22.367085153359852, 
+    "name": "menta"
+  }, 
+  {
+    "freq": 362, 
+    "score": 22.958924016669005, 
+    "name": "hot pot"
+  }, 
+  {
+    "freq": 366, 
+    "score": 23.220878140448907, 
+    "name": "green beans"
+  }, 
+  {
+    "freq": 373, 
+    "score": 24.356801097490838, 
+    "name": "sea bass"
+  }, 
+  {
+    "freq": 381, 
+    "score": 23.978387830906257, 
+    "name": "cucumber"
+  }, 
+  {
+    "freq": 386, 
+    "score": 22.10264181967115, 
+    "name": "chicken wings"
+  }, 
+  {
+    "freq": 395, 
+    "score": 21.59077644108391, 
+    "name": "chicken fried"
+  }, 
+  {
+    "freq": 398, 
+    "score": 22.536384033036857, 
+    "name": "green onion"
+  }, 
+  {
+    "freq": 402, 
+    "score": 24.531529131563648, 
+    "name": "pork belly"
+  }, 
+  {
+    "freq": 404, 
+    "score": 21.779439629869792, 
+    "name": "calamari"
+  }, 
+  {
+    "freq": 406, 
+    "score": 21.211110544612357, 
+    "name": "fried chicken"
+  }, 
+  {
+    "freq": 409, 
+    "score": 23.62344378041554, 
+    "name": "lamb"
+  }, 
+  {
+    "freq": 415, 
+    "score": 24.034621439068633, 
+    "name": "green bean"
+  }, 
+  {
+    "freq": 417, 
+    "score": 22.91774789236995, 
+    "name": "pork chop"
+  }, 
+  {
+    "freq": 443, 
+    "score": 21.414715192270464, 
+    "name": "deep fried"
+  }, 
+  {
+    "freq": 448, 
+    "score": 23.32832062429676, 
+    "name": "strip mall"
+  }, 
+  {
+    "freq": 481, 
+    "score": 23.394146524433058, 
+    "name": "ice cream"
+  }, 
+  {
+    "freq": 483, 
+    "score": 22.079580626067074, 
+    "name": "brown rice"
+  }, 
+  {
+    "freq": 488, 
+    "score": 21.647286772646773, 
+    "name": "chinese buffet"
+  }, 
+  {
+    "freq": 490, 
+    "score": 22.749048936303627, 
+    "name": "rice noodle"
+  }, 
+  {
+    "freq": 527, 
+    "score": 24.04859149285475, 
+    "name": "salt and pepper"
+  }, 
+  {
+    "freq": 540, 
+    "score": 21.997904666530562, 
+    "name": "sesame chicken"
+  }, 
+  {
+    "freq": 581, 
+    "score": 21.254036898638308, 
+    "name": "white rice"
+  }, 
+  {
+    "freq": 592, 
+    "score": 22.37716636328386, 
+    "name": "won ton"
+  }, 
+  {
+    "freq": 612, 
+    "score": 24.200338834784425, 
+    "name": "mushrooms"
+  }, 
+  {
+    "freq": 623, 
+    "score": 23.03697959437057, 
+    "name": "steak"
+  }, 
+  {
+    "freq": 624, 
+    "score": 23.606474738865565, 
+    "name": "lobster"
+  }, 
+  {
+    "freq": 631, 
+    "score": 24.787803252258815, 
+    "name": "black bean"
+  }, 
+  {
+    "freq": 641, 
+    "score": 22.929560861210167, 
+    "name": "dal"
+  }, 
+  {
+    "freq": 643, 
+    "score": 23.48615266853279, 
+    "name": "nuts"
+  }, 
+  {
+    "freq": 652, 
+    "score": 22.762585012202337, 
+    "name": "fast food"
+  }, 
+  {
+    "freq": 652, 
+    "score": 23.23795250972468, 
+    "name": "kung pao chicken"
+  }, 
+  {
+    "freq": 674, 
+    "score": 21.04405322740715, 
+    "name": "gur"
+  }, 
+  {
+    "freq": 676, 
+    "score": 24.940909618104243, 
+    "name": "hong kong"
+  }, 
+  {
+    "freq": 690, 
+    "score": 23.539844093474404, 
+    "name": "wonton soup"
+  }, 
+  {
+    "freq": 709, 
+    "score": 24.288246268455943, 
+    "name": "lemon"
+  }, 
+  {
+    "freq": 714, 
+    "score": 20.86872488894477, 
+    "name": "soy sauce"
+  }, 
+  {
+    "freq": 718, 
+    "score": 22.16453283579918, 
+    "name": "pf chang"
+  }, 
+  {
+    "freq": 719, 
+    "score": 23.188945664203704, 
+    "name": "cookie"
+  }, 
+  {
+    "freq": 744, 
+    "score": 23.558644711011944, 
+    "name": "cheese"
+  }, 
+  {
+    "freq": 755, 
+    "score": 23.162778619705875, 
+    "name": "the orange chicken"
+  }, 
+  {
+    "freq": 790, 
+    "score": 23.35654288718679, 
+    "name": "lo mein"
+  }, 
+  {
+    "freq": 792, 
+    "score": 25.390016187201386, 
+    "name": "honey"
+  }, 
+  {
+    "freq": 798, 
+    "score": 23.47927579589277, 
+    "name": "asino"
+  }, 
+  {
+    "freq": 825, 
+    "score": 23.598547112464303, 
+    "name": "hot and sour soup"
+  }, 
+  {
+    "freq": 876, 
+    "score": 21.98569376547635, 
+    "name": "toma"
+  }, 
+  {
+    "freq": 945, 
+    "score": 25.609487085993475, 
+    "name": "mushroom"
+  }, 
+  {
+    "freq": 970, 
+    "score": 23.494371961418736, 
+    "name": "chow mein"
+  }, 
+  {
+    "freq": 1008, 
+    "score": 25.023937241993288, 
+    "name": "spring roll"
+  }, 
+  {
+    "freq": 1032, 
+    "score": 26.825975373115693, 
+    "name": "beans"
+  }, 
+  {
+    "freq": 1073, 
+    "score": 26.242028652342725, 
+    "name": "bra"
+  }, 
+  {
+    "freq": 1093, 
+    "score": 25.653130212915524, 
+    "name": "onion"
+  }, 
+  {
+    "freq": 1144, 
+    "score": 21.221653511299742, 
+    "name": "panda express"
+  }, 
+  {
+    "freq": 1176, 
+    "score": 25.69775026334318, 
+    "name": "mongolian beef"
+  }, 
+  {
+    "freq": 1227, 
+    "score": 26.189851295473225, 
+    "name": "noodle soup"
+  }, 
+  {
+    "freq": 1230, 
+    "score": 23.087170517245447, 
+    "name": "tuna"
+  }, 
+  {
+    "freq": 1351, 
+    "score": 27.79950762597998, 
+    "name": "garlic"
+  }, 
+  {
+    "freq": 1370, 
+    "score": 25.628968743239675, 
+    "name": "broccoli"
+  }, 
+  {
+    "freq": 1404, 
+    "score": 26.357388249571514, 
+    "name": "seafood"
+  }, 
+  {
+    "freq": 1691, 
+    "score": 26.51644480953423, 
+    "name": "orange chicken"
+  }, 
+  {
+    "freq": 1703, 
+    "score": 27.37644328058226, 
+    "name": "dumplings"
+  }, 
+  {
+    "freq": 1890, 
+    "score": 27.382557378698838, 
+    "name": "wonton"
+  }, 
+  {
+    "freq": 1959, 
+    "score": 26.066596075386695, 
+    "name": "egg roll"
+  }, 
+  {
+    "freq": 2157, 
+    "score": 25.41263039807985, 
+    "name": "buffet"
+  }, 
+  {
+    "freq": 2389, 
+    "score": 27.286788713697355, 
+    "name": "dim sum"
+  }, 
+  {
+    "freq": 2456, 
+    "score": 28.810991874087836, 
+    "name": "asti"
+  }, 
+  {
+    "freq": 2478, 
+    "score": 26.897134664392627, 
+    "name": "salt"
+  }, 
+  {
+    "freq": 3362, 
+    "score": 28.847158479054254, 
+    "name": "meat"
+  }, 
+  {
+    "freq": 3975, 
+    "score": 30.164283065030396, 
+    "name": "oca"
+  }, 
+  {
+    "freq": 4290, 
+    "score": 29.812024819334283, 
+    "name": "fried rice"
+  }, 
+  {
+    "freq": 4715, 
+    "score": 30.903365571876865, 
+    "name": "shrimp"
+  }, 
+  {
+    "freq": 5138, 
+    "score": 31.510269671500406, 
+    "name": "pork"
+  }, 
+  {
+    "freq": 5542, 
+    "score": 31.07747820996084, 
+    "name": "chinese food"
+  }, 
+  {
+    "freq": 6268, 
+    "score": 32.168945181678104, 
+    "name": "beef"
+  }, 
+  {
+    "freq": 11156, 
+    "score": 33.30792403003227, 
+    "name": "chicken"
+  }, 
+  {
+    "freq": 15613, 
+    "score": 34.084165738263636, 
+    "name": "rice"
+  }
+]
